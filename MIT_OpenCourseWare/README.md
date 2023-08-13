@@ -14,6 +14,9 @@ https://youtu.be/UcWsDwg1XwM
 - Lecture 1: Algorithmic Thinking, Peak Finding
   - https://youtu.be/HtSuA80QTyo
 
+- 3. Sets and Sorting
+  - https://youtu.be/oS9aPzUNG-s
+
 <hr>
 
 
