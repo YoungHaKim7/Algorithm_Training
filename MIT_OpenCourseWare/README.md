@@ -24,3 +24,7 @@ https://youtu.be/UcWsDwg1XwM
 # MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention 
 
 https://youtu.be/ySEx_Bqxvvo
+
+# 1. The Geometry of Linear Equations
+
+https://youtu.be/J7DzL2_Na80

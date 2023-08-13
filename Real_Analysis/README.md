@@ -1,4 +1,4 @@
-# 수학의지도
+# 수학의 지도
 
 https://youtu.be/OmJ-4B-mS-Y
 
