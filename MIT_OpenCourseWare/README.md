@@ -11,6 +11,8 @@ https://youtu.be/UcWsDwg1XwM
 
   - https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
 
+- Lecture 1: Algorithmic Thinking, Peak Finding
+  - https://youtu.be/HtSuA80QTyo
 
 <hr>
 
