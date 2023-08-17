@@ -68,6 +68,13 @@ https://dev.to/deciduously/big-o-cheat-sheet-3i7d
 
 ## Big-O Cheat Sheet(그림으로 이쁘게) https://dev.to/deciduously/big-o-cheat-sheet-3i7d
 
+<hr>
+
+# C언어 자료 구조 만들기
+https://youtu.be/1PFFgRcZLAk
+
+<hr>
+
 # 유료) 그림으로 알고리즘 이랑 코드 비교해서 알려줌 최고
 
 https://log2base2.com/
