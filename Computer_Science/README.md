@@ -4,6 +4,13 @@
 - https://youtu.be/p9j90IBDuWg?si=PaKcfRRH9AlklEAl
   - 2의 보수 (어진 이진수의 모든 자리의 숫자를 반전(0을 1로, 1을 0으로)시킨 뒤 여기에 1을 더하면 2의 보수를 얻을 수 있다. )
     - https://ko.wikipedia.org/wiki/2%EC%9D%98_%EB%B3%B4%EC%88%98
+      - 음수 데이터의 비트 표현법(2의보수) https://youtu.be/RAwo1i0_Ycg?si=wFfZnrIs__SUKX6t
+  - 1의 보수 (2진수에서 반전 시키면 됨. xor게이트 활용함) 1의 보수 완전 정복 one's complement
+    - https://youtu.be/MlxJPWBdV0Q?si=Uo4vvuuf6brn0xwB
+ 
+<hr>
+
+<br>
 
 # 수학의지도 | Domain of Science
 
