@@ -2,6 +2,14 @@
 
 <img align="center" alt="algorithm" width="180px" src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/0dbe2ef1-78c3-458b-9893-4abaed1d8080">
 
+<hr>
+
+# Algorithms part 1 complete(12hr)
+
+https://youtu.be/9diDWV-fOnE?si=r1YlAfOcIz0w5z_i
+
+<hr>
+
 # Big Picture of Calculus | MIT OpenCourseWare
 
 https://youtu.be/UcWsDwg1XwM
