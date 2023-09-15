@@ -4,9 +4,24 @@
 
 <hr>
 
-# Algorithms part 1 complete(12hr)
+# Amazon관련책 Algorithms 4th Edition, Kindle Edition
+https://www.amazon.com/Algorithms-Algorithms_4-Robert-Sedgewick-ebook/dp/B004P8J1NA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
 
-https://youtu.be/9diDWV-fOnE?si=r1YlAfOcIz0w5z_i
+# Algorithms & Algorithms design and analysis
+- part 1 complete(12hr)
+  - https://youtu.be/9diDWV-fOnE?si=r1YlAfOcIz0w5z_i
+- Algorithms part 2 (1/2)
+  - https://youtu.be/0qF7tPSQdCg?si=YuLJeuBTfgz_RWM9
+- Algorithms part 2 (2/2)
+  - https://youtu.be/6TW3JSVEJQE?si=sPBO7A70DYQcbhz9
+    - Algorithms design and analysis part 1(1/2)
+      - https://youtu.be/NqKkxQamroo?si=P5qxYCsWJ2hZEOqA
+    - Algorithms design and analysis part 1(2/2)
+      - https://youtu.be/ahvrc4tZbTE?si=RRO0j71_Pskv24rn
+    - Algorithms design and analysis part 2(1/2)
+      - https://youtu.be/nUIbHblMop4?si=2UHh66W__YNTWpKd
+    - Algorithms design and analysis part 2(2/2)
+      - https://youtu.be/M5JzG8oDicA?si=8bEI94JHkkcOAUA7
 
 <hr>
 
