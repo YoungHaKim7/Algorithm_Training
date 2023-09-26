@@ -8,6 +8,9 @@ https://github.com/YoungHaKim7/Java_Lang
  
 https://youtu.be/oFkDldu3C_4?si=9-OBGChj5ASnq5I0
 
+# How to run JUnit test cases from the command line
+
+https://stackoverflow.com/questions/2235276/how-to-run-junit-test-cases-from-the-command-line
 
 <hr>
 
