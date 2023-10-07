@@ -168,3 +168,9 @@ https://www.mathjax.org/
 <hr>
 
 <hr>
+
+# 무작위 속 질서, 중심극한정리 | 확률과 통계 | 3Blue1Brown 한국어
+
+https://youtu.be/SoKjCUcDBf0?si=wcx9mPCZf_MYG9_9
+
+
