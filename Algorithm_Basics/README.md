@@ -71,3 +71,8 @@ https://youtu.be/BGeOwlIGRGI?si=B6dz6TQirbqXBfqm
 # 세상에서 가장 미스테리한 현상... 프랙탈 | 1분과학
 
 https://youtu.be/qvWA0amNoHk?si=Ca3HUCczO00aR-QD
+
+# The Most Important (and Surprising) Result in Information Theory | Mutual Information
+
+https://youtu.be/q-Bbxvxpqvw?si=tDEKeWB7fGYEQXI5
+
