@@ -15,3 +15,19 @@
 # 수학의지도 | Domain of Science
 
 https://youtu.be/OmJ-4B-mS-Y?si=x-RxcTnWDl0tWsYJ
+
+
+<hr>
+
+# Onur Mutlu Lectures 좋은거 많다.
+
+# Digital Design & Computer Architecture: Lecture 1: Introduction and Basics (ETH Zürich, Spring 2020)
+
+- Digital Design & Computer Architecture: Lecture 1: Introduction and Basics (ETH Zürich, Spring 2020)
+  - https://youtu.be/AJBmIaUneB0?si=mq4LDuzLeG-6tEhD
+  - 
+- Digital Design & Computer Architecture - Lecture 4: Combinational Logic I (ETH Zürich, Spring 2021)
+  - https://youtu.be/MAaxrTnEvWI?si=0FdiqHOycbKUBJUD
+ 
+# HetSys Course: Lecture 7: Parallel Patterns: Histogram (Spring 2022) | Onur Mutlu Lectures
+https://youtu.be/j_byMYEI-1Q?si=IOEYXzvXlGDMUppE
