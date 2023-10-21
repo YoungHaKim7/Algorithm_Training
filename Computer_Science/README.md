@@ -31,3 +31,8 @@ https://youtu.be/OmJ-4B-mS-Y?si=x-RxcTnWDl0tWsYJ
  
 # HetSys Course: Lecture 7: Parallel Patterns: Histogram (Spring 2022) | Onur Mutlu Lectures
 https://youtu.be/j_byMYEI-1Q?si=IOEYXzvXlGDMUppE
+
+<hr>
+
+# Computer Architecture - Lecture 8: Data Retention and Memory Refresh (Fall 2023)
+https://www.youtube.com/live/XKNU0A2GAnM?si=FLB7qzaieh-4zEMR
