@@ -36,3 +36,6 @@ https://youtu.be/j_byMYEI-1Q?si=IOEYXzvXlGDMUppE
 
 # Computer Architecture - Lecture 8: Data Retention and Memory Refresh (Fall 2023)
 https://www.youtube.com/live/XKNU0A2GAnM?si=FLB7qzaieh-4zEMR
+
+# Registers, RAM, and ROM Explained 🖥️💾🔍 | Computer Science #coding #programming #softwareengineering 
+https://youtube.com/shorts/eG4KVGsbMXM?si=GKluGMzVzrobsz2O
