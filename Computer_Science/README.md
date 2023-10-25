@@ -1,3 +1,9 @@
+# Harvard CS50 (2023) – Full Computer Science University Course | freeCodeCamp.org
+
+https://youtu.be/LfaMVlDaQ24?si=PI_6N2vHgvEfQUs_
+
+<hr>
+
 # 2진수 연산 (+ - * /)
 - 수치데이터의 표현 원리
 - 2진수의 덧셈+ ,뺄셈- , 곱셈*, 나눗셈/ 연산 처리 원리
