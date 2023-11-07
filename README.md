@@ -64,7 +64,7 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 - 조건문
 - 반복문
 - Procedure문
-- 프로시져 사이 자료 전달 방법
+- 프로시져 사이 자료 전달 방법(process transaction)
 - 입출력문
 - 주석문
 ```
