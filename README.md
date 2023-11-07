@@ -55,6 +55,13 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 
 <hr>
 
+# StructuredProgramming
+- 알고리즘을 기술할 목적으로 만들어진 언어 중 하나가 SPARKS(Structured Programming: A Reasonably Kimplete Set)
+
+http://users.csc.calpoly.edu/~jdalbey/103/Lectures/StructuredProgramming/
+
+<hr>
+
 # Amazon관련책 Algorithms 4th Edition, Kindle Edition
 https://www.amazon.com/Algorithms-Algorithms_4-Robert-Sedgewick-ebook/dp/B004P8J1NA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
 
