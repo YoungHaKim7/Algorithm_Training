@@ -68,6 +68,9 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 - 입출력문
 - 주석문
 ```
+
+https://web.archive.org/web/20180308114549/http://www.hit.ac.il:80/staff/leonidM/information-systems/ch63.html
+
 https://en.wikipedia.org/wiki/Structured_programming
 
 http://users.csc.calpoly.edu/~jdalbey/103/Lectures/StructuredProgramming/
