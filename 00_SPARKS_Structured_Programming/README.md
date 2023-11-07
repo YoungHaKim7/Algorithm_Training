@@ -73,19 +73,20 @@ flowchart TD
     B ---->|No| E[End]
 ```
 
-
+```
 flowchart TD
     A[Start] --> B{Is it?}
     B -->|Yes| C[OK]
     C --> D[Rethink]
     D --> B
     B ---->|No| E[End]
-
+```
 
 
 # Canonical "batch update"structure
 
 ```mermaid
+
 flowchart TB
     Read_masters --OUT<br>IN[0]-->Collate
     Read_details--OUT<br>IN[1]-->Collate
@@ -93,6 +94,7 @@ flowchart TB
     Collate--OUT<br>IN-->Process_merged_stream--OUTSE<br>IN-->Write_new_masters
 
 ```
+
 코드 복붙해서 보면 됨
 https://mermaid.live/
 
