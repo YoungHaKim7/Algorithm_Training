@@ -40,14 +40,14 @@ flowchart TD
     B ---->|No| E[End]
 ```
 
-```
+
 flowchart TD
     A[Start] --> B{Is it?}
     B -->|Yes| C[OK]
     C --> D[Rethink]
     D --> B
     B ---->|No| E[End]
-```
+
 
 
 # Canonical "batch update"structure
@@ -61,15 +61,6 @@ flowchart TB
 
 ```
 
-```
- ```
-flowchart TB
-    Read_masters --OUT<br>IN[0]-->Collate
-    Read_details--OUT<br>IN[1]-->Collate
-    Collate--OUT<br>IN-->Process_merged_stream--OUTM<br>IN-->Summary_and_errors
-    Collate--OUT<br>IN-->Process_merged_stream--OUTSE<br>IN-->Write_new_masters
- ```
-```
 
 https://en.wikipedia.org/wiki/Flow-based_programming
 
