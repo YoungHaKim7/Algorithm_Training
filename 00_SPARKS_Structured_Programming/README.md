@@ -50,17 +50,19 @@ flowchart TD
 # Canonical "batch update"structure
 
 ```mermaid
-flowchart TB
-    c1-->a2
-    subgraph one
-    a1-->a2
-    end
-    subgraph two
-    b1-->b2
-    end
-    subgraph three
-    c1-->c2
-    end
+flowchart TD
+    Read_masters --OUT<br>IN[0]-->Collate
+    Read_details--OUT<br>IN[1]-->Collate
+    Collate--OUT<br>IN-->Process_merged_stream--OUTM<br>IN-->Summary_and_errors
+    Collate--OUT<br>IN-->Process_merged_stream--OUTSE<br>IN-->Write_new_masters
+```
+
+```
+flowchart TD
+    Read_masters --OUT<br>IN[0]-->Collate
+    Read_details--OUT<br>IN[1]-->Collate
+    Collate--OUT<br>IN-->Process_merged_stream--OUTM<br>IN-->Summary_and_errors
+    Collate--OUT<br>IN-->Process_merged_stream--OUTSE<br>IN-->Write_new_masters
 ```
 
 https://en.wikipedia.org/wiki/Flow-based_programming
