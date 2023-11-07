@@ -22,3 +22,29 @@
 - http://users.csc.calpoly.edu/~jdalbey/103/Lectures/StructuredProgramming/
 
 <hr>
+
+# mermaid로 flowchart 만들기
+
+
+https://mermaid.js.org/syntax/flowchart.html
+
+```mermaid
+flowchart TD
+    A[Start] --> B{Is it?}
+    B -->|Yes| C[OK]
+    C --> D[Rethink]
+    D --> B
+    B ---->|No| E[End]
+```
+
+```
+flowchart TD
+    A[Start] --> B{Is it?}
+    B -->|Yes| C[OK]
+    C --> D[Rethink]
+    D --> B
+    B ---->|No| E[End]
+```
+
+
+<hr>
