@@ -25,6 +25,9 @@
 
 # mermaid로 flowchart 만들기
 
+- 3d 모델 만들기
+  - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-mermaid-diagrams
+
 
 https://mermaid.js.org/syntax/flowchart.html
 
@@ -50,7 +53,7 @@ flowchart TD
 # Canonical "batch update"structure
 
 ```mermaid
-flowchart TD
+flowchart TB
     Read_masters --OUT<br>IN[0]-->Collate
     Read_details--OUT<br>IN[1]-->Collate
     Collate--OUT<br>IN-->Process_merged_stream--OUTM<br>IN-->Summary_and_errors
@@ -60,7 +63,7 @@ flowchart TD
 
 ```
  ```
-flowchart TD
+flowchart TB
     Read_masters --OUT<br>IN[0]-->Collate
     Read_details--OUT<br>IN[1]-->Collate
     Collate--OUT<br>IN-->Process_merged_stream--OUTM<br>IN-->Summary_and_errors
