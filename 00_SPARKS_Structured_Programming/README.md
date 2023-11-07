@@ -60,7 +60,8 @@ flowchart TB
     Collate--OUT<br>IN-->Process_merged_stream--OUTSE<br>IN-->Write_new_masters
 
 ```
-
+코드 복붙해서 보면 됨
+https://mermaid.live/
 
 https://en.wikipedia.org/wiki/Flow-based_programming
 
