@@ -55,14 +55,17 @@ flowchart TD
     Read_details--OUT<br>IN[1]-->Collate
     Collate--OUT<br>IN-->Process_merged_stream--OUTM<br>IN-->Summary_and_errors
     Collate--OUT<br>IN-->Process_merged_stream--OUTSE<br>IN-->Write_new_masters
+
 ```
 
 ```
+ ```
 flowchart TD
     Read_masters --OUT<br>IN[0]-->Collate
     Read_details--OUT<br>IN[1]-->Collate
     Collate--OUT<br>IN-->Process_merged_stream--OUTM<br>IN-->Summary_and_errors
     Collate--OUT<br>IN-->Process_merged_stream--OUTSE<br>IN-->Write_new_masters
+ ```
 ```
 
 https://en.wikipedia.org/wiki/Flow-based_programming
