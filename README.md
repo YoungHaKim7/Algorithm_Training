@@ -55,6 +55,15 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 
 <hr>
 
+# 대표적인 알고리즘 정리
+
+1. 정렬(Sort)
+2. 검색(Search)
+3. 문자열 패턴 매칭(SPM: String Pattern Matching)
+4. 계산(Calculation)
+
+<hr>
+
 # StructuredProgramming
 - 알고리즘을 기술할 목적으로 만들어진 언어 중 하나가 SPARKS(Structured Programming: A Reasonably Kimplete Set)
 - 구성
