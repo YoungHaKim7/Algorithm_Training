@@ -4,6 +4,10 @@ https://github.com/YoungHaKim7/Java_Lang
 
 <hr>
 
+# 1차원 2차월 배열 array 자바 코드로 이해하기
+
+https://www.javatpoint.com/arr-length-vs-arr-0-length-vs-arr-1-length-in-java
+
 # Dynamic Programming with Java – Learn to Solve Algorithmic Problems & Coding Challenges | freeCodeCamp.org
  
 https://youtu.be/oFkDldu3C_4?si=9-OBGChj5ASnq5I0
