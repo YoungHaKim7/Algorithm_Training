@@ -9,3 +9,7 @@ https://access.redhat.com/ko/articles/3118571
 # 리눅스 시스템콜 공부(시스템 프로그래밍)
 
 https://man7.org/linux/man-pages/man2/_syscall.2.html
+
+# Process status
+
+https://enlqn1010.tistory.com/30
