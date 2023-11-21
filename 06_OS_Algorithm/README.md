@@ -24,3 +24,13 @@ stateDiagram-v2
     Run --> [*Termination종료_상태]
 
 ```
+
+```
+stateDiagram-v2
+    [*New생성_상태] --> Ready
+    Ready --> Run : Schedule/Dispatch
+    Run --> Ready : Priority/Time<br>quantum<br>타이머 인터럽트
+    Run --> Wait/block : I/O Request
+    Wait/block --> Ready : I/O Completion
+    Run --> [*Termination종료_상태]
+```
