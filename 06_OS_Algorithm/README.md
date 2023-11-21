@@ -26,7 +26,7 @@ stateDiagram-v2
     Wait/block --> Suspend/wait : Suspend
     Suspend/wait --> Wait/block: Resume
     Suspend/wait --> Suspend/ready : Process complted I/O but still in suspend
-    Run --> [*Termination종료_상태]
+    Run --> [*Termination종료_상태] : Completion
 
 ```
 
