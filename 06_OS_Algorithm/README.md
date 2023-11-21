@@ -19,8 +19,13 @@ stateDiagram-v2
     [*New생성_상태] --> Ready
     Ready --> Run : Schedule/Dispatch
     Run --> Ready : Priority/Time<br>quantum<br>타이머 인터럽트
+    Ready --> Suspend/ready : Suspend
+    Suspend/ready --> Ready : Resume
     Run --> Wait/block : I/O Request
     Wait/block --> Ready : I/O Completion
+    Wait/block --> Suspend/wait : Suspend
+    Suspend/wait --> Wait/block: Resume
+    Suspend/wait --> Suspend/ready : Process complted I/O but still in suspend
     Run --> [*Termination종료_상태]
 
 ```
@@ -30,8 +35,19 @@ stateDiagram-v2
     [*New생성_상태] --> Ready
     Ready --> Run : Schedule/Dispatch
     Run --> Ready : Priority/Time<br>quantum<br>타이머 인터럽트
+    Ready --> Suspend/ready : Suspend
+    Suspend/ready --> Ready : Resume
     Run --> Wait/block : I/O Request
     Wait/block --> Ready : I/O Completion
+    Wait/block --> Suspend/wait : Suspend
+    Suspend/wait --> Wait/block: Resume
+    Suspend/wait --> Suspend/ready : Process complted I/O but still in suspend
     Run --> [*Termination종료_상태]
 ```
+
+- 큰 흐름
+
+```mermaid
+```
+
 - https://mermaid.live/edit
