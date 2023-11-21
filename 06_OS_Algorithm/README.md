@@ -42,12 +42,17 @@ stateDiagram-v2
     Wait/block --> Suspend/wait : Suspend
     Suspend/wait --> Wait/block: Resume
     Suspend/wait --> Suspend/ready : Process complted I/O but still in suspend
-    Run --> [*Termination종료_상태]
+    Run --> [*Termination종료_상태] : Completion
 ```
 
 - 큰 흐름
 
 ```mermaid
+stateDiagram-v2
+    [*New생성_상태] --> Ready
+    Ready --> Run : Schedule/Dispatch
+    Run --> Ready : Priority/Time<br>quantum<br>타이머 인터럽트
+    Run --> [*Termination종료_상태] : Completion
 ```
 
 - https://mermaid.live/edit
