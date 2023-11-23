@@ -104,7 +104,7 @@ stateDiagram-v2
 - Preemptive vs Non-Preemptive Cons Pros.
   - https://www.guru99.com/preemptive-vs-non-preemptive-scheduling.html
 
-
+<table>
 <thead>
 <tr>
 <th width="50%">Preemptive Scheduling</th>
@@ -149,3 +149,4 @@ stateDiagram-v2
 <td>Non-preemptive Scheduling has no such overhead of switching the process from running into the ready state.</td>
 </tr>
 </tbody>
+</table>
