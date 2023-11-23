@@ -68,7 +68,7 @@ title: CPU Scheduling
 ---
 stateDiagram-v2
     [*Plull_of_Job_in_Disk] --> Ready_Queue : Long term Scheduler
-    Ready_Queue --> Dispatcher
+    Ready_Queue --> Dispatcher : Short term Scheduler
     Dispatcher --> CPU
     Dispatcher --> Waiting_Queue : Mid-term Scheduler
     Waiting_Queue --> I/O : Mid-term Scheduler
@@ -82,7 +82,7 @@ title: CPU Scheduling
 ---
 stateDiagram-v2
     [*Plull_of_Job_in_Disk] --> Ready_Queue : Long term Scheduler
-    Ready_Queue --> Dispatcher
+    Ready_Queue --> Dispatcher : Short term Scheduler
     Dispatcher --> CPU
     Dispatcher --> Waiting_Queue : Mid-term Scheduler
     Waiting_Queue --> I/O : Mid-term Scheduler
