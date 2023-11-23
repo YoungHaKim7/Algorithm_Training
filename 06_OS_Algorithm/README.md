@@ -142,11 +142,11 @@ stateDiagram-v2
 </tr>
 <tr>
 <td><em><strong>In this process, the CPU is allocated to the processes for a specific time period.</strong></em></td>
-<td>In this process, CPU is allocated to the process until it terminates or switches to the waiting state.</td>
+<td>In this process, CPU is allocated to the process<em><strong> until it terminates or switches to the waiting state.</strong></em></td>
 </tr>
 <tr>
-<td>Preemptive algorithm has the overhead of switching the process from the ready state to the running state and vice-versa.</td>
-<td>Non-preemptive Scheduling has no such overhead of switching the process from running into the ready state.</td>
+<td>Preemptive algorithm has the <em><strong>overhead of switching the process</strong></em> from the ready state to the running state and vice-versa.</td>
+<td>Non-preemptive Scheduling has<em><strong> no such overhead of switching the process</strong></em> from running into the ready state.</td>
 </tr>
 </tbody>
 </table>
