@@ -141,7 +141,7 @@ stateDiagram-v2
 <td>In non-preemptive scheduling process cannot be Scheduled</td>
 </tr>
 <tr>
-<td>In this process, the CPU is allocated to the processes for a specific time period.</td>
+<td><em><strong>In this process, the CPU is allocated to the processes for a specific time period.</strong></em></td>
 <td>In this process, CPU is allocated to the process until it terminates or switches to the waiting state.</td>
 </tr>
 <tr>
