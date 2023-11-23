@@ -104,3 +104,48 @@ stateDiagram-v2
 - Preemptive vs Non-Preemptive Cons Pros.
   - https://www.guru99.com/preemptive-vs-non-preemptive-scheduling.html
 
+
+<thead>
+<tr>
+<th width="50%">Preemptive Scheduling</th>
+<th>Non-preemptive Scheduling</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A processor can be preempted to execute the different processes in the middle of any current process execution.</td>
+<td>Once the processor starts its execution, it must finish it before executing the other. It can’t be paused in the middle.</td>
+</tr>
+<tr>
+<td>CPU utilization is more efficient compared to Non-Preemptive Scheduling.</td>
+<td>CPU utilization is less efficient compared to preemptive Scheduling.</td>
+</tr>
+<tr>
+<td>Waiting and response time of preemptive Scheduling is less.</td>
+<td>Waiting and response time of the non-preemptive Scheduling method is higher.</td>
+</tr>
+<tr>
+<td>Preemptive Scheduling is prioritized. The highest priority process is a process that is currently utilized.</td>
+<td>When any process enters the state of running, the state of that process is never deleted from the scheduler until it finishes its job.</td>
+</tr>
+<tr>
+<td>Preemptive Scheduling is flexible.</td>
+<td>Non-preemptive Scheduling is rigid.</td>
+</tr>
+<tr>
+<td>Examples: – Shortest Remaining Time First, Round Robin, etc.</td>
+<td>Examples: <a href="/fcfs-scheduling.html" data-lasso-id="496827">First Come First Serve</a>, Shortest Job First, Priority Scheduling, etc.</td>
+</tr>
+<tr>
+<td>Preemptive Scheduling algorithm can be pre-empted that is the process can be Scheduled</td>
+<td>In non-preemptive scheduling process cannot be Scheduled</td>
+</tr>
+<tr>
+<td>In this process, the CPU is allocated to the processes for a specific time period.</td>
+<td>In this process, CPU is allocated to the process until it terminates or switches to the waiting state.</td>
+</tr>
+<tr>
+<td>Preemptive algorithm has the overhead of switching the process from the ready state to the running state and vice-versa.</td>
+<td>Non-preemptive Scheduling has no such overhead of switching the process from running into the ready state.</td>
+</tr>
+</tbody>
