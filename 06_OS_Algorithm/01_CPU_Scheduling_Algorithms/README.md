@@ -10,3 +10,7 @@
   - ⑥ Multilevel Queue Scheduling
 
 https://www.guru99.com/cpu-scheduling-algorithms.html
+
+
+- Convoy effect
+  - https://www.geeksforgeeks.org/convoy-effect-operating-systems/
