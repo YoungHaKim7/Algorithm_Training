@@ -3,6 +3,7 @@
 - There are mainly six types of process scheduling algorithms
 
   - ① First Come First Serve (FCFS)
+    - Convoy effect
   - ② Shortest-Job-First (SJF) Scheduling
   - ③ Shortest Remaining Time
   - ④ Priority Scheduling
