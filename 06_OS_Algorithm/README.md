@@ -93,3 +93,11 @@ stateDiagram-v2
 <br>
 
 <hr>
+
+- CPU Scheduling(Preemptive  VS. Non-Preemptive)
+  - Preemptive scheduling (If job does not block or exit, force an involuntary context switch after each quantum Q of CPU time)
+    - https://www.cs.princeton.edu/courses/archive/fall11/cos318/lectures/L7_CPUScheduling.pdf
+  - Non-Preemptive scheduling
+
+- https://www.cs.princeton.edu/courses/archive/fall21/cos318/lectures/8.CPUScheduling.pdf
+
