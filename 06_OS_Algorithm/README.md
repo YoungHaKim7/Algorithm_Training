@@ -101,3 +101,6 @@ stateDiagram-v2
 
 - https://www.cs.princeton.edu/courses/archive/fall21/cos318/lectures/8.CPUScheduling.pdf
 
+- Preemptive vs Non-Preemptive Cons Pros.
+  - https://www.guru99.com/preemptive-vs-non-preemptive-scheduling.html
+
