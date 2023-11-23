@@ -61,3 +61,35 @@ stateDiagram-v2
 
 - https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html
 - https://eun-jeong.tistory.com/17
+
+```mermaid
+---
+title: CPU Scheduling
+---
+stateDiagram-v2
+    [*Plull_of_Job_in_Disk] --> Ready_Queue : Long term Scheduler
+    Ready_Queue --> Dispatcher
+    Dispatcher --> CPU
+    Dispatcher --> Waiting_Queue : Mid-term Scheduler
+    Waiting_Queue --> I/O : Mid-term Scheduler
+    I/O --> Ready_Queue
+    CPU --> [*End]
+```
+
+```
+---
+title: CPU Scheduling
+---
+stateDiagram-v2
+    [*Plull_of_Job_in_Disk] --> Ready_Queue : Long term Scheduler
+    Ready_Queue --> Dispatcher
+    Dispatcher --> CPU
+    Dispatcher --> Waiting_Queue : Mid-term Scheduler
+    Waiting_Queue --> I/O : Mid-term Scheduler
+    I/O --> Ready_Queue
+    CPU --> [*End]
+```
+
+<br>
+
+<hr>
