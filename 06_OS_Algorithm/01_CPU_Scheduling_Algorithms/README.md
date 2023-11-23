@@ -5,6 +5,7 @@
   - ① First Come First Serve (FCFS)
     - Convoy effect
   - ② Shortest-Job-First (SJF) Scheduling
+    - Avoiding Convoy Effect
   - ③ Shortest Remaining Time
   - ④ Priority Scheduling
   - ⑤ Round Robin Scheduling
