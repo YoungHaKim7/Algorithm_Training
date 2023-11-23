@@ -58,4 +58,6 @@ stateDiagram-v2
 - https://mermaid.live/edit
 
 # CPU Scheduling Algorithms 
+
 - https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html
+- https://eun-jeong.tistory.com/17
