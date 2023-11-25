@@ -17,6 +17,10 @@ https://youtu.be/UcWsDwg1XwM
 - 3. Sets and Sorting
   - https://youtu.be/oS9aPzUNG-s
 
+-  6. Binary Trees, Part 1 | MIT OpenCourseWare
+  - https://youtu.be/76dhtgZt38A?si=oPFQ-38FahJWVKOC
+
+
 <hr>
 
 
