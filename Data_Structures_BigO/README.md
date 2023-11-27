@@ -49,6 +49,9 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 # Big-O Cheat Sheet(그림으로 이쁘게)
 
 https://dev.to/deciduously/big-o-cheat-sheet-3i7d
+- Big O Notation - Full Course | freeCodeCamp.org
+  - https://youtu.be/Mo4vesaut8g?si=nAkWivuZir0LBPsn
+
 
 <br>
 
