@@ -16,3 +16,12 @@ https://www.guru99.com/cpu-scheduling-algorithms.html
 
 - Convoy effect
   - https://www.geeksforgeeks.org/convoy-effect-operating-systems/
+
+- Red Black Tree 1 The Rules
+- https://youtu.be/nMExd4DthdA?si=99k3RFC7aYJRR4Ff
+  - Every node is red or black
+  - Root is always black
+  - New insertions are always red
+  - Every Paht form root - leaf ahs the same number of BLACK nodes
+  - No path can have two consecutive RED nodes
+  - Nulls are black
