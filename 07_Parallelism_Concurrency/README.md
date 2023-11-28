@@ -14,6 +14,13 @@ Concurrency                 Concurrency + parallelism
 |___|___                    |   |___
     |th2|                   |   |th2|
 ```
+- Concurrency: If two or more problems are solved by a single processor.
+[concurrency](https://i.stack.imgur.com/OdYWr.gif)
+
+<hr>
+
+- Parallelism: If one problem is solved by multiple processors.
+
 <hr>
 
 
