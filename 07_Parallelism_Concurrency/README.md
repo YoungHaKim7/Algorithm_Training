@@ -45,5 +45,6 @@ Concurrency                 Concurrency + parallelism
     - https://youtu.be/KF8dF1QS8Go?si=UFvrJ0hxJEef8Xzo
 
 <hr>
+
 - 해결책 Race condition / Critical Section / 하드웨어 동기화 / 동기화 기법 / Busy Waiting / 세마포어에서 Busy Waiting 문제 해결
   - https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=07911015&logNo=110186350959
