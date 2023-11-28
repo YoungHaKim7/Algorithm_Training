@@ -30,6 +30,8 @@ Concurrency                 Concurrency + parallelism
 - OS27 - Synchronization | Race Condition | Critical Section | Producer-Consumer Problem | EZCSE
   - https://youtu.be/Pvkl0HD62yc?si=_Vrl9B_YvG6iOP4f
 
+<hr>
+
 - 공유 자원(Shared Resource)
   - 공동의 자원(e.g.  파일, 전역 변수, 입출력장치, ..)
 - 임계 구역(Critical Section)
@@ -42,3 +44,6 @@ Concurrency                 Concurrency + parallelism
   - What is a Race Condition (Computer Programming)? | Eye on Tech
     - https://youtu.be/KF8dF1QS8Go?si=UFvrJ0hxJEef8Xzo
 
+<hr>
+- 해결책 Race condition / Critical Section / 하드웨어 동기화 / 동기화 기법 / Busy Waiting / 세마포어에서 Busy Waiting 문제 해결
+  - https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=07911015&logNo=110186350959
