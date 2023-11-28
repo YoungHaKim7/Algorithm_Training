@@ -5,7 +5,7 @@
 <hr>
 
 
-# 동기화 상식
+# 동기화 상식 & process synchronization : 임계구역 (critical section) & 경쟁상태 (race condition)
 
 https://velog.io/@lovi0714/%EC%9E%84%EA%B3%84-%EC%98%81%EC%97%AD-Critical-Section
 
@@ -15,3 +15,5 @@ https://velog.io/@lovi0714/%EC%9E%84%EA%B3%84-%EC%98%81%EC%97%AD-Critical-Sectio
   - 동시에 접근하면 문제가 발생할 수 있는 공유 자원에 접근하는 코드
 
 - 교착 상태(Dead Lock)
+- 경쟁상태 (race condition)
+  - https://yoongrammer.tistory.com/57
