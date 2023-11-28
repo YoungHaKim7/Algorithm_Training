@@ -44,6 +44,9 @@ Concurrency                 Concurrency + parallelism
   - What is a Race Condition (Computer Programming)? | Eye on Tech
     - https://youtu.be/KF8dF1QS8Go?si=UFvrJ0hxJEef8Xzo
 
+<img src="https://junhyunny.github.io/images/race-condition-1.JPG" />
+- https://junhyunny.github.io/information/operating-system/junit/race-condition/
+
 <hr>
 
 - 해결책 Race condition / Critical Section / 하드웨어 동기화 / 동기화 기법 / Busy Waiting / 세마포어에서 Busy Waiting 문제 해결
