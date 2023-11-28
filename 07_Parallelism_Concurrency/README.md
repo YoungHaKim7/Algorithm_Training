@@ -26,7 +26,9 @@ Concurrency                 Concurrency + parallelism
 
 # 동기화 상식 & process synchronization : 임계구역 (critical section) & 경쟁상태 (race condition)
 
-https://velog.io/@lovi0714/%EC%9E%84%EA%B3%84-%EC%98%81%EC%97%AD-Critical-Section
+- https://velog.io/@lovi0714/%EC%9E%84%EA%B3%84-%EC%98%81%EC%97%AD-Critical-Section
+- OS27 - Synchronization | Race Condition | Critical Section | Producer-Consumer Problem | EZCSE
+  - https://youtu.be/Pvkl0HD62yc?si=_Vrl9B_YvG6iOP4f
 
 - 공유 자원(Shared Resource)
   - 공동의 자원(e.g.  파일, 전역 변수, 입출력장치, ..)
