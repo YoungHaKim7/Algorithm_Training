@@ -45,14 +45,18 @@ Concurrency                 Concurrency + parallelism
     - https://youtu.be/KF8dF1QS8Go?si=UFvrJ0hxJEef8Xzo
 
 <hr>
+
 - 1. 경쟁상태 (race condition)
 <img src="https://junhyunny.github.io/images/race-condition-1.JPG" />
 - https://junhyunny.github.io/information/operating-system/junit/race-condition/
 
 <hr>
+
 - 2. Solve the problem of Critical SectionPermalink
   - 2.1.1. Mutual exclusionPermalink
 <img src="https://junhyunny.github.io/images/race-condition-2.JPG" />
+
+출처 : https://junhyunny.github.io/information/operating-system/junit/race-condition/
 
 <hr>
 
