@@ -20,7 +20,7 @@ Concurrency                 Concurrency + parallelism
 <hr>
 
 - Parallelism: If one problem is solved by multiple processors.
-
+<img src="https://i.stack.imgur.com/RRF1J.gif" />
 <hr>
 
 
