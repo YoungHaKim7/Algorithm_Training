@@ -1,4 +1,4 @@
-# Algorithm_Trainining
+# Algorithm_Training
 
 <p align="center">
     <img align="center" alt="algorithm" width="180px" src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/0dbe2ef1-78c3-458b-9893-4abaed1d8080">
