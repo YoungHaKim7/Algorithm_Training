@@ -1,7 +1,19 @@
 # What is the difference between concurrency and parallelism?
 
 - https://stackoverflow.com/questions/1050222/what-is-the-difference-between-concurrency-and-parallelism
-
+```
+Concurrency                 Concurrency + parallelism
+(Single-Core CPU)           (Multi-Core CPU)
+ ___                         ___ ___
+|th1|                       |th1|th2|
+|   |                       |   |___|
+|___|___                    |   |___
+    |th2|                   |___|th2|
+ ___|___|                    ___|___|
+|th1|                       |th1|
+|___|___                    |   |___
+    |th2|                   |   |th2|
+```
 <hr>
 
 
