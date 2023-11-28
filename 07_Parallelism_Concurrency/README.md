@@ -35,4 +35,5 @@ https://velog.io/@lovi0714/%EC%9E%84%EA%B3%84-%EC%98%81%EC%97%AD-Critical-Sectio
 
 - 교착 상태(Dead Lock)
 - 경쟁상태 (race condition)
+  - https://en.wikipedia.org/wiki/Race_condition
   - https://yoongrammer.tistory.com/57
