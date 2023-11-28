@@ -37,3 +37,6 @@ https://velog.io/@lovi0714/%EC%9E%84%EA%B3%84-%EC%98%81%EC%97%AD-Critical-Sectio
 - 경쟁상태 (race condition)
   - https://en.wikipedia.org/wiki/Race_condition
   - https://yoongrammer.tistory.com/57
+  - What is a Race Condition (Computer Programming)? | Eye on Tech
+    - https://youtu.be/KF8dF1QS8Go?si=UFvrJ0hxJEef8Xzo
+
