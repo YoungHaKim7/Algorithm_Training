@@ -63,5 +63,11 @@ Concurrency                 Concurrency + parallelism
 
 <hr>
 
-- 해결책 Race condition / Critical Section / 하드웨어 동기화 / 동기화 기법 / Busy Waiting / 세마포어에서 Busy Waiting 문제 해결
-  - https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=07911015&logNo=110186350959
+# 해결책 Race condition / Critical Section / 하드웨어 동기화 / 동기화 기법 / Busy Waiting / 세마포어에서 Busy Waiting 문제 해결
+- https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=07911015&logNo=110186350959
+- 상호 배제를 위한 동기화를 위한 세 가지 원칙
+- https://lealea.tistory.com/243
+  - 1. 상호 배제(mutual exclusion)
+    2. 진행(Progress)
+    3. 유한 대기(bounded waiting)
+
