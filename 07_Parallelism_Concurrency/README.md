@@ -26,6 +26,9 @@ Concurrency                 Concurrency + parallelism
 
 # 동기화 상식 & process synchronization : 임계구역 (critical section) & 경쟁상태 (race condition)
 
+- 혼자 공부하는 컴퓨터 구조
+  - https://velog.io/@mmodestaa/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-Section-12.-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94
+
 - https://velog.io/@lovi0714/%EC%9E%84%EA%B3%84-%EC%98%81%EC%97%AD-Critical-Section
 - OS27 - Synchronization | Race Condition | Critical Section | Producer-Consumer Problem | EZCSE
   - https://youtu.be/Pvkl0HD62yc?si=_Vrl9B_YvG6iOP4f
