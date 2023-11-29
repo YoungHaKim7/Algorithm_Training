@@ -77,8 +77,10 @@ Concurrency                 Concurrency + parallelism
  <hr>
  
  - 동기화 기법 중 대표적인 3가지
-   - 뮤텍스 락
-   - 세마포
+   - 뮤텍스 락(Mutex lock)
+     - c++개념 mutex https://en.cppreference.com/w/cpp/thread/mutex
+   - 세마포(semaphore)
+     - https://en.cppreference.com/w/cpp/thread/counting_semaphore
    - 모니터
   
   <hr>
