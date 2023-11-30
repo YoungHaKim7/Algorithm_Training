@@ -114,6 +114,7 @@ Concurrency                 Concurrency + parallelism
 ```
 
 - Condition variables support three operations:
+- https://cseweb.ucsd.edu/classes/sp17/cse120-a/applications/ln/lecture7.html
 
   - wait - add calling thread to the queue and put it to sleep
   - signal - remove a thread form the queue and wake it up
