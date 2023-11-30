@@ -85,3 +85,30 @@ Concurrency                 Concurrency + parallelism
   
   <hr>
 
+- 세마포(semaphore)
+  - https://cseweb.ucsd.edu/classes/sp17/cse120-a/applications/ln/lecture7.html
+
+    - P(x)
+    - V(x) 
+- P(x) was named from the Dutch word proberen, which means to test.
+- V(x) was named from the Dutch word verhogen, which means to increment.
+
+- The pseudo-code below illustrates the semantics of the two semaphore operations. This time the operations are made to be atomic outside of hardware using the hardware support that we discussed earlier -- but more on that soon.
+
+```
+    /* proberen - test *.
+    P(sem)
+    {
+       while (sem <= 0)
+       ;
+       sem = sem - 1;
+    }
+
+
+    /* verhogen - to increment */
+    V(sem)
+    {
+       sem = sem + 1;
+    }
+    
+```
