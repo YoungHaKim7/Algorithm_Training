@@ -120,7 +120,7 @@ Concurrency                 Concurrency + parallelism
   - broadcast - remove and wake-up all threads on the queue
     - Condition Variables - Typical Use
     ```
-      spin_lock s;
+    spin_lock s;
   
     GetLock (condition cv, mutex mx)
     {
