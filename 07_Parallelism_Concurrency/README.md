@@ -112,3 +112,32 @@ Concurrency                 Concurrency + parallelism
     }
     
 ```
+
+- Condition variables support three operations:
+
+  - wait - add calling thread to the queue and put it to sleep
+  - signal - remove a thread form the queue and wake it up
+  - broadcast - remove and wake-up all threads on the queue
+    - Condition Variables - Typical Use
+    ```
+      spin_lock s;
+  
+    GetLock (condition cv, mutex mx)
+    {
+      mutex_acquire (mx);
+      while (LOCKED)
+        wait (c, mx);
+      
+      lock=LOCKED;
+      mutex_release (mx);
+    }
+  
+  
+    ReleaseLock (condition cv, mutex mx)
+    {
+      mutex_acquire (mx);
+        lock = UNLOCKED;
+        signal (cv);
+      mutex_release (mx);
+    }
+    ```
