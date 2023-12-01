@@ -82,6 +82,17 @@ Concurrency                 Concurrency + parallelism
    - 세마포(semaphore)
      - https://en.cppreference.com/w/cpp/thread/counting_semaphore
    - 모니터
+     - 자바에서 활용함. https://docs.oracle.com/javase/tutorial/essential/concurrency/locksync.html
+-  synchronized키워드
+```java
+public void addName(String name) {
+    synchronized(this) {
+        lastName = name;
+        nameCount++;
+    }
+    nameList.add(name);
+}
+```
   
   <hr>
 
