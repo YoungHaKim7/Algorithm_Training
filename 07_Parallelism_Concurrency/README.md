@@ -153,3 +153,6 @@ public void addName(String name) {
       mutex_release (mx);
     }
     ```
+
+# 교착상태를 해결하기 위한 종류 중 하나(Bankers Algorithms)
+  - https://hoyeonkim795.github.io/posts/bankers/
