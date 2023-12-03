@@ -7,6 +7,14 @@
 
 <hr>
 
+# 유료강의
+- fastcampus(현실 세상의 컴퓨터공학 지식 with 30가지 실무 시나리오 초격차 패키지 Online
+  - https://fastcampus.co.kr/dev_online_newcomputer
+
+<hr>
+
+<br>
+
 # 자료 구조
 
 https://github.com/YoungHaKim7/c_project/tree/main/exercise/002stack
