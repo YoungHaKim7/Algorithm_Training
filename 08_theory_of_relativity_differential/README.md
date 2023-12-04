@@ -10,9 +10,11 @@
 # $F = ma $ 기초  
 
 ## $ F = m{dv\over dt}$
+
 ## $ a  = {dx \over dt}$
 
 ## $a = {v(\Delta t)- v(0) \over \Delta t}$
+
 ## 변형한 식 $v(\Delta t) = v(0)+a\Delta t $
 
 - 0초 일때 속도를 알면 미래의 속도가 계산이 가능하다는 뜻
