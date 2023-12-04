@@ -7,11 +7,11 @@
 # 그리스문자 
 - https://datascienceschool.net/02%20mathematics/01.01%20%EA%B7%B8%EB%A6%AC%EC%8A%A4%20%EB%AC%B8%EC%9E%90.html
 
-# $F = ma $ 기초  
+# $F = ma$ 기초  
 
-## $ F = m{dv\over dt}$
+## $F = m{dv\over dt}$
 
-## $ a  = {dx \over dt}$
+## $a  = {dx \over dt}$
 
 ## $a = {v(\Delta t)- v(0) \over \Delta t}$
 
