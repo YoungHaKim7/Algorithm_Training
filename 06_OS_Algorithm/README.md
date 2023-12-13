@@ -167,6 +167,10 @@ stateDiagram-v2
 
 <hr>
 
+# 단편화(Fragmentation)
+
+https://ko.wikipedia.org/wiki/%EB%8B%A8%ED%8E%B8%ED%99%94
+
 # 외부단편화(External Fragmentation)
 https://byjus.com/gate/external-fragmentation-in-os-notes/
 
