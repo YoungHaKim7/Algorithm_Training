@@ -210,3 +210,7 @@ https://en.wikipedia.org/wiki/Page_fault
 
 ## Reference Bit
 - https://courses.engr.illinois.edu/cs241/su2012/lecture/1112-memory-finale.pdf
+
+## Modify Bit & Dirty Bit
+- Dirty Bit
+  - https://en.wikipedia.org/wiki/Dirty_bit
