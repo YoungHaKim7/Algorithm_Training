@@ -165,5 +165,11 @@ stateDiagram-v2
 - 스왑 영역
   - 스왑 아웃된 프로세스가 적재되는 보조기억장치 영역
 
+<hr>
+
 # 외부단편화(External Fragmentation)
 https://byjus.com/gate/external-fragmentation-in-os-notes/
+
+# Difference between Internal and External fragmentation
+
+https://www.geeksforgeeks.org/difference-between-internal-and-external-fragmentation/
