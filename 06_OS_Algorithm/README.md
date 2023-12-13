@@ -181,6 +181,9 @@ https://www.geeksforgeeks.org/difference-between-internal-and-external-fragmenta
 # Page Table
 https://en.wikipedia.org/wiki/Page_table
 
+# Paging의 모든 정보 정리됨
+https://courses.engr.illinois.edu/cs241/su2012/lecture/1112-memory-finale.pdf
+
 # PTBR
 - PTBR(Page Table Base Register)이란 대체 무엇인가?
   - https://m.blog.naver.com/PostView.naver?blogId=qkreorb0321&logNo=110178037547&categoryNo=33&proxyReferer=
@@ -204,3 +207,6 @@ https://en.wikipedia.org/wiki/Page_fault
 
 ## Protection Bit
 - 자료가 많다. 굿 https://movahws.tistory.com/149 
+
+## Reference Bit
+- https://courses.engr.illinois.edu/cs241/su2012/lecture/1112-memory-finale.pdf
