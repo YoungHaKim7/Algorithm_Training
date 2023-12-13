@@ -201,3 +201,6 @@ https://en.wikipedia.org/wiki/Page_table
 ## Page Fault 
 
 https://en.wikipedia.org/wiki/Page_fault
+
+## Protection Bit
+- 자료가 많다. 굿 https://movahws.tistory.com/149 
