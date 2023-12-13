@@ -192,6 +192,9 @@ https://en.wikipedia.org/wiki/Page_table
 
 # Valid Bit
 
+- [운영체제] TLB valid bit vs. Page Table valid bit
+  - https://m.blog.naver.com/xofyd99/221835811942
+
 - Valid Bit and Dirty Bit in page tables
   - https://stackoverflow.com/questions/66979977/valid-bit-and-dirty-bit-in-page-tables
 - 
