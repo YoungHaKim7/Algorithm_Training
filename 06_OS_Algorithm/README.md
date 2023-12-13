@@ -188,3 +188,10 @@ https://en.wikipedia.org/wiki/Page_table
 
 - How page table base register (PTBR) is used to locate the correct frame using Page Number?
   - https://stackoverflow.com/questions/66180810/how-page-table-base-register-ptbr-is-used-to-locate-the-correct-frame-using-pa
+
+
+# Valid Bit
+
+- Valid Bit and Dirty Bit in page tables
+  - https://stackoverflow.com/questions/66979977/valid-bit-and-dirty-bit-in-page-tables
+- 
