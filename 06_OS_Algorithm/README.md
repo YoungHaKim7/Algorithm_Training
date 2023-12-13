@@ -197,4 +197,7 @@ https://en.wikipedia.org/wiki/Page_table
 
 - Valid Bit and Dirty Bit in page tables
   - https://stackoverflow.com/questions/66979977/valid-bit-and-dirty-bit-in-page-tables
-- 
+
+## Page Fault 
+
+https://en.wikipedia.org/wiki/Page_fault
