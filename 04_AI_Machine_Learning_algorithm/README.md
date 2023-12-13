@@ -4,6 +4,14 @@
   - https://youtu.be/2gc3ZnZTY8E?si=7SmEUICSQW2xaKBr
 
 
+<hr>
+
+# Vector Search RAG
+
+- Vector Search RAG Tutorial – Combine Your Data with LLMs with Advanced Search | freeCodeCamp.org
+  - https://youtu.be/JEBDfGqrAUA?si=1E-XUQIiuLUD4Qcr
+
+
 
 <hr>
 
