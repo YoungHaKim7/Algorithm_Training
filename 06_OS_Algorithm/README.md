@@ -173,3 +173,6 @@ https://byjus.com/gate/external-fragmentation-in-os-notes/
 # Difference between Internal and External fragmentation
 
 https://www.geeksforgeeks.org/difference-between-internal-and-external-fragmentation/
+
+# Page Table
+https://en.wikipedia.org/wiki/Page_table
