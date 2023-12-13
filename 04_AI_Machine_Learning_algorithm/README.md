@@ -1,3 +1,12 @@
+# Q* 알고리즘
+
+- AGI 발견 후 OpenAI 연구자들이 이사회에 경고! 내부 소식통이 발견한 Q* 알고리즘은 AGI를 개발했다는데… 대체 어떤 알고리즘일까요?
+  - https://youtu.be/2gc3ZnZTY8E?si=7SmEUICSQW2xaKBr
+
+
+
+<hr>
+
 # Bayesian Optimization - Math and Algorithm Explained | Machine Learning Mastery
 
 https://youtu.be/ECNU4WIuhSE?si=U0ucYd9mTFo5nE_V
@@ -26,3 +35,10 @@ https://youtu.be/Y4ecU7NkiEI?si=GVeM_lB0fxac5uny
 # How AI Discovered a Faster Matrix Multiplication Algorithm | Quanta Magazine
 
 https://youtu.be/fDAPJ7rvcUw?si=0qiRW5ajISao--2B
+
+<hr>
+
+# LLM 관련
+
+- LLM 시각화
+  - https://news.hada.io/topic?id=12147&utm_source=discord&utm_medium=bot&utm_campaign=1480
