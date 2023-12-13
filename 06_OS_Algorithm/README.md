@@ -176,3 +176,11 @@ https://www.geeksforgeeks.org/difference-between-internal-and-external-fragmenta
 
 # Page Table
 https://en.wikipedia.org/wiki/Page_table
+
+# PTBR
+- PTBR(Page Table Base Register)이란 대체 무엇인가?
+  - https://m.blog.naver.com/PostView.naver?blogId=qkreorb0321&logNo=110178037547&categoryNo=33&proxyReferer=
+    -  https://www.answers.com/performing-arts-ec/What_is_a_page_table_base_register
+
+- How page table base register (PTBR) is used to locate the correct frame using Page Number?
+  - https://stackoverflow.com/questions/66180810/how-page-table-base-register-ptbr-is-used-to-locate-the-correct-frame-using-pa
