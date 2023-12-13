@@ -215,8 +215,16 @@ https://en.wikipedia.org/wiki/Page_fault
 - Dirty Bit
   - https://en.wikipedia.org/wiki/Dirty_bit
 
+<hr>
+
 # Thrashing(스레싱)
 
 - https://en.wikipedia.org/wiki/Thrashing_(computer_science)
 
 - https://jwprogramming.tistory.com/56
+
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FVsWVK%2FbtrmKZk8Pwo%2F8zHt8LEjKaQZebHTFGD3f1%2Fimg.png" />
+
+- https://zangzangs.tistory.com/144
+
+<hr>
