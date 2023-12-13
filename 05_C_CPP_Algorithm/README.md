@@ -16,8 +16,8 @@ int matrix[2][3] = { {1, 4, 2}, {3, 6, 8} };
     <tr align="center">
         <td></td>
         <td>Column 0</td>
-        <td>Column 0</td>
-        <td>Column 0</td>
+        <td>Column 1</td>
+        <td>Column 2</td>
     </tr>
     <tr align="center">
         <td>Row 0</td>
