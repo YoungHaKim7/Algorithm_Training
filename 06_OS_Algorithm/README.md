@@ -214,3 +214,9 @@ https://en.wikipedia.org/wiki/Page_fault
 ## Modify Bit & Dirty Bit
 - Dirty Bit
   - https://en.wikipedia.org/wiki/Dirty_bit
+
+# Thrashing(스레싱)
+
+- https://en.wikipedia.org/wiki/Thrashing_(computer_science)
+
+- https://jwprogramming.tistory.com/56
