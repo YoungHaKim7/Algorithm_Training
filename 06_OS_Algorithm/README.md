@@ -164,3 +164,6 @@ stateDiagram-v2
   - 스왑 아웃된 프로세스를 메모리에 적재하는 것
 - 스왑 영역
   - 스왑 아웃된 프로세스가 적재되는 보조기억장치 영역
+
+# 외부단편화(External Fragmentation)
+https://byjus.com/gate/external-fragmentation-in-os-notes/
