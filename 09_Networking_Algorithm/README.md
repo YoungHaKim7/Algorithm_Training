@@ -48,4 +48,26 @@ https://en.wikipedia.org/wiki/Encapsulation_(networking)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/UDP_encapsulation.svg/420px-UDP_encapsulation.svg.png" />
 
+```mermaid
+stateDiagram-v2
+    [Message] --> Application_Layer
+    Application_Layer --> Transport_Layer
+    Transport_Layer --> Network_Layer
+    Network_Layer --> Data_Link_Layer
+    Data_Link_Layer --> Physical_Layer
+    Physical_Layer --> [Message] : Encapsulation
+    Physical_Layer --> Data_Link_Layer
+    Data_Link_Layer --> Network_Layer
+    Network_Layer --> Transport_Layer
+    Transport_Layer --> [Message]
+```
+
+```
+- 응용 계층
+- 전송 계층
+- 네트워크 계층
+- 데이터 링크 계층
+- 물리 계층
+```
+
 - https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
