@@ -21,3 +21,13 @@ https://velog.io/@tjdgus3160/Blocking-vs-Non-Blocking-Sync-vs-Async
 <img src="http://www.ktword.co.kr/img_data/1889_1.jpg" />
 
 http://www.ktword.co.kr/test/view/view.php?m_temp1=1889
+
+<hr>
+
+# OSI Model
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210220204638/cn1.png" />
+
+# TCP/IP Model
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230411110343/tcp.jpg" />
