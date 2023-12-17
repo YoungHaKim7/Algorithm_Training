@@ -9,3 +9,7 @@ https://velog.io/@tjdgus3160/Blocking-vs-Non-Blocking-Sync-vs-Async
 # c#: what is a thread polling?
 
 - https://stackoverflow.com/questions/3849697/c-what-is-a-thread-polling
+
+# UDP Header
+
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99B12B385BD6DC0F03" />
