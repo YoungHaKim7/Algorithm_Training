@@ -25,9 +25,11 @@ http://www.ktword.co.kr/test/view/view.php?m_temp1=1889
 <hr>
 
 # OSI Model
+https://www.geeksforgeeks.org/difference-between-osi-model-and-tcp-ip-model/
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210220204638/cn1.png" />
 
 # TCP/IP Model
+https://www.geeksforgeeks.org/difference-between-osi-model-and-tcp-ip-model/
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230411110343/tcp.jpg" />
