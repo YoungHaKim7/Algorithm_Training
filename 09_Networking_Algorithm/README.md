@@ -13,3 +13,5 @@ https://velog.io/@tjdgus3160/Blocking-vs-Non-Blocking-Sync-vs-Async
 # UDP Header
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99B12B385BD6DC0F03" />
+
+- 자세히 https://joycecoder.tistory.com/20
