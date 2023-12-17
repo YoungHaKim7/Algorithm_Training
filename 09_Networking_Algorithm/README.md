@@ -42,5 +42,10 @@ https://www.geeksforgeeks.org/difference-between-osi-model-and-tcp-ip-model/
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230411110343/tcp.jpg" />
 
-# 캡슐화(Encapsulation (computer programming))
-https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
+# 캡슐화(Encapsulation (computer programming)) & Encapsulation_(networking)
+
+https://en.wikipedia.org/wiki/Encapsulation_(networking)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/UDP_encapsulation.svg/420px-UDP_encapsulation.svg.png" />
+
+- https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
