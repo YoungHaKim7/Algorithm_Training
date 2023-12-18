@@ -98,5 +98,5 @@ https://www.cloudflare.com/learning/network-layer/what-is-the-network-layer/
 | OSI계층 | PDU |
 |-|-|
 | 응용 계층 | 데이터(data) |
-| 표현 계칭 |-|
+| 표현 계칭 |
 
