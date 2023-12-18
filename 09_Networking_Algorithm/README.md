@@ -55,7 +55,7 @@ stateDiagram-v2
     Transport_Layer --> Network_Layer
     Network_Layer --> Data_Link_Layer
     Data_Link_Layer --> Physical_Layer
-    Physical_Layer --> [Message] : Encapsulation
+    [Message] --> Physical_Layer : Encapsulation
     Physical_Layer --> Data_Link_Layer
     Data_Link_Layer --> Network_Layer
     Network_Layer --> Transport_Layer
