@@ -100,3 +100,11 @@ https://www.cloudflare.com/learning/network-layer/what-is-the-network-layer/
 | 데이터 링크 계층  | 프레임(frame) | 
 | 물리 계층  | 비트(bit) | 
 
+- OSI model
+https://en.wikipedia.org/wiki/Protocol_data_unit
+  - Protocol data units of the OSI model are:[1]
+    - The Layer 4: transport layer PDU is the ```segment``` or the ```datagram```.
+    - The Layer 3: network layer PDU is the ```packet```.
+    - The Layer 2: data link layer PDU is the ```frame```.
+    - The Layer 1: physical layer PDU is the ```bit``` or, more generally, ```symbol```.
+- Given a context pertaining to a specific OSI layer, PDU is sometimes used as a synonym for its representation at that layer. 
