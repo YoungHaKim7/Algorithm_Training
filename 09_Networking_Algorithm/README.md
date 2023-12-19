@@ -141,3 +141,6 @@ https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%8D%94%EB%84%B7
 | CAT.7 | 10 Gbps| 600 MHz | 10G Base |
 
 - https://m.blog.naver.com/dlansduq/221007341419
+
+- 최근 몇 년 동안 25GBase-T(25G 트위스트 와이어 이더넷) 기술은 높은 포트 밀도와 낮은 전력 소비 및 네트워크 배포 비용으로 인해 클라우드 컴퓨팅 데이터 센터에서 인기있는 기술이 되었습니다. 25GBase-T는 단일 채널에 걸쳐 25Gbps를 제공하고, 더 높은 대역폭 이더넷 업그레이드를 지원하며, 데이터 센터 및 서버룸에 적합합니다. 이 문서에서는 25Gbase-T에 대한 포괄적인 소개를 제공합니다
+  - http://ko.oadm-cwdm-dwdm.com/info/what-s-25gbase-t-52190986.html
