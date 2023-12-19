@@ -108,3 +108,7 @@ https://en.wikipedia.org/wiki/Protocol_data_unit
     - The Layer 2: ```data link layer``` PDU is the ```frame```.
     - The Layer 1: ```physical layer``` PDU is the ```bit``` or, more generally, ```symbol```.
 - Given a context pertaining to a specific OSI layer, PDU is sometimes used as a synonym for its representation at that layer. 
+
+# 이더넷(Ethernet)
+
+https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%8D%94%EB%84%B7
