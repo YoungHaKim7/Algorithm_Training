@@ -125,3 +125,18 @@ https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%8D%94%EB%84%B7
 - https://en.wikipedia.org/wiki/IEEE_802.3
 
 - http://www.ktword.co.kr/test/view/view.php?m_temp1=412
+
+# 이더켓 케이블
+
+- UTP, FTP, STP 케이블 https://blog.naver.com/dlansduq/221007328226
+
+- CAT.5 ~ CAT.7
+
+|Category| 전송속도 | 대역폭 | 규 격 |
+|-|-|-|-|
+| CAT.5 | 100 Mbps| 100 MHz | 100 Base-TX |
+| CAT.5E | 1 Gbps| 100 MHz | 1000 Base-TX |
+| CAT.6 | 1 Gbps| 250 MHz | 1000 Base-TX |
+| CAT.6A | 10 Gbps| 500 MHz | 10G Base |
+| CAT.7 | 10 Gbps| 600 MHz | 10G Base |
+https://m.blog.naver.com/dlansduq/221007341419
