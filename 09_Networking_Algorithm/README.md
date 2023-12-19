@@ -204,3 +204,33 @@ https://en.wikipedia.org/wiki/Ethernet_frame
 </td></tr></tbody>
 </table>
 
+
+- 이더넷 프레임 : 이더넷 네트워크에서 주고 받는 데이터 형식
+
+<table border="1">
+    <tr>
+    <td colspan="6" align="center">Ethernet frame</td>
+    </tr>
+    <tr align="center">
+        <td colspan="4" align="center">←----- 헤더 -----→</td>
+        <td>←-- 페이로드 --→</td>
+        <td>← 트레일러 →</td>
+    </tr>
+    <tr align="center">
+        <td>프리앰블</td>
+        <td>목적지 MAC<br>주소</td>
+        <td>송신지 MAC<br>주소</td>
+        <td>이더타입/<br>길이</td>
+        <td>데이터</td>
+        <td>FCS</td>
+    </tr>
+    <tr align="center">
+        <td>8 바이트</td>
+        <td>6 바이트</td>
+        <td>6 바이트</td>
+        <td>2 바이트</td>
+        <td>46 ~ 1500 바이트</td>
+        <td>4 바이트</td>
+    </tr>
+    
+</table>
