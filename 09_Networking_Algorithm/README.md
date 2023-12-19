@@ -115,7 +115,7 @@ https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%8D%94%EB%84%B7
 - 이더넷은 48bit?
   - https://blog.naver.com/voice45/80204482928
 
-| 표준 규격 | 전송 속도 | 연결 매체 종류 |
+| 표준 규격<br>(Ethernet<br>Standard) | 전송 속도 | 연결 매체 종류 |
 |-|-|-|
 |802.3ab|1 Gbit/s| twisted pair at 1 Gbit/s (125 MB/s) |
 |802.3u|100 Mbit/s| Fast Ethernet at 100 Mbit/s (12.5 MB/s) with autonegotiation|
