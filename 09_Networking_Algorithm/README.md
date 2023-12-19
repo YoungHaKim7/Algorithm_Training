@@ -156,3 +156,51 @@ https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%8D%94%EB%84%B7
 - Twisted pair https://en.wikipedia.org/wiki/Twisted_pair
 - Multi-mode optical fiber https://en.wikipedia.org/wiki/Multi-mode_optical_fiber
 - Single-mode optical fiber https://en.wikipedia.org/wiki/Single-mode_optical_fiber
+
+# Ethernet frame
+
+https://en.wikipedia.org/wiki/Ethernet_frame
+
+<table>
+<caption>802.3 Ethernet packet and frame structure
+</caption>
+<tbody><tr>
+<th>Layer</th>
+<th>Preamble</th>
+<th>Start frame delimiter (SFD)</th>
+<th>MAC destination</th>
+<th>MAC source</th>
+<th><a href="/wiki/802.1Q" class="mw-redirect" title="802.1Q">802.1Q</a> tag (optional)</th>
+<th><a href="/wiki/Ethertype" class="mw-redirect" title="Ethertype">Ethertype</a> (<a href="/wiki/Ethernet_II" class="mw-redirect" title="Ethernet II">Ethernet&nbsp;II</a>) or&nbsp;length (<a href="/wiki/IEEE_802.3" title="IEEE 802.3">IEEE&nbsp;802.3</a>)</th>
+<th>Payload</th>
+<th><a href="/wiki/Frame_check_sequence" title="Frame check sequence">Frame check sequence</a> (32‑bit <a href="/wiki/Cyclic_redundancy_check" title="Cyclic redundancy check">CRC</a>)</th>
+<th><a href="/wiki/Interpacket_gap" title="Interpacket gap">Interpacket&nbsp;gap (IPG)</a>
+</th></tr>
+<tr>
+<td>
+</td>
+<td>7 <a href="/wiki/Octet_(computing)" title="Octet (computing)">octets</a></td>
+<td>1 octet</td>
+<td>6 octets</td>
+<td>6&nbsp;octets</td>
+<td>(4 octets)</td>
+<td>2 octets</td>
+<td>46-1500 octets</td>
+<td><span class="nowrap">4 octets</span></td>
+<td>12 octets
+</td></tr>
+<tr>
+<td><a href="/wiki/Data_link_layer" title="Data link layer">Layer 2</a> Ethernet frame
+</td>
+<td colspan="2">(not part of the frame)</td>
+<td colspan="6" style="background:#fdd;"><span class="nowrap">← 64–1522 octets →</span></td>
+<td>(not part of the frame)
+</td></tr>
+<tr>
+<td><a href="/wiki/Physical_layer" title="Physical layer">Layer 1</a> Ethernet packet &amp; IPG
+</td>
+<td colspan="8" style="background:#fdd;"><span class="nowrap">← 72–1530 octets →</span></td>
+<td style="background:#fdd;">← 12 octets&nbsp;→
+</td></tr></tbody>
+</table>
+
