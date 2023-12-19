@@ -139,4 +139,5 @@ https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%8D%94%EB%84%B7
 | CAT.6 | 1 Gbps| 250 MHz | 1000 Base-TX |
 | CAT.6A | 10 Gbps| 500 MHz | 10G Base |
 | CAT.7 | 10 Gbps| 600 MHz | 10G Base |
-https://m.blog.naver.com/dlansduq/221007341419
+
+- https://m.blog.naver.com/dlansduq/221007341419
