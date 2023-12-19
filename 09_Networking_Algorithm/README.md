@@ -212,7 +212,7 @@ https://en.wikipedia.org/wiki/Ethernet_frame
     <td colspan="6" align="center">Ethernet frame</td>
     </tr>
     <tr align="center">
-        <td colspan="4" align="center">←----- 헤더 -----→</td>
+        <td colspan="4" align="center">←----------- 헤더 -----------→</td>
         <td>←-- 페이로드 --→</td>
         <td>← 트레일러 →</td>
     </tr>
