@@ -112,3 +112,5 @@ https://en.wikipedia.org/wiki/Protocol_data_unit
 # 이더넷(Ethernet)
 
 https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%8D%94%EB%84%B7
+- 이더넷은 48bit?
+  - https://blog.naver.com/voice45/80204482928
