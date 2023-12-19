@@ -114,3 +114,14 @@ https://en.wikipedia.org/wiki/Protocol_data_unit
 https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%8D%94%EB%84%B7
 - 이더넷은 48bit?
   - https://blog.naver.com/voice45/80204482928
+
+| 표준 규격 | 전송 속도 | 연결 매체 종류 |
+|-|-|-|
+|802.3ab|1 Gbit/s| twisted pair at 1 Gbit/s (125 MB/s) |
+|802.3u|100 Mbit/s| Fast Ethernet at 100 Mbit/s (12.5 MB/s) with autonegotiation|
+|802.3ae|10 Gbit/s|10 Gigabit Ethernet over fiber; |
+|802.3cc|25 Gbit/s|25 Gbit/s over Single Mode Fiber |
+
+- https://en.wikipedia.org/wiki/IEEE_802.3
+
+- http://www.ktword.co.kr/test/view/view.php?m_temp1=412
