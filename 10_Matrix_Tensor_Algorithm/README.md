@@ -6,6 +6,10 @@
 
 https://en.wikipedia.org/wiki/Tensor
 
+- 005개고생하면서 배우는 Rust_Basic_Multidimensional Arrays(3D구현하기part2)(LunarVim, Helix, VSCode, Zellij) | GlobalYoung
+
+  - https://www.youtube.com/live/qWJuxJkzl6U?si=Fz72_TrwRzSPCflh 
+
 # 라플라스 변환을 이해하기 쉽게 시각화로 설명해보았다 | Physics Videos by Eugene Khutoryansky
 
 https://youtu.be/6MXMDrs6ZmA?si=vb35StoZVoSryGJR
