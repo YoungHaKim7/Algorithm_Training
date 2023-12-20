@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Components_stress_tensor.svg/300px-Components_stress_tensor.svg.png" />
+</p>
+
+# Tensor
+
+https://en.wikipedia.org/wiki/Tensor
+
 # 라플라스 변환을 이해하기 쉽게 시각화로 설명해보았다 | Physics Videos by Eugene Khutoryansky
 
 https://youtu.be/6MXMDrs6ZmA?si=vb35StoZVoSryGJR
