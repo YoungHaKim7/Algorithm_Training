@@ -38,6 +38,10 @@ https://youtu.be/Y4ecU7NkiEI?si=GVeM_lB0fxac5uny
 
 <hr>
 
+# 10 weird algorithms | Fireship
+
+https://youtu.be/SmyPTnlqhlk?si=UaEqoClpFCWKuYV4
+
 <br>
 
 # How AI Discovered a Faster Matrix Multiplication Algorithm | Quanta Magazine
