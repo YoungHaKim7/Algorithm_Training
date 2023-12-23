@@ -1,3 +1,6 @@
+# The Vector Equation of a 3D Line | Serpentine Integral
+- https://youtu.be/3qZcgiTZRPA?si=NYOhoHgtao1xNBF-
+
 # Understanding Lagrange Multipliers Visually | Serpentine Integral
 
 https://youtu.be/5A39Ht9Wcu0?si=YhRq5P-oInEfatXF
@@ -11,3 +14,4 @@ https://youtu.be/hhFzJvaY__U?si=LSdQZsmFa6OkwhEV
 https://youtube.com/playlist?list=PLjHDjmY5z0pn_p5haaVYA-Epp5Hwx1gXO&si=88hlIRfY5q_B7a2q
 
 
+<hr>
