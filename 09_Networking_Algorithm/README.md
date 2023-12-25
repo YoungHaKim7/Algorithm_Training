@@ -471,3 +471,5 @@ https://datatracker.ietf.org/doc/html/rfc791
 </table>
 
 - 출처 : https://en.wikipedia.org/wiki/MAC_address
+
+- ARP 이해하기 https://aws-hyoh.tistory.com/entry/ARP-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0
