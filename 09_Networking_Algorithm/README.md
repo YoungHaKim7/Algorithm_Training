@@ -338,8 +338,8 @@ https://en.wikipedia.org/wiki/Ethernet_frame
         <td>F6</td>
     </tr>
     <tr align="center">
-        <td rowspan="3">Organizationally<br>Unique Identifier<br>24bits</td>
-        <td rowspan="3">Universaaly<br>Administered Address<br>24bits</td>
+        <td colspan="3">Organizationally<br>Unique Identifier<br>24bits</td>
+        <td colspan="3">Universaaly<br>Administered Address<br>24bits</td>
     </tr>
     <tr align="center">
         <td></td>
