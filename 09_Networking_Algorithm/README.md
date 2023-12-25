@@ -324,6 +324,10 @@ https://en.wikipedia.org/wiki/Ethernet_frame
 
 # IP
 
+- IP에서 MTU개념 이해(In computer networking, the maximum transmission unit (MTU))
+  - Pv4 allows fragmentation which divides the datagram into pieces ...
+    - https://en.wikipedia.org/wiki/Maximum_transmission_unit
+
 ```
 1.4 Operation (IP)
 The internet protocol implements two basic functions: addressing and fragmentation.
