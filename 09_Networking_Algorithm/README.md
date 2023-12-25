@@ -259,21 +259,21 @@ https://en.wikipedia.org/wiki/Ethernet_frame
     </tr>
         </tr>
         <tr align="center">
+        <td>34525</td>
+        <td>86DD</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Internet Protocol version 6 (IPv6)</td>
+        <td>[<a href="https://datatracker.ietf.org/doc/draft-ietf-intarea-rfc7042bis/11/">RFC-ietf-intarea-rfc7042bis-11</a>]</td>
     </tr>
         </tr>
         <tr align="center">
+        <td>2054</td>
+        <td>0806</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Address Resolution Protocol (ARP)</td>
+        <td>[<a href="https://datatracker.ietf.org/doc/draft-ietf-intarea-rfc7042bis/11/">RFC-ietf-intarea-rfc7042bis-11</a>]</td>
     </tr>
         </tr>
         <tr align="center">
