@@ -325,6 +325,7 @@ https://en.wikipedia.org/wiki/Ethernet_frame
 # IP
 
 - MAC Address
+- 출처 : https://developnote-blog.tistory.com/m/entry/MAC-Address
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcgsHfe%2FbtrvGYkUObJ%2FE14EXjH0MA56GFN0kklbJ0%2Fimg.png" />
 - 24bit + 24bit
 
