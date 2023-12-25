@@ -67,8 +67,8 @@ stateDiagram-v2
 - 응용 계층
 - 전송 계층
 - 네트워크 계층
-- 데이터 링크 계층
-- 물리 계층
+- 데이터 링크 계층 -> 스위치Switch
+- 물리 계층 -> 허브Hub
 ```
 
 - https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
@@ -289,3 +289,16 @@ https://en.wikipedia.org/wiki/Ethernet_frame
 - 출처 : https://www.iana.org/assignments/ieee-802-numbers/ieee-802-numbers.xhtml
   - Full Duplex & Half Duplex
     - https://en.wikipedia.org/wiki/Duplex_(telecommunications)
+
+<hr>
+
+# Hub
+- 네트워크 총정리 요약본 CheatSheet http://datamining.rutgers.edu/teaching/spring2010/CNA/lecture16.pdf
+  - Network Switch - Concept and Working - Filtering | Flooding | Forwarding | Learning | Hacks and Security - Second Channe
+    -  https://youtu.be/Xh6Y_Wto33w?si=oBotzeYev7MYff4w
+
+- Network Devices – How Hubs and Switches Work and How to Secure Them
+  - https://www.freecodecamp.org/news/how-hub-switch-work-and-how-to-protect-them/
+ 
+- Network Devices (Hub, Repeater, Bridge, Switch, Router, Gateways and Brouter)
+  - https://www.geeksforgeeks.org/network-devices-hub-repeater-bridge-switch-router-gateways/
