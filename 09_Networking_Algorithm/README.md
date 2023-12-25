@@ -348,6 +348,12 @@ The internet protocol implements two basic functions: addressing and fragmentati
 
 https://datatracker.ietf.org/doc/html/rfc791
 
+- IPv4 Header
+  - http://www.ktword.co.kr/test/view/view.php?m_temp1=1859
+  - https://en.wikipedia.org/wiki/Internet_Protocol_version_4
+
+<hr>
+
 - MAC Address
 
 <img src="https://www.baeldung.com/wp-content/uploads/sites/4/2023/02/MACFormat.png" />
