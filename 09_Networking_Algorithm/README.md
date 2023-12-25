@@ -325,6 +325,31 @@ https://en.wikipedia.org/wiki/Ethernet_frame
 # IP
 
 - MAC Address
+<table border="1">
+    <tr>
+    <td colspan="6" align="center">MAC<br>Media Access Control Address</td>
+    </tr>
+    <tr align="center">
+        <td>A1</td>
+        <td>B2</td>
+        <td>C3</td>
+        <td>D4</td>
+        <td>E5</td>
+        <td>F6</td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">Organizationally<br>Unique Identifier<br>24bits</td>
+        <td rowspan="3">Universaaly<br>Administered Address<br>24bits</td>
+    </tr>
+    <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 - 출처 : https://developnote-blog.tistory.com/m/entry/MAC-Address
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcgsHfe%2FbtrvGYkUObJ%2FE14EXjH0MA56GFN0kklbJ0%2Fimg.png" />
 - 24bit + 24bit
