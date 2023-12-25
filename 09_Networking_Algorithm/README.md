@@ -327,3 +327,32 @@ https://en.wikipedia.org/wiki/Ethernet_frame
 - MAC Address
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcgsHfe%2FbtrvGYkUObJ%2FE14EXjH0MA56GFN0kklbJ0%2Fimg.png" />
 - 24bit + 24bit
+
+- Universal/local and individual/group bits in MAC addresses
+<table>
+<caption>Universal/local and individual/group bits in MAC addresses
+</caption>
+<tbody><tr>
+<th style="background:#EAECF0;background:linear-gradient(to top right,#EAECF0 49%,#AAA 49.5%,#AAA 50.5%,#EAECF0 51%);line-height:1.2;padding:0.1em 0.4em;"><div style="margin-left:2em;text-align:right">U/L</div><div style="margin-right:2em;text-align:left">I/G</div>
+</th>
+<th>Universally administered
+</th>
+<th>Locally administered
+</th></tr>
+<tr>
+<th>Unicast (individual)
+</th>
+<td><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>0</u></b>-XX-XX-XX-XX-XX</i></span></span><br><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>4</u></b>-XX-XX-XX-XX-XX</i></span></span><br><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>8</u></b>-XX-XX-XX-XX-XX</i></span></span><br><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>C</u></b>-XX-XX-XX-XX-XX</i></span></span>
+</td>
+<td><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>2</u></b>-XX-XX-XX-XX-XX</i></span></span><br><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>6</u></b>-XX-XX-XX-XX-XX</i></span></span><br><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>A</u></b>-XX-XX-XX-XX-XX</i></span></span><br><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>E</u></b>-XX-XX-XX-XX-XX</i></span></span>
+</td></tr>
+<tr>
+<th>Multicast (group)
+</th>
+<td><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>1</u></b>-XX-XX-XX-XX-XX</i></span></span><br><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>5</u></b>-XX-XX-XX-XX-XX</i></span></span><br><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>9</u></b>-XX-XX-XX-XX-XX</i></span></span><br><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>D</u></b>-XX-XX-XX-XX-XX</i></span></span>
+</td>
+<td><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>3</u></b>-XX-XX-XX-XX-XX</i></span></span><br><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>7</u></b>-XX-XX-XX-XX-XX</i></span></span><br><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>B</u></b>-XX-XX-XX-XX-XX</i></span></span><br><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>F</u></b>-XX-XX-XX-XX-XX</i></span></span>
+</td></tr></tbody>
+</table>
+
+- 출처 : https://en.wikipedia.org/wiki/MAC_address
