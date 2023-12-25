@@ -338,8 +338,8 @@ https://en.wikipedia.org/wiki/Ethernet_frame
         <td>F6</td>
     </tr>
     <tr align="center">
-        <td colspan="3">Organizationally<br>Unique Identifier<br>24bits</td>
-        <td colspan="3">Universaaly<br>Administered Address<br>24bits</td>
+        <td colspan="3">Organizationally<br>Unique Identifier<br>24bits<br>Manufacturer<br>Identification</td>
+        <td colspan="3">Universally<br>Administered Address<br>24bits<br>NIC's Unique Number</td>
     </tr>
     <tr align="center">
         <td></td>
@@ -350,6 +350,10 @@ https://en.wikipedia.org/wiki/Ethernet_frame
         <td></td>
     </tr>
 </table>
+
+- 출처 : https://www.baeldung.com/cs/understanding-mac-addresses
+
+
 - 출처 : https://developnote-blog.tistory.com/m/entry/MAC-Address
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcgsHfe%2FbtrvGYkUObJ%2FE14EXjH0MA56GFN0kklbJ0%2Fimg.png" />
 - 24bit + 24bit
