@@ -355,4 +355,56 @@ https://en.wikipedia.org/wiki/Ethernet_frame
 </td></tr></tbody>
 </table>
 
+- SLAP quadrants for unicast local MAC addresses
+
+<table>
+<caption>SLAP quadrants for unicast local MAC addresses
+</caption>
+<tbody><tr>
+<th>MAC address
+</th>
+<th>Quadrant name
+</th>
+<th>Identifier
+</th>
+<th>Usage
+</th></tr>
+<tr>
+<th><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>A</u></b>-XX-XX-XX-XX-XX</i></span></span>
+</th>
+<td>Extended local
+</td>
+<td>ELI
+</td>
+<td>Assigned by IEEE, but uses a unique 3-octet company ID (CID) instead of an OUI.
+</td></tr>
+<tr>
+<th><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>E</u></b>-XX-XX-XX-XX-XX</i></span></span>
+</th>
+<td>Standard assigned
+</td>
+<td>SAI
+</td>
+<td>For use in the forthcoming IEEE P802.1CQ specification, to be assigned dynamically by the Block Address Registration and Claiming (BARC) protocol.
+</td></tr>
+<tr>
+<th><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>2</u></b>-XX-XX-XX-XX-XX</i></span></span>
+</th>
+<td>Administratively assigned
+</td>
+<td>AAI
+</td>
+<td>Can be randomly or arbitrarily assigned to devices.
+</td></tr>
+<tr>
+<th><span style="padding-right: 1px;"><span class="macaddr"><i>X<b><u>6</u></b>-XX-XX-XX-XX-XX</i></span></span>
+</th>
+<td><i>Reserved</i>
+</td>
+<td><i>Reserved</i>
+</td>
+<td>Reserved for future use, but may be used similarly to AAI until an IEEE specification utilizes this space.
+</td></tr></tbody>
+</table>
+
 - 출처 : https://en.wikipedia.org/wiki/MAC_address
