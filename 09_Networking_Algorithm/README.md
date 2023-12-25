@@ -287,3 +287,5 @@ https://en.wikipedia.org/wiki/Ethernet_frame
 </table>
 
 - 출처 : https://www.iana.org/assignments/ieee-802-numbers/ieee-802-numbers.xhtml
+  - Full Duplex & Half Duplex
+    - https://en.wikipedia.org/wiki/Duplex_(telecommunications)
