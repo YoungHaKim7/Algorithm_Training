@@ -296,6 +296,9 @@ https://en.wikipedia.org/wiki/Ethernet_frame
 - 네트워크 총정리 요약본 CheatSheet http://datamining.rutgers.edu/teaching/spring2010/CNA/lecture16.pdf
   - Network Switch - Concept and Working - Filtering | Flooding | Forwarding | Learning | Hacks and Security - Second Channe
     -  https://youtu.be/Xh6Y_Wto33w?si=oBotzeYev7MYff4w
+  - Switching in networking in Hindi | CCNA | Network Kings
+    - https://youtu.be/I1McrK2XILk?si=md3UMmakfdzzf5n7
+
 
 - Network Devices – How Hubs and Switches Work and How to Secure Them
   - https://www.freecodecamp.org/news/how-hub-switch-work-and-how-to-protect-them/
