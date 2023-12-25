@@ -232,5 +232,58 @@ https://en.wikipedia.org/wiki/Ethernet_frame
         <td>46 ~ 1500 바이트</td>
         <td>4 바이트</td>
     </tr>
-    
+  
 </table>
+
+  - 이더넷 프레임
+    - https://www.iana.org/assignments/ieee-802-numbers/ieee-802-numbers.xhtml
+<table border="1">
+    <tr>
+    <td colspan="6" align="center">Ethernet frame</td>
+    </tr>
+    <tr align="center">
+        <td>Ethertype<br>(decimal)</td>
+        <td>Ethertype<br>(hex)</td>
+        <td>Exp.<br>Ethernet<br>(decimal)</td>
+        <td>Exp.<br>Ethernet<br>(octal)</td>
+        <td>Description</td>
+        <td>Reference</td>
+    </tr>
+        <tr align="center">
+        <td>2048</td>
+        <td>0800</td>
+        <td>513</td>
+        <td>1001</td>
+        <td>Internet Protocol version 4 (IPv4)</td>
+        <td>[<a href="https://datatracker.ietf.org/doc/draft-ietf-intarea-rfc7042bis/11/">RFC-ietf-intarea-rfc7042bis-11</a>]</td>
+    </tr>
+        </tr>
+        <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        </tr>
+        <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        </tr>
+        <tr align="center">
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+- 출처 : https://www.iana.org/assignments/ieee-802-numbers/ieee-802-numbers.xhtml
