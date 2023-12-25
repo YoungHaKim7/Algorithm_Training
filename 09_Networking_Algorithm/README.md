@@ -324,6 +324,13 @@ https://en.wikipedia.org/wiki/Ethernet_frame
 
 # IP
 
+```
+1.4 Operation (IP)
+The internet protocol implements two basic functions: addressing and fragmentation.
+```
+
+https://datatracker.ietf.org/doc/html/rfc791
+
 - MAC Address
 
 <img src="https://www.baeldung.com/wp-content/uploads/sites/4/2023/02/MACFormat.png" />
