@@ -325,6 +325,9 @@ https://en.wikipedia.org/wiki/Ethernet_frame
 # IP
 
 - MAC Address
+
+<img src="https://www.baeldung.com/wp-content/uploads/sites/4/2023/02/MACFormat.png" />
+
 <table border="1">
     <tr>
     <td colspan="6" align="center">MAC<br>Media Access Control Address</td>
