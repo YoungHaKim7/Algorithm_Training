@@ -473,3 +473,13 @@ https://datatracker.ietf.org/doc/html/rfc791
 - 출처 : https://en.wikipedia.org/wiki/MAC_address
 
 - ARP 이해하기 https://aws-hyoh.tistory.com/entry/ARP-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0
+```
+arp -a
+? (1xx.30.1.xx) at 3f:8e:d3:fe:dc:8b on en0 ifscope [ethernet]
+? (1xx.30.1.100) at 36:e7:f3:fd:7b:af on en0 ifscope [ethernet]
+? (1xx.30.1.128) at 0:1d:ec:5c:1f:6e on en0 ifscope [ethernet]
+? (1xx.30.1.254) at 88:3c:1c:f0:f6:8f on en0 ifscope [ethernet]
+? (1xx.30.1.255) at ff:ff:ff:ff:ff:ff on en0 ifscope [ethernet]
+mdns.mcast.net (224.0.0.251) at 1:0:5f:0:f:fb on en0 ifscope permanent [ethernet]
+? (2xx.2xx.2xx.2xx) at 1:0:fe:7f:ff:fa on en0 ifscope permanent [ethernet]
+```
