@@ -356,3 +356,12 @@ https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms-ebook/
 
 <hr>
 
+# 회전 대칭은 스핀을 이해 할 수 있다.
+<img src="https://particleadventure.pusan.ac.kr/images/page-elements/fermion_boson.jpg" />
+
+- 보존(Bosons)이 스핀이 1 
+  - 한바퀴 돌았을때 제자리 오면 스핀 1
+
+- 페르미온(Fermions) 스핀이 2
+  - 2바퀴 돌아서 제자리 오면 
+    - 스핀 2 -> 스핀 1/2 이라고 부름
