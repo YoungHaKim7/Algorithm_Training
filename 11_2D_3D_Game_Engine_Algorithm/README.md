@@ -20,6 +20,13 @@
 
 ## $\nabla\times B = \mu_0(j+\epsilon_0\frac{\partial E}{\partial t})$ 
 
+- 현대의 벡터의 개념이 나오고 맥스웰 공식이 20개에서 4개로 줄어들었다.
+  - '전자기파'는 어떻게 발견되었을까! 맥스웰 방정식의 그 이야기! [안될과학 - 랩미팅 12화] | 안될과학 Unrealscience
+    - https://youtu.be/5UDuZ0Z_muo?si=R5nAt4XvwkxeZjs2
+    - (헤비사이드) 맥스웰 20가지 공식을 4개의 공식으로 정리함(올리버 헤비사이드(Oliver Heaviside ; 1850년 ~ 1925년)는 영국의 수리 물리학자 및 전기 공학자이다)
+      - https://namu.wiki/w/%EC%98%AC%EB%A6%AC%EB%B2%84%20%ED%97%A4%EB%B9%84%EC%82%AC%EC%9D%B4%EB%93%9C
+      - https://ko.wikipedia.org/wiki/%EC%98%AC%EB%A6%AC%EB%B2%84_%ED%97%A4%EB%B9%84%EC%82%AC%EC%9D%B4%EB%93%9C 
+
 - Ampere_maxwell https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/ampere_maxwell.html
 
 - 그리스 문자2(전자기 잘 정리됨) https://blog.naver.com/kogyver1/60107038104 
