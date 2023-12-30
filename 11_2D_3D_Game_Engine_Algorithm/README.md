@@ -72,3 +72,7 @@ https://youtube.com/playlist?list=PLjHDjmY5z0pn_p5haaVYA-Epp5Hwx1gXO&si=88hlIRfY
 
 
 <hr>
+
+# Ampere-Maxwell
+
+https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/ampere_maxwell.html
