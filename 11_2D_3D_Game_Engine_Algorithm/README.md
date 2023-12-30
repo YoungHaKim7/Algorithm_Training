@@ -4,19 +4,43 @@
 
 ## $F = ma$ 
 
-## $F = G\over{Mm}{r^2}ma$ 
+## $F = G\frac{Mn}{r^2}$ 
 
 # 물체의 운동 2개 ~~~~~end~~~~
 
+<hr>
+
 # 전기와 자기 4개 공식 ~~~~~start~~~~
 
-## $F = ma$
+## $\nabla\cdot E = \frac{\rho}{\epsilon_0}$ 
+
+## $\nabla\cdot B = 0$ 
+
+## $\nabla\times E = -\frac{\partial B}{\partial t}$ 
+
+## $\nabla\times B = \mu_0(J+\epsilon_0\frac{\partial E}{\partial t})$ 
+
+- 그리스 문자2(전자기 잘 정리됨) https://blog.naver.com/kogyver1/60107038104 
+
+- 전자기 정리2 http://tomoyo.ivyro.net/123/wiki.php/TeX_%EB%B0%8F_LaTeX_%EC%88%98%EC%8B%9D_%EB%AC%B8%EB%B2%95 
+
+- 미분 관련 수학 https://koodev.tistory.com/43 
 
 # 전기와 자기 4개 공식 ~~~~~end~~~~
+
 
 ## 현대물리는 여기에 양자역학을 추가하면 됨.
 
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
+
+- 그리스 문자 https://namu.wiki/w/%EA%B7%B8%EB%A6%AC%EC%8A%A4%20%EB%AC%B8%EC%9E%90
+
+
+- 미분연산자 나블라 http://tomoyo.ivyro.net/123/wiki.php/TeX_%EB%B0%8F_LaTeX_%EC%88%98%EC%8B%9D_%EB%AC%B8%EB%B2%95  
+
+- Wiki https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95 
+
+- LaTex http://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf 
 
 <hr>
 
