@@ -20,6 +20,8 @@
 
 ## $\nabla\times B = \mu_0(j+\epsilon_0\frac{\partial E}{\partial t})$ 
 
+- Ampere_maxwell https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/ampere_maxwell.html
+
 - 그리스 문자2(전자기 잘 정리됨) https://blog.naver.com/kogyver1/60107038104 
 
 - 전자기 정리2 http://tomoyo.ivyro.net/123/wiki.php/TeX_%EB%B0%8F_LaTeX_%EC%88%98%EC%8B%9D_%EB%AC%B8%EB%B2%95 
