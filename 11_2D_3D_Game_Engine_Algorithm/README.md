@@ -16,6 +16,10 @@
 
 ## 현대물리는 여기에 양자역학을 추가하면 됨.
 
+https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
+
+<hr>
+
 <hr>
 
 # The Math behind (most) 3D games - Perspective Projection | Brendan Galea
