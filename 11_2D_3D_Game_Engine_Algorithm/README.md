@@ -18,7 +18,7 @@
 
 ## $\nabla\times E = -\frac{\partial B}{\partial t}$ 
 
-## $\nabla\times B = \mu_0(J+\epsilon_0\frac{\partial E}{\partial t})$ 
+## $\nabla\times B = \mu_0(j+\epsilon_0\frac{\partial E}{\partial t})$ 
 
 - 그리스 문자2(전자기 잘 정리됨) https://blog.naver.com/kogyver1/60107038104 
 
