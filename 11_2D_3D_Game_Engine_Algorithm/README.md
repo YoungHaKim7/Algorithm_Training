@@ -12,13 +12,13 @@
 
 # 전기와 자기 4개 공식 ~~~~~start~~~~
 
-## $\nabla\cdot E = \frac{\rho}{\epsilon_0}$ 
+## $\nabla\cdot E = \frac{\rho}{\epsilon_0}$  (Gauss'Law)
 
-## $\nabla\cdot B = 0$ 
+## $\nabla\cdot B = 0$ (Gauss'Law for Magnetism)
 
-## $\nabla\times E = -\frac{\partial B}{\partial t}$ 
+## $\nabla\times E = -\frac{\partial B}{\partial t}$ (Faraday's Law)
 
-## $\nabla\times B = \mu_0(j+\epsilon_0\frac{\partial E}{\partial t})$ 
+## $\nabla\times B = \mu_0(j+\epsilon_0\frac{\partial E}{\partial t})$ (Amperer's Law)
 
 - 현대의 벡터의 개념이 나오고 맥스웰 공식이 20개에서 4개로 줄어들었다.
   - '전자기파'는 어떻게 발견되었을까! 맥스웰 방정식의 그 이야기! [안될과학 - 랩미팅 12화] | 안될과학 Unrealscience
