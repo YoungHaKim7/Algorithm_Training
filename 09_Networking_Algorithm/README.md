@@ -66,7 +66,7 @@ stateDiagram-v2
 ```
 - 응용 계층
 - 전송 계층
-- 네트워크 계층 -> IP , Routing 
+- 네트워크 계층 -> IP , Routing , ICMP
 - 데이터 링크 계층 -> 스위치Switch
 - 물리 계층 -> 허브Hub
 ```
