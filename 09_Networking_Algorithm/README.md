@@ -2,7 +2,46 @@
 
 - Poll 개념도 나온다. 굿 
 
-https://velog.io/@tjdgus3160/Blocking-vs-Non-Blocking-Sync-vs-Async
+<table border="1">
+    <tr>
+    <td colspan="3" align="center">Block VS. Non - Block</td>
+    </tr>
+    <tr align="center">
+        <td>Sync<br>(Parallel)</td>
+        <td>Read/ Write</td>
+        <td>Read/Write<br>(Polling)</td>
+    </tr>
+    <tr align="center">
+        <td>Async<br>(Concurrency)</td>
+        <td>I/O Multiplexing<br>(Select / Poll)</td>
+        <td>Asynchronous I/O</td>
+    </tr>
+</table>
+
+- https://velog.io/@tjdgus3160/Blocking-vs-Non-Blocking-Sync-vs-Async
+
+- Async/Poll or Sync in HA Architecture 
+  - https://stackoverflow.com/questions/4473138/async-poll-or-sync-in-ha-architecture 
+
+- Network에도 poll 개념이 나오고 parallel 에도 나온다. 
+
+- Blocking
+  - 호출된 함수가 자신의 작업이 끌날때 까지 제어권을 넘겨주지 않는것
+
+- Non-Blocking
+  - 호출된 함수가 바로 제어권을 넘겨주는것
+
+## polling 
+- 지속적으로 상태를 체크하여 데이터를 받는 방식
+
+- Polling 과 busy wait의 차이 
+  - https://wraithkim.wordpress.com/2020/08/23/busy-wait%EA%B3%BC-polling%EC%9D%98-%EC%B0%A8%EC%9D%B4/ 
+  - https://stackoverflow.com/questions/10594426/what-is-the-difference-between-busy-wait-and-polling 
+
+
+## await
+- 
+  - https://developer.apple.com/videos/play/wwdc2021/10132/
 
 <hr>
 
