@@ -89,7 +89,7 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 
 # 정렬 이미지
 
-<img src="https://t1.daumcdn.net/cfile/tistory/27123F41549E2B2D2B"/ >
+<img src="https://t1.daumcdn.net/cfile/tistory/27123F41549E2B2D2B?original" />
 
 <hr>
 
