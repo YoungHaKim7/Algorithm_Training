@@ -87,6 +87,12 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 
 <hr>
 
+# 정렬 이미지
+
+<img src="https://t1.daumcdn.net/cfile/tistory/27123F41549E2B2D2B"/ >
+
+<hr>
+
 # StructuredProgramming
 - 알고리즘을 기술할 목적으로 만들어진 언어 중 하나가 SPARKS(Structured Programming: A Reasonably Kimplete Set)
 - 구성
