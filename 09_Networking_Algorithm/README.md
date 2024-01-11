@@ -531,6 +531,8 @@ https://limkydev.tistory.com/168
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99068D495BE8101D34" />
 
+<img src="https://xn--3e0bx5euxnjje69i70af08bea817g.xn--3e0b707e/images/ip_as/imgipasSys03.gif" />
+
 출처 : https://한국인터넷정보센터.한국/jsp/resources/ipv4Info.jsp
 
 <table>
