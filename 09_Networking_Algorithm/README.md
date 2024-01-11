@@ -522,3 +522,148 @@ arp -a
 mdns.mcast.net (224.0.0.251) at 1:0:5f:0:f:fb on en0 ifscope permanent [ethernet]
 ? (2xx.2xx.2xx.2xx) at 1:0:fe:7f:ff:fa on en0 ifscope permanent [ethernet]
 ```
+
+# Address (Class A, B, C)
+https://en.wikipedia.org/wiki/Classful_network
+
+
+<table>
+<tbody><tr>
+<th>Class
+</th>
+<th>Leading bits
+</th>
+<th>Size of <i>network number</i> bit field
+</th>
+<th>Size of <i>rest</i> bit field
+</th>
+<th>Number of networks
+</th>
+<th>Addresses per network
+</th>
+<th>Total addresses in class
+</th>
+<th>Start address
+</th>
+<th>End address
+</th>
+<th>Default <a href="/wiki/Subnet_mask" class="mw-redirect" title="Subnet mask">subnet mask</a> in <a href="/wiki/Dot-decimal_notation" title="Dot-decimal notation">dot-decimal notation</a>
+</th>
+<th><a href="/wiki/CIDR_notation" class="mw-redirect" title="CIDR notation">CIDR notation</a>
+</th></tr>
+<tr>
+<td>Class A
+</td>
+<td>0
+</td>
+<td>8
+</td>
+<td>24
+</td>
+<td>128 (2<sup>7</sup>)
+</td>
+<td>16,777,216 (2<sup>24</sup>)
+</td>
+<td>2,147,483,648 (2<sup>31</sup>)
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">0.0.0.0</span></span></i>
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">127.255.255.255</span></span></i><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[a]</a></sup>
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">255.0.0.0</span></span></i>
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">/</span><span style="padding-right: 1px;">8</span></span></i>
+</td></tr>
+<tr>
+<td>Class B
+</td>
+<td>10
+</td>
+<td>16
+</td>
+<td>16
+</td>
+<td>16,384 (2<sup>14</sup>)
+</td>
+<td>65,536 (2<sup>16</sup>)
+</td>
+<td>1,073,741,824 (2<sup>30</sup>)
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">128.0.0.0</span></span></i>
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">191.255.255.255</span></span></i>
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">255.255.0.0</span></span></i>
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">/</span><span style="padding-right: 1px;">16</span></span></i>
+</td></tr>
+<tr>
+<td>Class C
+</td>
+<td>110
+</td>
+<td>24
+</td>
+<td>8
+</td>
+<td>2,097,152 (2<sup>21</sup>)
+</td>
+<td>256 (2<sup>8</sup>)
+</td>
+<td>536,870,912 (2<sup>29</sup>)
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">192.0.0.0</span></span></i>
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">223.255.255.255</span></span></i>
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">255.255.255.0</span></span></i>
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">/</span><span style="padding-right: 1px;">24</span></span></i>
+</td></tr>
+<tr>
+<td>Class D (<a href="/wiki/Multicast" title="Multicast">multicast</a>)
+</td>
+<td>1110
+</td>
+<td>not defined
+</td>
+<td>not defined
+</td>
+<td>not defined
+</td>
+<td>not defined
+</td>
+<td>268,435,456 (2<sup>28</sup>)
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">224.0.0.0</span></span></i>
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">239.255.255.255</span></span></i>
+</td>
+<td>not defined
+</td>
+<td>/4<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
+</td></tr>
+<tr>
+<td>Class E (reserved)
+</td>
+<td>1111
+</td>
+<td>not defined
+</td>
+<td>not defined
+</td>
+<td>not defined
+</td>
+<td>not defined
+</td>
+<td>268,435,456 (2<sup>28</sup>)
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">240.0.0.0</span></span></i>
+</td>
+<td><i><span class="ipaddr"><span style="padding-right: 1px;">255.255.255.255</span></span></i><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[b]</a></sup>
+</td>
+<td>not defined
+</td>
+<td>not defined
+</td></tr></tbody>
+</table>
