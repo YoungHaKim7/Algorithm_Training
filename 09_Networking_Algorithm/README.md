@@ -527,6 +527,12 @@ mdns.mcast.net (224.0.0.251) at 1:0:5f:0:f:fb on en0 ifscope permanent [ethernet
 https://en.wikipedia.org/wiki/Classful_network
 
 
+https://limkydev.tistory.com/168
+
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99068D495BE8101D34" />
+
+
+
 <table>
 <tbody><tr>
 <th>Class
