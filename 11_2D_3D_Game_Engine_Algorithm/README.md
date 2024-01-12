@@ -1,3 +1,9 @@
+- 고전역학 1편, 과학이란 무엇인가? (KAIST 김갑진 교수의 물리학 특강 1/8) | 안될과학 Unrealscience
+  - https://youtu.be/s4xTAYAYqSA?si=lVUDQ0sVsaaAs0VD
+
+
+<hr>
+
 # 고전물리의 완성 (19세기말) 물체의 운동 2개 , 전기와 자기로 이세상 설명이 다 가능함.
 
 # 물체의 운동 2개 ~~~~~start~~~~
