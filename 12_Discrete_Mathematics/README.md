@@ -16,6 +16,8 @@ Part 1: Propositional logic, sets, functions, relations, automata
 https://youtu.be/B4-cJUoEwjA?si=jiheKg2V-vyupaaH
 
 
+- 모아보기 https://youtube.com/playlist?list=PL7Wri0mncI36dTjRfvuFikrA0iMOGQrzV&si=44xpDVNsnpoKxMGO
+
 <hr>
 
 # Discrete Mathematics (Full Course) | My Lesson
