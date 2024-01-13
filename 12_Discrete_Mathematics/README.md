@@ -6,12 +6,12 @@ Ambrose Yang, Cornell University
 
 Part 1: Propositional logic, sets, functions, relations, automata
 
-1:30 Propositional and predicate logic
-19:15 Set theory
-26:35 Functions
-36:50 Cardinality of sets
-49:25 Relations
-1:09:18 Finite automata
+1:30 Propositional and predicate logic<br>
+19:15 Set theory<br>
+26:35 Functions<br>
+36:50 Cardinality of sets<br>
+49:25 Relations<br>
+1:09:18 Finite automata<br>
 
 https://youtu.be/B4-cJUoEwjA?si=jiheKg2V-vyupaaH
 
