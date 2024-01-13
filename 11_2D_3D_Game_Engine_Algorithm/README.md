@@ -1,6 +1,9 @@
 - 고전역학 1편, 과학이란 무엇인가? (KAIST 김갑진 교수의 물리학 특강 1/8) | 안될과학 Unrealscience
   - https://youtu.be/s4xTAYAYqSA?si=lVUDQ0sVsaaAs0VD
 
+- 중력과 시간이란 무엇인가? 고전역학 2편 (KAIST 김갑진 교수의 물리학 특강 2/8) | 안될과학 Unrealscience
+  - https://youtu.be/icNXbHm-fVA?si=3RiDyouAGDn5ngI8
+
 
 <hr>
 
