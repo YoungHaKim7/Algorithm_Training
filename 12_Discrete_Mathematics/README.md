@@ -16,7 +16,26 @@ Part 1: Propositional logic, sets, functions, relations, automata
 - https://youtu.be/B4-cJUoEwjA?si=jiheKg2V-vyupaaH
 
 - part2
-  - https://youtu.be/pO2F9BagUvA?si=ICT5zPfEwiYqZ0Ks
+ - Discrete Mathematics Final Review Part 2: Combinatorics and Probability (Fall 2022) | A Yang
+   - https://youtu.be/pO2F9BagUvA?si=ICT5zPfEwiYqZ0Ks
+
+2022년 12월 8일
+CS 2800 Final Exam Review Session
+Ambrose Yang, Cornell University
+
+Part 2: Combinations, Stirling numbers of the second kind, occupancy problems, combinatorial proofs, Principle of Inclusion-Exclusion, conditional probability, Bayes' Rule, random variables
+<br>
+
+0:30 Combinatorial formulas<br>
+10:40 Distinguishable and indistinguishable balls and bins<br>
+34:10 Combinatorial proofs<br>
+41:50 Principle of Inclusion-Exclusion<br>
+45:25 Probability basics: outcomes, sample spaces, events, conditional probability<br>
+52:05 Bayes' Rule<br>
+58:45 Random variables<br>
+
+
+<hr>
 
 - 모아보기 
   - https://youtube.com/playlist?list=PL7Wri0mncI36dTjRfvuFikrA0iMOGQrzV&si=44xpDVNsnpoKxMGO
