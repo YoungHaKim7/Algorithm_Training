@@ -25,4 +25,7 @@ https://youtu.be/EceVJJGAFFI?si=nmx5tBhyOi7qjDsP
 https://youtube.com/playlist?list=PLkyBCj4JhHt-BTSJka3WRsTvmMKz1YNLY&si=i44sQiXq4CfurPxG
 
 
+# Mathematics for Machine Learning Tutorial (3 Complete Courses in 1 video) | My Lesson
+
+- https://youtu.be/0z6AhrOSrRs?si=nzOxPugyoZWNsEE_
    
