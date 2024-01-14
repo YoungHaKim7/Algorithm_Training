@@ -4,6 +4,8 @@
 - 중력과 시간이란 무엇인가? 고전역학 2편 (KAIST 김갑진 교수의 물리학 특강 2/8) | 안될과학 Unrealscience
   - https://youtu.be/icNXbHm-fVA?si=3RiDyouAGDn5ngI8
 
+- 에너지란 무엇인가? 고전역학 3편 (KAIST 김갑진 교수의 물리학 특강 3/8) | 안될과학 Unrealscience
+  - https://youtu.be/j6GpJdmwtoY?si=FwVFbkxt8Fs6WkXi
 
 <hr>
 
