@@ -45,3 +45,9 @@ Part 2: Combinations, Stirling numbers of the second kind, occupancy problems, c
 # Discrete Mathematics (Full Course) | My Lesson
 
 - https://youtu.be/UwYJUKVc-Hs?si=9MMFRcxAN99pVbXF
+
+<hr>
+
+# Combinatorics and Probability (Complete Course) | Discrete Mathematics for Computer Science | My Lesson
+
+- https://youtu.be/0GIwDazlUHs?si=JFis7W5T_jbCZqAh
