@@ -21,3 +21,7 @@ https://youtu.be/spUNpyF58BY
   - https://youtu.be/B1J6Ou4q8vE?si=53zJzMx2_-mTXdbS
 
 
+<hr>
+
+# 뉴턴 vs 라이프니치의 미적분 이야기 | 문명과 수학 | EBS 컬렉션 - 사이언스
+- https://youtu.be/GJO-52Xm6JU?si=eeKIAaDbj7NirGlz
