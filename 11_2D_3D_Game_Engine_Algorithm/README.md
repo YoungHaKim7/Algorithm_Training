@@ -7,6 +7,11 @@
 - 에너지란 무엇인가? 고전역학 3편 (KAIST 김갑진 교수의 물리학 특강 3/8) | 안될과학 Unrealscience
   - https://youtu.be/j6GpJdmwtoY?si=FwVFbkxt8Fs6WkXi
 
+- 전기와 자기는 어떻게 발견되었나? 전자기학 1편 (KAIST 김갑진 교수의 물리학 특강 4/8) | 안될과학 Unrealscience
+  - https://youtu.be/UfzT5pGKujc?si=8cFqJGVfsBa6zpv6
+
+
+
 <hr>
 
 # 고전물리의 완성 (19세기말) 물체의 운동 2개 , 전기와 자기로 이세상 설명이 다 가능함.
