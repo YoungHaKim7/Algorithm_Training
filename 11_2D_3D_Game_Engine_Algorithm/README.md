@@ -10,6 +10,9 @@
 - 전기와 자기는 어떻게 발견되었나? 전자기학 1편 (KAIST 김갑진 교수의 물리학 특강 4/8) | 안될과학 Unrealscience
   - https://youtu.be/UfzT5pGKujc?si=8cFqJGVfsBa6zpv6
 
+- 맥스웰 방정식의 의미! 전자기학 2편 (KAIST 김갑진 교수의 물리학 특강 5/8) | 안될과학 Unrealscience
+
+  - https://youtu.be/OTF-oP7io_M?si=ungrjP_BujG9BE-n
 
 
 <hr>
