@@ -54,6 +54,9 @@
 
 - 미분 관련 수학 https://koodev.tistory.com/43 
 
+![elect2](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/94f6aa2e-058d-478e-b3e0-91e329435e97)
+
+
 # 전기와 자기 4개 공식 ~~~~~end~~~~
 
 
