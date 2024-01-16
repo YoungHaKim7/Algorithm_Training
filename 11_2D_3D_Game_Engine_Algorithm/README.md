@@ -82,7 +82,13 @@
 
 <hr>
 
-## 현대물리는 여기에 양자역학을 추가하면 됨.
+![Screenshot 2024-01-16 at 10 00 48 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/6b0c1e2f-7979-4983-8d4d-10830bc57bf9)
+
+<hr>
+
+<br>
+
+# 현대물리는 여기에 양자역학을 추가하면 됨.
 
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
 
