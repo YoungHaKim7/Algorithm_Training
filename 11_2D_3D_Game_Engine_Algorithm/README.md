@@ -66,6 +66,9 @@
 # 파동방정식
 
 ## $\nabla^2 E - \mu_0\epsilon_0 \frac{\partial^2 E}{\partial t^2} = 0 $
+- 파동방정식은
+  - 시간으로 두 번 미분
+  - 공간으로 두 번 미분 이러면 무조건 파동방정식
 - (Wave equation, Schrödinger Equation 혹은 Eigenvalue Equation)
 
   - 양자화학의 이해 11 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiQp5HT6uGDAxWCjK8BHbCPC08QFnoECAoQAw&url=https%3A%2F%2Fnew.kcsnet.or.kr%2Fmain%2Fk_download%2Fchemedu_download.htm%3Fchempdf%3D3202050.pdf&usg=AOvVaw0mpXwPF_Ju_su3FEZcyF-W&opi=89978449 
