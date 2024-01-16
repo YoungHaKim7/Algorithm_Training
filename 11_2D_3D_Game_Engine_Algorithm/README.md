@@ -41,8 +41,8 @@
 
 <br>
 
-- $\times$ 곱하기 는 회전
 - $\cdot$ 점은 전자가 퍼져나가던가 모이던가
+- $\times$ 곱하기 는 회전
 
 ![Screenshot 2024-01-16 at 9 41 02 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/6a828bc8-8067-420c-bcaa-26437db63330)
 
