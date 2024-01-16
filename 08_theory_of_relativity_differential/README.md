@@ -35,3 +35,10 @@
   -       ..
   -       ..
   -       ..
+
+
+# 푸리에 변환이 뭐냐면... 그려서 보여드리겠습니다.
+
+https://youtu.be/Mc9PHZ3H36M?si=1wHlO8KPGptzmeol
+
+- 원본 https://youtu.be/spUNpyF58BY?si=luDvOwqzHaTKSUlA
