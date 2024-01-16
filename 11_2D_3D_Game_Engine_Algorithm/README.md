@@ -39,6 +39,11 @@
 
 ## $\nabla\times B = \mu_0(J+\epsilon_0\frac{\partial E}{\partial t})$ (Amperer's Law)
 
+- 곱하기 는 회원
+- $\dot$ 점은 전자가 퍼져나가던가 모이던가
+
+![Screenshot 2024-01-16 at 9 41 02 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/6a828bc8-8067-420c-bcaa-26437db63330)
+
 - 현대의 벡터의 개념이 나오고 맥스웰 공식이 20개에서 4개로 줄어들었다.
   - '전자기파'는 어떻게 발견되었을까! 맥스웰 방정식의 그 이야기! [안될과학 - 랩미팅 12화] | 안될과학 Unrealscience
     - https://youtu.be/5UDuZ0Z_muo?si=R5nAt4XvwkxeZjs2
