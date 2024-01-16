@@ -84,6 +84,10 @@
 
 ![Screenshot 2024-01-16 at 10 00 48 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/6b0c1e2f-7979-4983-8d4d-10830bc57bf9)
 
+- 출처: 에너지란 무엇인가? 고전역학 3편 (KAIST 김갑진 교수의 물리학 특강 3/8) | 안될과학 Unrealscience
+  - https://youtu.be/j6GpJdmwtoY?si=FwVFbkxt8Fs6WkXi
+
+
 <hr>
 
 <br>
