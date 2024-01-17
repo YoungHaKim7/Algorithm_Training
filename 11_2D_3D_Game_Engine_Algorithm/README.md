@@ -14,6 +14,8 @@
 
   - https://youtu.be/OTF-oP7io_M?si=ungrjP_BujG9BE-n
 
+- 빛은 입자인가 파동인가? 양자역학 1편! (KAIST 김갑진 교수의 물리학 특강 6/8) | 안될과학 Unrealscience
+  - https://youtu.be/RglES21LdxE?si=JW6gKYca97QIZvM6
 
 <hr>
 
