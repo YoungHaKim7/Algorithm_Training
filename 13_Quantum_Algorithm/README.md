@@ -4,6 +4,13 @@ https://github.com/YoungHaKim7/silq_project
 
 <hr>
 
+# 빛은 입자인가 파동인가? 양자역학 1편! (KAIST 김갑진 교수의 물리학 특강 6/8) | 안될과학 Unrealscience
+- https://youtu.be/RglES21LdxE?si=JW6gKYca97QIZvM6
+
+
+
+<hr>
+
 # 서의린 (KAIST) / Introduction to vertex algebras V / 2016-09-03 | Mathnet Korea
 
 - https://youtu.be/NwGnAYyGVsY?si=9xdDL-iXZK_Q0a1o
