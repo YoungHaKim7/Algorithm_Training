@@ -17,6 +17,10 @@
 - 빛은 입자인가 파동인가? 양자역학 1편! (KAIST 김갑진 교수의 물리학 특강 6/8) | 안될과학 Unrealscience
   - https://youtu.be/RglES21LdxE?si=JW6gKYca97QIZvM6
 
+- 입자의 스핀과 불확정성의 원리란? 양자역학 2편! (KAIST 김갑진 교수의 물리학 특강 7/8) | 안될과학 Unrealscience
+  - https://youtu.be/As2tGiGwjl4?si=KyJxHliSSOQioqja
+
+
 <hr>
 
 # 고전물리의 완성 (19세기말) 물체의 운동 2개 , 전기와 자기로 이세상 설명이 다 가능함.
