@@ -10,6 +10,8 @@ https://github.com/YoungHaKim7/silq_project
 - 입자의 스핀과 불확정성의 원리란? 양자역학 2편! (KAIST 김갑진 교수의 물리학 특강 7/8) | 안될과학 Unrealscience
   - https://youtu.be/As2tGiGwjl4?si=KyJxHliSSOQioqja
 
+- 양자컴퓨터란 무엇인가? 양자역학 3편! (KAIST 김갑진 교수의 물리학 특강 8/8) | 안될과학 Unrealscience
+  - https://youtu.be/gjp9301in0U?si=3RDEvy26mChsOa0P
 
 <hr>
 
