@@ -13,6 +13,8 @@ https://github.com/YoungHaKim7/silq_project
 - 양자컴퓨터란 무엇인가? 양자역학 3편! (KAIST 김갑진 교수의 물리학 특강 8/8) | 안될과학 Unrealscience
   - https://youtu.be/gjp9301in0U?si=3RDEvy26mChsOa0P
 
+- 초끈이론 이해하기(끈이론) 타우, 쿼크, 뮤온
+  - https://economiceco.tistory.com/m/19084
 <hr>
 
 # 서의린 (KAIST) / Introduction to vertex algebras V / 2016-09-03 | Mathnet Korea
