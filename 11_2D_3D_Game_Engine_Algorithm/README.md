@@ -25,6 +25,15 @@
 
 <hr>
 
+- 과학사모아보기 | 안될과학 Unrealscience
+  - https://youtube.com/playlist?list=PLFs8qkZ9PQlc_shO4UO0OfngzK7tE7H6U&si=cKbXjJJlwpeKW32k
+
+- 왜 물리학의 천재들은 유체역학 연구를 포기했나? 유체역학의 역사 13/15 (민태기 소장) | 안될과학 Unrealscience
+  - https://youtu.be/4SPYdbuumB8?si=czrxxC1hW2Nmr6Lg
+
+
+<hr>
+
 # 고전물리의 완성 (19세기말) 물체의 운동 2개 , 전기와 자기로 이세상 설명이 다 가능함.
 
 # 물체의 운동 2개 ~~~~~start~~~~
