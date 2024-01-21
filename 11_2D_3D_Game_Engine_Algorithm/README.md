@@ -28,6 +28,10 @@
 - 과학사모아보기 | 안될과학 Unrealscience
   - https://youtube.com/playlist?list=PLFs8qkZ9PQlc_shO4UO0OfngzK7tE7H6U&si=cKbXjJJlwpeKW32k
 
+- 과학자들의 막장드라마가 펼쳐진다?뉴턴과 데카르트의 유체배틀 유체역학의 역사 1/15 (민태기 박사) | 안될과학 Unrealscience
+  - https://youtu.be/ykZU0RNLwlo?si=ZZh3RNvVKVbCajLQ
+
+
 - 왜 물리학의 천재들은 유체역학 연구를 포기했나? 유체역학의 역사 13/15 (민태기 소장) | 안될과학 Unrealscience
   - https://youtu.be/4SPYdbuumB8?si=czrxxC1hW2Nmr6Lg
 
