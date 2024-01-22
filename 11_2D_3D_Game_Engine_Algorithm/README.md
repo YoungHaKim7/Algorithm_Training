@@ -35,6 +35,9 @@
 - 왜 물리학의 천재들은 유체역학 연구를 포기했나? 유체역학의 역사 13/15 (민태기 소장) | 안될과학 Unrealscience
   - https://youtu.be/4SPYdbuumB8?si=czrxxC1hW2Nmr6Lg
 
+- 나비에-스토크 방정식! 방정식이 갖는 의미는? 유체역학의 역사 15/15 (민태기 소장) | 안될과학 Unrealscience
+  - https://youtu.be/rv8phdMB5XA?si=X51gXDvT9APaDVM1
+
 
 <hr>
 
