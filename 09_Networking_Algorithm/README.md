@@ -21,6 +21,15 @@
 
       - https://한국인터넷정보센터.한국/jsp/business/management/asList.jsp
 
+
+# Routing Information Protocol
+
+<p align="center">
+  <img src="https://www.ibm.com/docs/en/ssw_ibm_i_71/rzajw/rzajw520.gif/ >	
+</p>
+
+- https://www.ibm.com/docs/en/i/7.1?topic=routing-information-protocol
+
 <hr>
 
 # Blocking vs Non-Blocking & Sync vs Async  
