@@ -31,6 +31,12 @@
 - https://www.ibm.com/docs/en/i/7.1?topic=methods-dynamic-routing
 - https://www.ibm.com/docs/en/i/7.1?topic=routing-information-protocol
 
+<p align="center">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbhvhde%2FbtrOgy1FJgM%2FbMwdqr1c3vZDPCwVqehtIK%2Fimg.png" />
+</p>
+
+- https://systemanswer.tistory.com/entry/Network-Routing-Protocol-%EB%B9%84%EA%B5%90-IGP-EGP
+
 <hr>
 
 # Blocking vs Non-Blocking & Sync vs Async  
