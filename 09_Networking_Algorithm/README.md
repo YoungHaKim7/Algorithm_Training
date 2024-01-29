@@ -10,6 +10,17 @@
   - ```route -n```
     - https://ioflood.com/blog/route-linux-command/
 
+# AS번호란?
+
+- 망식별번호(AS번호)란?
+
+  - 동일한 라우팅 정책으로 하나의 관리자에 의하여 운영되는 네트워크, 즉 한 회사나 단체에서 관리하는 라우터 집단을 자율 시스템(AS, Autonomous System)이라 하며, 각각의 자율 시스템을 식별하기 위한 인터넷 상의 고유한 숫자를 망식별번호(AS번호)라 합니다.
+  - 현재 일반적으로 사용중인 AS번호는 2-byte의 체계로 65,536개의 AS번호 사용이 가능하나, IPv4주소와 마찬가지로 가까운 미래에 고갈될 것으로 예측됩니다. 국제 인터넷 표준화기구(IETF, Internet Engineering Task Force)는 기존의 2-byte AS번호 체계의 확장 형태인 4-byte AS번호를 정의하였고,이에 따라 약 43억개의 AS번호를 사용할 수 있게 되었습니다.
+
+    - AS번호 사용자 목록 (2024.01.29 현재) 
+
+      - https://한국인터넷정보센터.한국/jsp/business/management/asList.jsp
+
 <hr>
 
 # Blocking vs Non-Blocking & Sync vs Async  
