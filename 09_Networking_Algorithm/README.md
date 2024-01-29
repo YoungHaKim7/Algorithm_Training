@@ -803,3 +803,8 @@ https://limkydev.tistory.com/168
 <td>"제한된 브로드 캐스트"대상 주소로 예약되어 있습니다.</td>
 </tr>
 </tbody></table>
+
+
+# linux에서 network 변경 ```nmtui```
+
+- https://easyitwanner.tistory.com/113
