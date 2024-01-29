@@ -5,6 +5,8 @@
 # Routing table
 
 - https://en.wikipedia.org/wiki/Routing_table
+  - ```netstate```
+    - https://www.linux.co.kr/bbs/board.php?bo_table=lecture&wr_id=4473
 
 <hr>
 
