@@ -25,7 +25,7 @@
 # Routing Information Protocol
 
 <p align="center">
-  <img src="https://www.ibm.com/docs/en/ssw_ibm_i_71/rzajw/rzajw520.gif/ >	
+  <img src="https://www.ibm.com/docs/en/ssw_ibm_i_71/rzajw/rzajw520.gif" />	
 </p>
 
 - https://www.ibm.com/docs/en/i/7.1?topic=routing-information-protocol
