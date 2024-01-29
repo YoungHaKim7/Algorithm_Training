@@ -1,3 +1,9 @@
+# Ip-Subnet-calculator
+
+- https://www.calculator.net/ip-subnet-calculator.html
+
+<hr>
+
 # Blocking vs Non-Blocking & Sync vs Async  
 
 - Poll 개념도 나온다. 굿 
