@@ -2,6 +2,10 @@
 
 - https://www.calculator.net/ip-subnet-calculator.html
 
+# Routing table
+
+- https://en.wikipedia.org/wiki/Routing_table
+
 <hr>
 
 # Blocking vs Non-Blocking & Sync vs Async  
