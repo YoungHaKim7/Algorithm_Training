@@ -854,37 +854,91 @@ https://limkydev.tistory.com/168
 
 - https://en.wikipedia.org/wiki/Port_(computer_networking)
 
-<table>
-<caption>Port assignments in <style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><a href="/wiki/RFC_(identifier)" class="mw-redirect" title="RFC (identifier)">RFC</a>&nbsp;<a rel="nofollow" class="external text" href="https://datatracker.ietf.org/doc/html/rfc349">349</a>
+<table class="wikitable">
+<caption>Notable well-known port numbers
 </caption>
 <tbody><tr>
-<th scope="col">Port number
+<th scope="col">Number
 </th>
 <th scope="col">Assignment
 </th></tr>
 <tr>
-<th scope="row">1
+<th scope="row">20
 </th>
-<td>Telnet
+<td><a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">File Transfer Protocol</a> (FTP) Data Transfer
 </td></tr>
 <tr>
-<th scope="row">3
+<th scope="row">21
 </th>
-<td>File transfer
+<td><a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">File Transfer Protocol</a> (FTP) Command Control
 </td></tr>
 <tr>
-<th scope="row">5
+<th scope="row">22
 </th>
-<td>Remote job entry
+<td><a href="/wiki/Secure_Shell" title="Secure Shell">Secure Shell</a> (SSH) Secure Login
 </td></tr>
 <tr>
-<th scope="row">7
+<th scope="row">23
 </th>
-<td>Echo
+<td><a href="/wiki/Telnet" title="Telnet">Telnet</a> remote login service, unencrypted text messages
 </td></tr>
 <tr>
-<th scope="row">9
+<th scope="row">25
 </th>
-<td>Discard
-</td></tr></tbody>
-</table>
+<td><a href="/wiki/Simple_Mail_Transfer_Protocol" title="Simple Mail Transfer Protocol">Simple Mail Transfer Protocol</a> (SMTP) email delivery
+</td></tr>
+<tr>
+<th scope="row">53
+</th>
+<td><a href="/wiki/Domain_Name_System" title="Domain Name System">Domain Name System</a> (DNS) service
+</td></tr>
+<tr>
+<th scope="row">67, 68
+</th>
+<td><a href="/wiki/Dynamic_Host_Configuration_Protocol" title="Dynamic Host Configuration Protocol">Dynamic Host Configuration Protocol</a> (DHCP)
+</td></tr>
+<tr>
+<th scope="row">80
+</th>
+<td><a href="/wiki/Hypertext_Transfer_Protocol" class="mw-redirect" title="Hypertext Transfer Protocol">Hypertext Transfer Protocol</a> (HTTP) used in the <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a>
+</td></tr>
+<tr>
+<th scope="row">110
+</th>
+<td><a href="/wiki/Post_Office_Protocol" title="Post Office Protocol">Post Office Protocol</a> (POP3)
+</td></tr>
+<tr>
+<th scope="row">119
+</th>
+<td><a href="/wiki/Network_News_Transfer_Protocol" title="Network News Transfer Protocol">Network News Transfer Protocol</a> (NNTP)
+</td></tr>
+<tr>
+<th scope="row">123
+</th>
+<td><a href="/wiki/Network_Time_Protocol" title="Network Time Protocol">Network Time Protocol</a> (NTP)
+</td></tr>
+<tr>
+<th scope="row">143
+</th>
+<td><a href="/wiki/Internet_Message_Access_Protocol" title="Internet Message Access Protocol">Internet Message Access Protocol</a> (IMAP) Management of digital mail
+</td></tr>
+<tr>
+<th scope="row">161
+</th>
+<td><a href="/wiki/Simple_Network_Management_Protocol" title="Simple Network Management Protocol">Simple Network Management Protocol</a> (SNMP)
+</td></tr>
+<tr>
+<th scope="row">194
+</th>
+<td><a href="/wiki/Internet_Relay_Chat" title="Internet Relay Chat">Internet Relay Chat</a> (IRC)
+</td></tr>
+<tr>
+<th scope="row">443
+</th>
+<td><a href="/wiki/HTTP_Secure" class="mw-redirect" title="HTTP Secure">HTTP Secure</a> (HTTPS) HTTP over TLS/SSL
+</td></tr>
+<tr>
+<th scope="row">546, 547
+</th>
+<td><a href="/wiki/DHCPv6" title="DHCPv6">DHCPv6</a> IPv6 version of DHCP
+</td></tr></tbody></table>
