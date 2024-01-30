@@ -849,3 +849,42 @@ https://limkydev.tistory.com/168
 # linux에서 network 변경 ```nmtui```
 
 - https://easyitwanner.tistory.com/113
+
+# Port
+
+- https://en.wikipedia.org/wiki/Port_(computer_networking)
+
+<table>
+<caption>Port assignments in <style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><a href="/wiki/RFC_(identifier)" class="mw-redirect" title="RFC (identifier)">RFC</a>&nbsp;<a rel="nofollow" class="external text" href="https://datatracker.ietf.org/doc/html/rfc349">349</a>
+</caption>
+<tbody><tr>
+<th scope="col">Port number
+</th>
+<th scope="col">Assignment
+</th></tr>
+<tr>
+<th scope="row">1
+</th>
+<td>Telnet
+</td></tr>
+<tr>
+<th scope="row">3
+</th>
+<td>File transfer
+</td></tr>
+<tr>
+<th scope="row">5
+</th>
+<td>Remote job entry
+</td></tr>
+<tr>
+<th scope="row">7
+</th>
+<td>Echo
+</td></tr>
+<tr>
+<th scope="row">9
+</th>
+<td>Discard
+</td></tr></tbody>
+</table>
