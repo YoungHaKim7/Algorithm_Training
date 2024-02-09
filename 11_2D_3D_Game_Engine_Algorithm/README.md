@@ -1,3 +1,7 @@
+- 7hr짜리 통합본 https://youtu.be/q4NEhgLC8lA?si=B86so_F_DchQrDBt
+
+<hr>
+
 - 고전역학 1편, 과학이란 무엇인가? (KAIST 김갑진 교수의 물리학 특강 1/8) | 안될과학 Unrealscience
   - https://youtu.be/s4xTAYAYqSA?si=lVUDQ0sVsaaAs0VD
 
