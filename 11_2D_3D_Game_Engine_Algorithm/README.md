@@ -1,4 +1,5 @@
-- 7hr짜리 통합본 https://youtu.be/q4NEhgLC8lA?si=B86so_F_DchQrDBt
+- 7hr짜리 통합본(설 특집 풀버전) 김갑진 교수의 물리학 시리즈 (고전역학, 전자기학, 양자역학) [KAIST 김갑진 교수]
+  - https://youtu.be/q4NEhgLC8lA?si=B86so_F_DchQrDBt
 
 <hr>
 
