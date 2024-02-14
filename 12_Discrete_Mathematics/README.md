@@ -1,3 +1,9 @@
+# 한글로 잘 된 이산 수학
+- Complementary Relations (보수 관계)
+  - http://bigdata.dongguk.ac.kr/lectures/disc_math/_book/%EA%B4%80%EA%B3%84.html
+
+<hr>
+
 # Discrete Mathematics Final Review Part 1: Structures (Fall 2022) | A Yang
 
 2022년 12월 7일
