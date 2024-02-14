@@ -35,7 +35,7 @@
 <tr class="odd">
 <td>부정(negation)</td>
 <td>NOT</td>
-<td align="center"><span class="math inline"><span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-17-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mi mathvariant=&quot;normal&quot;>&amp;#x00AC;</mi></math>" role="presentation"><span id="MJXc-Node-88" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-89" class="mjx-mrow"><span id="MJXc-Node-90" class="mjx-mi"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.056em; padding-bottom: 0.323em;">¬</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="normal">¬</mi></math></span></span><script type="math/tex" id="MathJax-Element-17">\neg</script></span> or ~</td>
+<td align="center">¬ or ~</td>
 </tr>
 <tr class="even">
 <td>논리곱(conjunction)</td>
