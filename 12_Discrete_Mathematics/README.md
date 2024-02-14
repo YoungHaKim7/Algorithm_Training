@@ -40,27 +40,27 @@
 <tr class="even">
 <td>논리곱(conjunction)</td>
 <td>AND</td>
-<td align="center"><span class="math inline"><span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-18-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>&amp;#x2227;</mo></math>" role="presentation"><span id="MJXc-Node-91" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-92" class="mjx-mrow"><span id="MJXc-Node-93" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.323em; padding-bottom: 0.377em;">∧</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>∧</mo></math></span></span><script type="math/tex" id="MathJax-Element-18">\land</script></span></td>
+<td align="center">∧</td>
 </tr>
 <tr class="odd">
 <td>논리합(disjunction)</td>
 <td>OR</td>
-<td align="center"><span class="math inline"><span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-19-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>&amp;#x2228;</mo></math>" role="presentation"><span id="MJXc-Node-94" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-95" class="mjx-mrow"><span id="MJXc-Node-96" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.323em; padding-bottom: 0.377em;">∨</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>∨</mo></math></span></span><script type="math/tex" id="MathJax-Element-19">\lor</script></span></td>
+<td align="center">∨</td>
 </tr>
 <tr class="even">
 <td>배타적 논리합(exclusive OR)</td>
 <td>XOR</td>
-<td align="center"><span class="math inline"><span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-20-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo>&amp;#x2295;</mo></math>" role="presentation"><span id="MJXc-Node-97" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-98" class="mjx-mrow"><span id="MJXc-Node-99" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.323em; padding-bottom: 0.43em;">⊕</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>⊕</mo></math></span></span><script type="math/tex" id="MathJax-Element-20">\oplus</script></span></td>
+<td align="center">⊕</td>
 </tr>
 <tr class="odd">
 <td>함축(implication), 조건(conditional)</td>
 <td>IMPLY</td>
-<td align="center"><span class="math inline"><span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-21-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo stretchy=&quot;false&quot;>&amp;#x2192;</mo></math>" role="presentation"><span id="MJXc-Node-100" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-101" class="mjx-mrow"><span id="MJXc-Node-102" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.216em; padding-bottom: 0.377em;">→</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">→</mo></math></span></span><script type="math/tex" id="MathJax-Element-21">\to</script></span></td>
+<td align="center">→</td>
 </tr>
 <tr class="even">
 <td>상호조건(biconditional)</td>
 <td>IFF(if and only if)</td>
-<td align="center"><span class="math inline"><span class="MathJax_Preview" style="color: inherit;"></span><span id="MathJax-Element-22-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%; position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mo stretchy=&quot;false&quot;>&amp;#x2194;</mo></math>" role="presentation"><span id="MJXc-Node-103" class="mjx-math" aria-hidden="true"><span id="MJXc-Node-104" class="mjx-mrow"><span id="MJXc-Node-105" class="mjx-mo"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.216em; padding-bottom: 0.377em;">↔</span></span></span></span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">↔</mo></math></span></span><script type="math/tex" id="MathJax-Element-22">\leftrightarrow</script></span></td>
+<td align="center">↔</td>
 </tr>
 </tbody>
 </table>
