@@ -30,6 +30,11 @@
 
 <hr>
 
+- (설 특집 편집 합본 풀버전) 판타레이! 유체역학의 역사 그리고 낭만 과학사! [S&H연구소 민태기 소장] | 안될과학 Unrealscience
+  - https://youtu.be/UDE9U26ZLuQ?si=axUKsYllHGjfqByz
+
+<hr>
+
 - 과학사모아보기 | 안될과학 Unrealscience
   - https://youtube.com/playlist?list=PLFs8qkZ9PQlc_shO4UO0OfngzK7tE7H6U&si=cKbXjJJlwpeKW32k
 
