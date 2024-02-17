@@ -1,83 +1,3 @@
-# Rust_ Algorithms
-
-https://github.com/TheAlgorithms/Rust
-
-https://github.com/EbTech/rust-algorithms
-
-
-<hr>
-
-- Rust 
-  - graph-algorithms
-    - https://github.com/SanskrutiReddy/Rust-crate-for-graph-algorithms
-
-
-# 대표적인 알고리즘 정리
-
-1. 정렬(Sort)
-2. 검색(Search)
-3. 문자열 패턴 매칭(SPM: String Pattern Matching)
-4. 계산(Calculation)
-
-
-# 다른 외국 사람이 러스트로 만든 알고리즘 웹으로 구현
-
-https://github.com/tomoyanonymous/nannou-web-template
-
-<hr>
-
-# My Desmos Graphs
-
-https://www.desmos.com/calculator/iuapuknd57
-
-<br>
-
-- Big Oh(O) vs Big Omega(Ω) vs Big Theta(θ) notations | Asymptotic Analysis of Algorithms with Example
-
-https://youtu.be/1tfdr1Iv6JA
-
-<hr>
-
-# Big O Notations
-
-https://youtu.be/V6mKVRU1evU
-
-<br>
-
-- Big O myths busted! (Time complexity is complicated)
-
-  - https://youtu.be/7VHG6Y2QmtM
-
-- Java Algorithms
-
-https://youtube.com/playlist?list=PLGLfVvz_LVvReUrWr94U-ZMgjYTQ538nT
-
-<br>
-
-
-- (JavaScript)Big O Notation Tutorial | Learn Big O from Andrei Neagoie [Zero To Mastery]
-
-https://youtu.be/TUiv2UgDgOQ
-
-<hr>
-
-
-#  Visualizing Data Structures and Algorithms with VS Code
-
-https://youtu.be/ElbGMWA6wA4
-
-<br>
-
-<hr>
-
-
-# The Algorithms _Rust Language
-
-https://github.com/TheAlgorithms/Rust
-
-<br>
-
-<hr>
 
 # 자료 구조
 
@@ -127,9 +47,10 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 
 <hr>
 
-<br>
-# Result
+# 대표적인 알고리즘 정리
 
-```
+1. 정렬(Sort)
+2. 검색(Search)
+3. 문자열 패턴 매칭(SPM: String Pattern Matching)
+4. 계산(Calculation)
 
-```
