@@ -853,6 +853,16 @@ https://limkydev.tistory.com/168
 # Port
 
 - https://en.wikipedia.org/wiki/Port_(computer_networking)
+  - For TCP and UDP, a port number is a 16-bit unsigned integer, thus ranging from 0 to 65535.
+
+|-|-|
+|port|Port Range|
+|Well knowsn port| 0~1023|
+
+
+-The registered ports are those from 1024 through 49151. IANA maintains the official list of well-known and registered ranges.
+
+The dynamic or private ports are those from 49152 through 65535. One common use for this range is for ephemeral ports. 
 
 <table class="wikitable">
 <caption>Notable well-known port numbers
