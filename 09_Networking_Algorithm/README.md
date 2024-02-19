@@ -860,6 +860,12 @@ https://limkydev.tistory.com/168
 |Well knowsn port| 0~1023|
 
 
+| Tables        | Are          |
+| ------------- |-------------:|
+| col 3 is      | right-aligned|
+| col 2 is      | centered     |
+| zebra stripes | are neat     |
+
 -The registered ports are those from 1024 through 49151. IANA maintains the official list of well-known and registered ranges.
 
 The dynamic or private ports are those from 49152 through 65535. One common use for this range is for ephemeral ports. 
