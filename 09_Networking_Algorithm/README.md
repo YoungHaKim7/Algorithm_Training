@@ -861,9 +861,18 @@ https://limkydev.tistory.com/168
 | registered ports| 1024 ~ 49151 |
 | dynamic ports   | 49152 ~ 65535|
 
--The registered ports are those from 1024 through 49151. IANA maintains the official list of well-known and registered ranges.
+- The registered ports are those from 1024 through 49151. IANA maintains the official list of well-known and registered ranges.
 
-The dynamic or private ports are those from 49152 through 65535. One common use for this range is for ephemeral ports. 
+- The dynamic or private ports are those from 49152 through 65535. One common use for this range is for ephemeral ports. 
+
+| 포트 No.       | 설명    |
+| -------------- |-------------:|
+| 443<br>1194|  OpenVPN TCP connections3<br>OpenVPN UDP connections     |
+|  number 1433<br>1434 | MSSQLSERVER instance (static TCP port) <br> UDP connections|
+| dynamic ports   | 49152 ~ 65535|
+
+
+- https://support.nordvpn.com/hc/en-us/articles/19683394518161-OpenVPN-connection-on-NordVPN
 
 <table class="wikitable">
 <caption>Notable well-known port numbers
