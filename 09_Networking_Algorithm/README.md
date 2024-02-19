@@ -855,16 +855,11 @@ https://limkydev.tistory.com/168
 - https://en.wikipedia.org/wiki/Port_(computer_networking)
   - For TCP and UDP, a port number is a 16-bit unsigned integer, thus ranging from 0 to 65535.
 
-|-|-|
-|port|Port Range|
-|Well knowsn port| 0~1023|
-
-
-| Tables        | Are          |
-| ------------- |-------------:|
-| col 3 is      | right-aligned|
-| col 2 is      | centered     |
-| zebra stripes | are neat     |
+| 포트종류       | 번호 범위     |
+| -------------- |-------------:|
+| Well known port| 0 ~ 1023     |
+| registered port| 1024 ~ 49151 |
+| dynamic port   | 49152 ~ 65535|
 
 -The registered ports are those from 1024 through 49151. IANA maintains the official list of well-known and registered ranges.
 
