@@ -868,11 +868,21 @@ https://limkydev.tistory.com/168
 | 포트 No.       | 설명    |
 | -------------- |-------------:|
 | 443<br>1194|  OpenVPN TCP connections3<br>OpenVPN UDP connections     |
-|  number 1433<br>1434 | MSSQLSERVER instance (static TCP port) <br> UDP connections|
-| dynamic ports   | 49152 ~ 65535|
+| 1433<br>1434 | MSSQLSERVER instance (static TCP port) <br> UDP connections|
+| 3306   | MySQL|
+| 6379   | Redis|
+| 8080   | Http 대체|
+| 27017   | MonggoDB|
+
+
 
 
 - https://support.nordvpn.com/hc/en-us/articles/19683394518161-OpenVPN-connection-on-NordVPN
+- https://blog.devart.com/sql-server-ports.html
+- https://dev.mysql.com/doc/mysql-port-reference/en/mysql-port-reference-tables.html
+- https://redis.io/docs/management/config/
+- https://www.speedguide.net/port.php?port=8080
+- https://www.mongodb.com/docs/manual/reference/default-mongodb-port/
 
 <table class="wikitable">
 <caption>Notable well-known port numbers
