@@ -884,6 +884,9 @@ https://limkydev.tistory.com/168
 - https://www.speedguide.net/port.php?port=8080
 - https://www.mongodb.com/docs/manual/reference/default-mongodb-port/
 
+- 잘 알려진 포트 & 등록된 포트 모아보기
+  - https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.txt
+
 <table class="wikitable">
 <caption>Notable well-known port numbers
 </caption>
