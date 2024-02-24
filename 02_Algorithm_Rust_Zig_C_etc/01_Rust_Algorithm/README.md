@@ -128,8 +128,4 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 <hr>
 
 <br>
-# Result
 
-```
-
-```
