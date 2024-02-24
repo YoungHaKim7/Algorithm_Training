@@ -12,7 +12,7 @@ where
     S::sort(slice)
 }
 
-// mod bubblesort;
+mod bubblesort;
 
 #[cfg(test)]
 mod tests {
@@ -29,7 +29,6 @@ mod tests {
             }
         }
     }
-
     #[test]
     fn std_works() {
         let mut things = vec![4, 2, 3, 1];
