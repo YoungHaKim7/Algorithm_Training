@@ -30,3 +30,6 @@ https://rust-unofficial.github.io/too-many-lists/index.html
 
 - part 7 (impl push)
   - https://github.com/YoungHaKim7/Algorithm_Training/commit/e6a23334e21738e40c48eac2c23b572cc0c93656
+
+- part 8 ( push -> std::mem::replce)
+  - https://github.com/YoungHaKim7/Algorithm_Training/commit/434807124f2b7f509475507e352e6be96f2de2ea
