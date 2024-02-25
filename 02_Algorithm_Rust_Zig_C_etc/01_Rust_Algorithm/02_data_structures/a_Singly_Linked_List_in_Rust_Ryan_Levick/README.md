@@ -18,3 +18,6 @@ https://rust-unofficial.github.io/too-many-lists/index.html
 - part3
   - https://github.com/YoungHaKim7/Algorithm_Training/commit/0f2a6219e9f98b0d9ea127897ed7842eab943236
   - enum을 이제 제거해도 돌아간다. https://github.com/YoungHaKim7/Algorithm_Training/commit/25cdb6b83839c2d2de5fdbc19544b7fea1884ee9
+
+- part 4
+  - https://github.com/YoungHaKim7/Algorithm_Training/commit/8449591b46205d8596d06c0f4114a4065eea9c43
