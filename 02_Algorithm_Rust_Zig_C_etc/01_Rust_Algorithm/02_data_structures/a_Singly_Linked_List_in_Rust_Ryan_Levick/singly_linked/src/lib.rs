@@ -2,29 +2,17 @@ struct LinkedList {
     head: Link,
 }
 
-impl Copy for LinkedList {}
-
 impl LinkedList {
     fn empty() -> Self {
         Self { head: None }
     }
 
     fn push(&mut self, element: u32) {
-        match self.head {
-            None => {
-                self.head = Some(Box::new(Node {
-                    element,
-                    next: None,
-                }))
-            }
-            Some(n) => {
-                let new_head = Some(Box::new(Node {
-                    element,
-                    next: Some(n),
-                }));
-                self.head = new_head;
-            }
-        }
+        let new_head = Some(Box::new(Node {
+            element,
+            next: self.head.take(),
+        }));
+        self.head = new_head;
     }
 }
 
