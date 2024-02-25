@@ -31,5 +31,8 @@ https://rust-unofficial.github.io/too-many-lists/index.html
 - part 7 (impl push)
   - https://github.com/YoungHaKim7/Algorithm_Training/commit/e6a23334e21738e40c48eac2c23b572cc0c93656
 
-- part 8 ( push -> std::mem::replce)
+- part 8 ( push -> std::mem::replce __ None만 됨)
   - https://github.com/YoungHaKim7/Algorithm_Training/commit/434807124f2b7f509475507e352e6be96f2de2ea
+
+- part 9 ( push add -> old_head, new_head ADD)
+  - https://github.com/YoungHaKim7/Algorithm_Training/commit/ea17f30fbe8c57651d52e188489978516505deb9
