@@ -36,3 +36,6 @@ https://rust-unofficial.github.io/too-many-lists/index.html
 
 - part 9 ( push add -> old_head, new_head ADD)
   - https://github.com/YoungHaKim7/Algorithm_Training/commit/ea17f30fbe8c57651d52e188489978516505deb9
+
+- part 10 (take -> && pop impl )
+  - https://github.com/YoungHaKim7/Algorithm_Training/commit/5ef3df2ed9a0948dbb5b8ecc79da5360f2dd831e
