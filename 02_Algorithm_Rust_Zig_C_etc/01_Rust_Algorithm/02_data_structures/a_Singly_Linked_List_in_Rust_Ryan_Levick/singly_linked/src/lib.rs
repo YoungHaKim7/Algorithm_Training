@@ -6,9 +6,9 @@
 //     element: u32,
 //     next: List,
 // }
-enum Node<'a> {
+enum Node {
     Empty,
-    NonEmpty(u32, &'a Node<'a>),
+    NonEmpty(u32, &'static Node),
 }
 
 #[cfg(test)]
@@ -21,6 +21,6 @@ mod tests {
         //     element: 1024,
         //     next: List::Empty,
         // });
-        let list = Node::NonEmpty(1091, &Box::new(Node::Empty));
+        let list = Node::NonEmpty(1091, &(Node::Empty));
     }
 }
