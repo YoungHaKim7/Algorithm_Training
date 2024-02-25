@@ -13,6 +13,12 @@
 
 <hr>
 
+# 트위터 추천 알고리즘(scala로 작성됨)
+
+- https://github.com/twitter/the-algorithm
+
+<hr>
+
 # 애니매이션으로 모든 물리학 공식과 같이 연관 되어 보기.. 진짜 대박 최고 !!❤
 - Animation vs. Physics | Alan Becker
   - https://youtu.be/ErMSHiQRnc8?si=mG-sttkOox6CS7Oq
