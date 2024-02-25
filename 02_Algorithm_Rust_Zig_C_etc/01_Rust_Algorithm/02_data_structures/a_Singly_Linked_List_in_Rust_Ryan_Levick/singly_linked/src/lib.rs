@@ -6,8 +6,8 @@ impl LinkedList<u32> {}
 impl LinkedList<String> {}
 
 impl<T> LinkedList<T> {
-    fn empty() -> LinkedList<T> {
-        LinkedList { head: None }
+    fn empty() -> Self {
+        Self { head: None }
     }
 
     fn push(&mut self, element: T) {
