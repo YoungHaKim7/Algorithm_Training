@@ -42,3 +42,9 @@ https://rust-unofficial.github.io/too-many-lists/index.html
 
 - part 11 (peak impl ++)
   - https://github.com/YoungHaKim7/Algorithm_Training/commit/b0561905713ef3ad08559afbea8cb6fe267d26bf
+
+- part 12 (peak ++)
+  - https://github.com/YoungHaKim7/Algorithm_Training/commit/0a35b194f2917ead97aa5d03b3b7abdd9d96e454
+
+- part 13 ( Generic T)
+  - https://github.com/YoungHaKim7/Algorithm_Training/commit/9a075a987c6dc46a01e5d3af66a8de6657b9de02
