@@ -24,6 +24,13 @@ impl LinkedList {
             n.element
         })
     }
+
+    fn peak(&mut self) -> Option<&u32> {
+        match &self.head {
+            Some(n) => Some(&n.element),
+            None => None,
+        }
+    }
 }
 
 #[derive(Debug)]
@@ -43,5 +50,7 @@ mod tests {
         let mut list = LinkedList::empty();
         list.push(1024);
         list.push(0);
+        list.pop();
+        list.peak();
     }
 }
