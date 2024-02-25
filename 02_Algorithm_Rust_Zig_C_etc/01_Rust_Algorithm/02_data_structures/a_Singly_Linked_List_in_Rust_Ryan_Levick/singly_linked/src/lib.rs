@@ -1,8 +1,14 @@
+struct LinkedList {
+    head: Link,
+}
+
 #[derive(Debug)]
 struct Node {
     element: u32,
-    next: List,
+    next: Link,
 }
+
+type Link = Option<Box<Node>>;
 
 #[derive(Debug)]
 enum List {
@@ -16,9 +22,9 @@ mod tests {
 
     #[test]
     fn it_works() {
-        let list = List::Link(Box::new(Node {
+        let list = Some(Box::new(Node {
             element: 1024,
-            next: List::Empty,
+            next: None,
         }));
         dbg!(list);
     }
