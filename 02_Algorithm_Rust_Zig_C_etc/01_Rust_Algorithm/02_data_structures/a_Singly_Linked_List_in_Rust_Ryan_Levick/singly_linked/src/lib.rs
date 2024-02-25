@@ -1,15 +1,16 @@
-use std::os::unix::fs::OpenOptionsExt;
-
-struct LinkedList {
-    head: Link,
+struct LinkedList<T> {
+    head: Link<T>,
 }
 
-impl LinkedList {
-    fn empty() -> Self {
-        Self { head: None }
+impl LinkedList<u32> {}
+impl LinkedList<String> {}
+
+impl<T> LinkedList<T> {
+    fn empty() -> LinkedList<T> {
+        LinkedList { head: None }
     }
 
-    fn push(&mut self, element: u32) {
+    fn push(&mut self, element: T) {
         let old_head = self.head.take();
         let new_head = Box::new(Node {
             element,
@@ -18,25 +19,28 @@ impl LinkedList {
         self.head = Some(new_head);
     }
 
-    fn pop(&mut self) -> Option<u32> {
+    fn pop(&mut self) -> Option<T> {
         self.head.take().map(|n| {
             self.head = n.next;
             n.element
         })
     }
 
-    fn peak(&mut self) -> Option<&u32> {
-        self.head.as_ref().map(|n| &n.element)
+    fn peak(&mut self) -> Option<&T> {
+        match &self.head {
+            Some(n) => Some(&n.element),
+            None => None,
+        }
     }
 }
 
 #[derive(Debug)]
-struct Node {
-    element: u32,
-    next: Link,
+struct Node<T> {
+    element: T,
+    next: Link<T>,
 }
 
-type Link = Option<Box<Node>>;
+type Link<T> = Option<Box<Node<T>>>;
 
 #[cfg(test)]
 mod tests {
