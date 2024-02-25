@@ -14,3 +14,6 @@ https://rust-unofficial.github.io/too-many-lists/index.html
 
 - part2
   - https://github.com/YoungHaKim7/Algorithm_Training/commit/f557d1fb9efdabf6b8059aa8c1af73b6ea76540e
+
+- part3
+  - https://github.com/YoungHaKim7/Algorithm_Training/commit/0f2a6219e9f98b0d9ea127897ed7842eab943236
