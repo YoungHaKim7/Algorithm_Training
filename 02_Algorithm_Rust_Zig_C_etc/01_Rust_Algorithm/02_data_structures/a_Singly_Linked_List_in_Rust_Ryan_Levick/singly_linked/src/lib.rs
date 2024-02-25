@@ -16,10 +16,11 @@ mod tests {
 
     #[test]
     fn it_works() {
-        let list = Some(Box::new(Node {
-            element: 1024,
-            next: None,
-        }));
-        dbg!(list);
+        let list = LinkedList {
+            head: Some(Box::new(Node {
+                element: 1024,
+                next: None,
+            })),
+        };
     }
 }
