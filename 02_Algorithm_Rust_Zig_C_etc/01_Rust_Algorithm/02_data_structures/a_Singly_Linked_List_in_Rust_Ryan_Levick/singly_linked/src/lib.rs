@@ -1,3 +1,5 @@
+use std::os::unix::fs::OpenOptionsExt;
+
 struct LinkedList {
     head: Link,
 }
@@ -14,6 +16,13 @@ impl LinkedList {
             next: old_head,
         });
         self.head = Some(new_head);
+    }
+
+    fn pop(&mut self) -> Option<u32> {
+        self.head.take().map(|n| {
+            self.head = n.next;
+            n.element
+        })
     }
 }
 
