@@ -10,12 +10,6 @@ struct Node {
 
 type Link = Option<Box<Node>>;
 
-#[derive(Debug)]
-enum List {
-    Empty,
-    Link(Box<Node>),
-}
-
 #[cfg(test)]
 mod tests {
     use super::*;
