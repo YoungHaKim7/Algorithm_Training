@@ -27,3 +27,6 @@ https://rust-unofficial.github.io/too-many-lists/index.html
 
 - part 6 (copy?? error code)
   - https://github.com/YoungHaKim7/Algorithm_Training/commit/c2ce54516052acd964d79ff29bf6712de62300a4
+
+- part 7 (impl push)
+  - https://github.com/YoungHaKim7/Algorithm_Training/commit/e6a23334e21738e40c48eac2c23b572cc0c93656
