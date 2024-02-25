@@ -2,6 +2,12 @@ struct LinkedList {
     head: Link,
 }
 
+impl LinkedList {
+    fn empty() -> Self {
+        Self { head: None }
+    }
+}
+
 #[derive(Debug)]
 struct Node {
     element: u32,
@@ -16,11 +22,6 @@ mod tests {
 
     #[test]
     fn it_works() {
-        let list = LinkedList {
-            head: Some(Box::new(Node {
-                element: 1024,
-                next: None,
-            })),
-        };
+        let list = LinkedList::empty();
     }
 }
