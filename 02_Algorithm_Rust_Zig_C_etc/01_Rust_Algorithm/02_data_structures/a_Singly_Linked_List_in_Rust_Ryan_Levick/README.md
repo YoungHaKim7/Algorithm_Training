@@ -6,3 +6,5 @@ https://rust-unofficial.github.io/too-many-lists/index.html
 
 <hr>
 
+# 외국 영상보고 내가 정리  러스트&C알고리즘이해003❤️rust algorithms_Singly_Linked List #algorithm #drawio #dio | GlobalYoung
+- https://youtu.be/UrkZRd0KItk?si=NG7gRWOHhmrt8k5Z
