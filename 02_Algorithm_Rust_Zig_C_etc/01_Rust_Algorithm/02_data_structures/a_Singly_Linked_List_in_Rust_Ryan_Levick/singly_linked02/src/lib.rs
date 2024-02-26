@@ -97,4 +97,26 @@ mod tests {
             }
         );
     }
+
+    #[test]
+    fn peak_test() {
+        let mut list = LinkedList::empty();
+        list.push(2048);
+        list.push(256);
+        list.peak();
+
+        assert_eq!(
+            list,
+            LinkedList {
+                head: Some(Box::new(Node {
+                    element: 256,
+                    next: Some(Box::new(Node {
+                        element: 2048,
+                        next: None,
+                    }),),
+                }),),
+            }
+        );
+        assert_eq!(list.peak(), Some(256).as_ref());
+    }
 }
