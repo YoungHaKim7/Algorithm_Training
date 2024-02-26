@@ -132,3 +132,7 @@ https://github.com/tomoyanonymous/nannou-web-template
 
 <hr>
 
+# Top 7 Algorithms for Coding Interviews Explained SIMPLY | Codebagel
+
+- https://youtu.be/kp3fCihUXEg?si=S4p5eGRW2gDZiWHV
+
