@@ -173,3 +173,11 @@ https://youtube.com/playlist?list=PLjHDjmY5z0pn_p5haaVYA-Epp5Hwx1gXO&si=88hlIRfY
 # Ampere-Maxwell
 
 https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/ampere_maxwell.html
+
+
+<hr>
+
+# 위상수학
+
+# 3차원 쌍곡 공간의 강직성: 유한 부피에서 무한 부피까지 [3] 2024년 2월 23일
+- https://horizon.kias.re.kr/27045/
