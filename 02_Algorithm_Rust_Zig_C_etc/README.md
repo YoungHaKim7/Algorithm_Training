@@ -71,6 +71,11 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 
 <br>
 
+# Chapter 1 | The Beauty of Graph Theory | CC ACADEMY
+
+- https://youtu.be/oXcCAAEDte0?si=NUUP6enKyPXF5kWV
+
+<hr>
 
 # My Desmos Graphs
 
