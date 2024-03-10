@@ -64,5 +64,27 @@ mod tests {
         // an implementation detail that may be changed in the future.
         let _ = q.steal_batch_with_limit(&w, std::usize::MAX);
         assert_eq!(w.len(), 3);
+        //
+        //
     }
+    #[test]
+    fn it_works_find_task() {
+        let local_worker: Worker<i32> = Worker::new_lifo();
+        let global_injector = Injector::new();
+        let mut stealers: Vec<Stealer<_>> = vec![];
+        local_worker.push(1);
+        local_worker.push(2);
+        local_worker.push(3);
+        local_worker.push(9);
+        global_injector.push(1);
+        global_injector.push(2);
+        global_injector.push(9);
+        global_injector.push(3);
+        stealers.pop();
+        stealers.pop();
+
+        let result = find_task(&local_worker, &global_injector, &stealers);
+        dbg!(result);
+    }
+    // Using find_task function
 }
