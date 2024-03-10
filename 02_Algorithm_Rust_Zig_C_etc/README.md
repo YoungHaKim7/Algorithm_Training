@@ -4,6 +4,8 @@ https://github.com/TheAlgorithms/Rust
 
 https://github.com/EbTech/rust-algorithms
 
+- 이거 많이 쓰는듯
+  - https://github.com/rust-num/num
 
 <hr>
 
