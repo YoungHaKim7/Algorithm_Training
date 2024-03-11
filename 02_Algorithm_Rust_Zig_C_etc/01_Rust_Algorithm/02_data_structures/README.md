@@ -1,3 +1,10 @@
+# Top 7 DataStructures
+
+- https://youtu.be/cQWr9DFE1ww?si=3y9dlKQfOeZ_qUqT
+
+
+<hr>
+
 # Learn Rust With Entirely Too Many Linked Lists
 
 https://rust-unofficial.github.io/too-many-lists/index.html
