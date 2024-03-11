@@ -63,9 +63,11 @@ Visual comparison chart: http://i.imgur.com/k0t1e.png
 
 <img src="https://i.imgur.com/k0t1e.png" />
 
-- https://norvig.com/21-days.html#answers
+
 
 <hr>
+
+- https://norvig.com/21-days.html#answers
 
 <a name="answers"><h2>Answers</h2></a>
 
