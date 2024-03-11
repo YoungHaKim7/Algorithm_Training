@@ -1,4 +1,4 @@
-# 양자 코딩 정리 
+# 양자 코딩 여기에 정리  중...
 
 https://github.com/YoungHaKim7/silq_project
 
