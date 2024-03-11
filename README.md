@@ -16,7 +16,7 @@
 
 # 프로그래머가 알아야 할 지연 시간 숫자를 시각적으로 표현  
 **[GN⁺: 모든 프로그래머가 알아야 할 필수 숫자들](<https://news.hada.io/topic?id=13749&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
-  
+  - https://samwho.dev/numbers/?fo
 - **L1 캐시 참조**: 1나노초  
 - **분기 예측 실패**: 3나노초  
 - **L2 캐시 참조**: 4나노초  
