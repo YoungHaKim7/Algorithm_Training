@@ -65,6 +65,26 @@ Visual comparison chart: http://i.imgur.com/k0t1e.png
 
 - https://norvig.com/21-days.html#answers
 
+<hr>
+
+<a name="answers"><h2>Answers</h2></a>
+
+Approximate timing for various operations on a typical PC:<p>
+<table border=1 cellpadding=2 cellspacing=2>
+<tr><td>execute typical instruction<td align=right> 1/1,000,000,000 sec = 1 nanosec
+<tr><td>fetch from L1 cache memory<td align=right> 0.5 nanosec
+<tr><td>branch misprediction<td align=right> 5 nanosec
+<tr><td>fetch from L2 cache memory<td align=right> 7 nanosec
+<tr><td>Mutex lock/unlock<td align=right> 25 nanosec
+<tr><td>fetch from main memory<td align=right> 100 nanosec 
+<tr><td>send 2K bytes over 1Gbps network<td align=right> 20,000 nanosec
+<tr><td>read 1MB sequentially from memory<td align=right> 250,000 nanosec
+<tr><td>fetch from new disk location (seek)<td align=right> 8,000,000 nanosec
+<tr><td>read 1MB sequentially from disk<td align=right> 20,000,000 nanosec
+<tr><td>send packet US to Europe and back<td align=right> 150 milliseconds = 150,000,000 nanosec
+    
+</table>
+
 - https://ko.m.wikipedia.org/wiki/%EB%B0%80%EB%A6%AC
 
 <table class="toccolours"><caption><b><a href="/wiki/SI_%EC%A0%91%EB%91%90%EC%96%B4" title="SI 접두어">SI 접두어</a></b><br><span style="font-size:small;"><span class="noprint plainlinks plainlinksneverexpand" style="white-space:nowrap; font-weight:normal; font-size:smaller; ;"><a href="/wiki/%ED%8B%80:SI_%EC%A0%91%EB%91%90%EC%96%B4" title="틀:SI 접두어"><span title="이 틀을 보기" style=";">v</span></a> <span style="font-size:smaller;">•</span> <a href="/w/index.php?title=%ED%8B%80%ED%86%A0%EB%A1%A0:SI_%EC%A0%91%EB%91%90%EC%96%B4&amp;action=edit&amp;redlink=1" class="new" title="틀토론:SI 접두어 (없는 문서)"><span title="이 틀에 대한 토론" style=";">d</span></a> <span style="font-size:smaller;">•</span> <a class="external text" href="https://ko.wikipedia.org/w/index.php?title=%ED%8B%80:SI_%EC%A0%91%EB%91%90%EC%96%B4&amp;action=edit"><span title="이 틀을 편집할 수 있습니다. 단, 저장하기 전에 미리 보기로 결과를 확인하여 주십시오." style=";">e</span></a> <span style="font-size:smaller;">•</span> <a class="external text" href="https://ko.wikipedia.org/w/index.php?title=%ED%8B%80:SI_%EC%A0%91%EB%91%90%EC%96%B4&amp;action=history"><span title="이 틀의 역사를 볼 수 있습니다." style=";">h</span></a></span></span>
