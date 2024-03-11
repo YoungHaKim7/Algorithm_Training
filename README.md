@@ -13,6 +13,17 @@
 
 <hr>
 
+**[GN⁺: 모든 프로그래머가 알아야 할 필수 숫자들](<https://news.hada.io/topic?id=13749&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+# 프로그래머가 알아야 할 지연 시간 숫자를 시각적으로 표현  
+  
+- **L1 캐시 참조**: 1나노초  
+- **분기 예측 실패**: 3나노초  
+- **L2 캐시 참조**: 4나노초  
+- **뮤텍스 잠금/해제**: 17나노초  
+- **1 Gbps 네트워크를 통한 1KB 데이터 전송**: 44나노초  
+- **주 메모리 참조**: 100나노초  
+- **Zipp...
+
 # 트위터 추천 알고리즘(scala로 작성됨)
 
 - https://github.com/twitter/the-algorithm
