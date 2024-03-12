@@ -13,7 +13,12 @@
 
 <hr>
 
+#
 
+- https://youtu.be/VCvS4MV0hEM?si=AYIByJl4ySYC2efv
+
+<hr>
+ 
 # 프로그래머가 알아야 할 지연 시간 숫자를 시각적으로 표현  
 **[GN⁺: 모든 프로그래머가 알아야 할 필수 숫자들](<https://news.hada.io/topic?id=13749&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
   - https://samwho.dev/numbers/?fo
