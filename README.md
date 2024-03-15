@@ -20,6 +20,8 @@
   - part2
     -  https://youtu.be/PWEVqrhTLro?si=TcDFRGpMOcb_uVOj
 
+  - part3
+    - https://youtu.be/jURoQtKgjqY?si=y7TF2kRO0I5uJh0P
 <hr>
  
 # 프로그래머가 알아야 할 지연 시간 숫자를 시각적으로 표현  
