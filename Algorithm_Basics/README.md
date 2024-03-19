@@ -1,3 +1,11 @@
+# 8진수 표현법 octal representation
+
+|100|101|110|001|010|100|
+|-|-|-|-|-|-|
+
+
+<hr>
+
 # The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever? | Reducible
 
 https://youtu.be/h7apO7q16V0
