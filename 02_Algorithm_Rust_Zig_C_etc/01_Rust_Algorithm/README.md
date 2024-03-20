@@ -4,6 +4,7 @@ https://github.com/TheAlgorithms/Rust
 
 https://github.com/EbTech/rust-algorithms
 
+https://github.com/douchuan/algorithm
 
 <hr>
 
