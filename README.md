@@ -334,10 +334,8 @@ Approximate timing for various operations on a typical PC:<p>
 # 애니매이션으로 모든 물리학 공식과 같이 연관 되어 보기.. 진짜 대박 최고 !!❤
 - Animation vs. Physics | Alan Becker
   - https://youtu.be/ErMSHiQRnc8?si=mG-sttkOox6CS7Oq
-    - 한글 버젼 애니메이션 vs 물리학 한글 자막
+    - 한글 버젼 애니메이션 vs 물리학 한글 자막 | 물리학과
       - https://youtu.be/qYJbrCQovzE?si=pBsAExRd1E3sVXBO
-물리학과
-구독자 458명
 - Animation vs. Math | Alan Becker
   - https://youtu.be/B1J6Ou4q8vE?si=53zJzMx2_-mTXdbS
 
@@ -408,6 +406,11 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 # 알고리즘 정렬 이미지
 
 <img src="https://t1.daumcdn.net/cfile/tistory/27123F41549E2B2D2B?original" />
+
+- Random(Shell & Heap . 가 젤 빠름)
+- Nearly Sorted(Insert 가 젤 빠름)
+- Reverse(Shell 가 젤 빠름)
+- Few Unique(Quick3 가 젤 빠름) 
 
 <hr>
 
