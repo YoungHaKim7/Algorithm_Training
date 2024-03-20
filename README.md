@@ -13,6 +13,12 @@
 
 <hr>
 
+# Latex 문법
+
+- https://junia3.github.io/blog/latex_symbols
+
+<hr>
+
 # 사람의 눈보다 더 빨리 움직이는 걸 볼 수 있다면? | 우리 눈이 볼 수 없는 세계 (1) 초고속의 순간 #BBC | 세상의 모든 다큐
 
 - https://youtu.be/VCvS4MV0hEM?si=AYIByJl4ySYC2efv
