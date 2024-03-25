@@ -149,6 +149,11 @@ https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-f
 
 <hr>
 
+# The Mystery of Spinors | Richard Behiel 
+- https://youtu.be/b7OIbMCIfs4?si=Dxyd231uerWk-8XE
+
+<hr>
+
 # The Math behind (most) 3D games - Perspective Projection | Brendan Galea
 
 https://youtu.be/U0_ONQQ5ZNM
