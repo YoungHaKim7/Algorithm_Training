@@ -12,6 +12,31 @@ https://man7.org/linux/man-pages/man2/_syscall.2.html
 
 # Process status
 
+<hr>
+
+- Batch Job(시스템 상태)
+  - [상태]
+    - Create
+    - Run
+    - Terminate
+- 시분할 시스템 상태(time-sharing)
+  - [상태]
+    - Active State
+      - Create(생성)
+      - Readying(준비)
+      - Running(실행)
+      - Waiting(대기)
+      - Terminating(종료)
+
+      ---------------------------------------------
+    - Inactive State
+      - Pause State(휴식)
+      - Suspend State(보류)
+
+- [time-sharing](https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%B6%84%ED%95%A0_%EC%8B%9C%EC%8A%A4%ED%85%9C)
+
+<hr>
+
 <p align="center">
     <img src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/844fb8c7-ede3-4785-9517-263c65a798d3">
 </p>
