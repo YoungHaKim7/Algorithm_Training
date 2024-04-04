@@ -12,6 +12,11 @@ https://man7.org/linux/man-pages/man2/_syscall.2.html
 
 # Process status
 
+![os-process-state-diagram](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/844fb8c7-ede3-4785-9517-263c65a798d3)
+
+- https://www.javatpoint.com/os-process-states
+
+
 https://enlqn1010.tistory.com/30
 
 ```mermaid
