@@ -1,3 +1,9 @@
+# 네트워크 기초 무료 강의 | 새내기 개발자들을 위한 필수 가이드 ,ARP  | 크래프트맨 멘탈리티
+
+- https://youtu.be/dsoAkoxZ13o?si=OaqPkyXtvybagCnP
+
+<hr>
+
 # Ip-Subnet-calculator
 
 - https://www.calculator.net/ip-subnet-calculator.html
