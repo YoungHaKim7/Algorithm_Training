@@ -1,3 +1,9 @@
+# link
+
+- [그래프알고리즘 이해(기초)](test)
+
+<hr>
+
 # Rust_ Algorithms
 
 https://github.com/TheAlgorithms/Rust
@@ -150,3 +156,5 @@ https://github.com/tomoyanonymous/nannou-web-template
     - https://ko.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/describing-graphs
 - [그래프] 쉽게 쓴 그래프 알고리즘 기초 (2018.03.06 수정완료)설명 그림하고 짱
   - https://m.blog.naver.com/occidere/220923695595
+- 그래프 알고리즘 ㅜㅜ 외계어구만
+  - https://velog.io/@boyeon_jeong/그래프-종류-및-개념
