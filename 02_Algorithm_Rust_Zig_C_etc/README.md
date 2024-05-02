@@ -143,3 +143,10 @@ https://github.com/tomoyanonymous/nannou-web-template
 
 - https://youtu.be/kp3fCihUXEg?si=S4p5eGRW2gDZiWHV
 
+
+# 그래프 알고리즘 이해
+- 역시 khan 아카데미 짱
+  - 그래프 설명하기
+    - https://ko.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/describing-graphs
+- [그래프] 쉽게 쓴 그래프 알고리즘 기초 (2018.03.06 수정완료)설명 그림하고 짱
+  - https://m.blog.naver.com/occidere/220923695595
