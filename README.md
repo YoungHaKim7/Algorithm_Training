@@ -10,7 +10,7 @@
 # 유료강의
 - fastcampus(현실 세상의 컴퓨터공학 지식 with 30가지 실무 시나리오 초격차 패키지 Online
   - https://fastcampus.co.kr/dev_online_newcomputer
-    - 컴퓨터 구조 몰아보기(7hr)
+    - (맛보기무료)컴퓨터 구조 몰아보기(7hr)
       - https://youtu.be/kFWP6sFKyp0?si=IXbGZgn6jp_RRkg_
 
 <hr>
