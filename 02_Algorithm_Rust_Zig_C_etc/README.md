@@ -1,10 +1,10 @@
 # link
 
-- [그래프알고리즘 이해(기초)](test)
+- [그래프알고리즘 이해(기초)](#그래프-알고리즘-이해)
 
 <hr>
 
-# Rust_ Algorithms
+# Rust_ Algorithms[[🔝]](#link)
 
 https://github.com/TheAlgorithms/Rust
 
@@ -20,7 +20,7 @@ https://github.com/EbTech/rust-algorithms
     - https://github.com/SanskrutiReddy/Rust-crate-for-graph-algorithms
 
 
-# 대표적인 알고리즘 정리
+# 대표적인 알고리즘 정리[[🔝]](#link)
 
 1. 정렬(Sort)
 2. 검색(Search)
@@ -29,7 +29,7 @@ https://github.com/EbTech/rust-algorithms
 
 
 
-# 자료 구조
+# 자료 구조[[🔝]](#link)
 
 https://github.com/YoungHaKim7/c_project/tree/main/exercise/002stack
 
@@ -79,13 +79,13 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 
 <br>
 
-# Chapter 1 | The Beauty of Graph Theory | CC ACADEMY
+# Chapter 1 | The Beauty of Graph Theory | CC ACADEMY[[🔝]](#link)
 
 - https://youtu.be/oXcCAAEDte0?si=NUUP6enKyPXF5kWV
 
 <hr>
 
-# My Desmos Graphs
+# My Desmos Graphs[[🔝]](#link)
 
 https://www.desmos.com/calculator/iuapuknd57
 
@@ -97,7 +97,7 @@ https://youtu.be/1tfdr1Iv6JA
 
 <hr>
 
-# Big O Notations
+# Big O Notations[[🔝]](#link)
 
 https://youtu.be/V6mKVRU1evU
 
@@ -121,7 +121,7 @@ https://youtu.be/TUiv2UgDgOQ
 <hr>
 
 
-#  Visualizing Data Structures and Algorithms with VS Code
+#  Visualizing Data Structures and Algorithms with VS Code[[🔝]](#link)
 
 https://youtu.be/ElbGMWA6wA4
 
@@ -130,7 +130,7 @@ https://youtu.be/ElbGMWA6wA4
 <hr>
 
 
-# The Algorithms _Rust Language
+# The Algorithms _Rust Language[[🔝]](#link)
 
 https://github.com/TheAlgorithms/Rust
 
@@ -139,18 +139,18 @@ https://github.com/TheAlgorithms/Rust
 <hr>
 
 
-# 다른 외국 사람이 러스트로 만든 알고리즘 웹으로 구현
+# 다른 외국 사람이 러스트로 만든 알고리즘 웹으로 구현[[🔝]](#link)
 
 https://github.com/tomoyanonymous/nannou-web-template
 
 <hr>
 
-# Top 7 Algorithms for Coding Interviews Explained SIMPLY | Codebagel
+# Top 7 Algorithms for Coding Interviews Explained SIMPLY | Codebagel[[🔝]](#link)
 
 - https://youtu.be/kp3fCihUXEg?si=S4p5eGRW2gDZiWHV
 
 
-# 그래프 알고리즘 이해
+# 그래프 알고리즘 이해[[🔝]](#link)
 - 역시 khan 아카데미 짱
   - 그래프 설명하기
     - https://ko.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/describing-graphs
