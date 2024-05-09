@@ -1,6 +1,16 @@
 # link
 
-- 
+- [양자역학은-여기에-정리-중](#양자역학은-여기에-정리-중)
+
+- [파동방정식](#파동방정식)
+
+- [현대물리는-여기에-양자역학을-추가하면-됨](#현대물리는-여기에-양자역학을-추가하면-됨)
+
+- [고전물리의-완성-19세기말-물체의-운동-2개--전기와-자기로-이세상-설명이-다-가능함](#고전물리의-완성-19세기말-물체의-운동-2개--전기와-자기로-이세상-설명이-다-가능함)
+
+- [#물체의-운동-2개-start](#물체의-운동-2개-start)
+
+- [전기와-자기-4개-공식-start](#전기와-자기-4개-공식-start)
 
 <hr>
 
@@ -201,5 +211,15 @@ https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/ampere_maxwel
 
 <hr>
 
+# Game Dev.
+
 # 계산 퍼즐에 대한 가장 예상치 못한 답 | 3Blue1Brown[[🔝]](#link)
 - https://youtu.be/HEfHFsfGXjs?si=ddtsMPkjMnAXohv-
+
+# quaternion
+
+# How to rotate 2D image in 3D space using a quaternion
+- https://gamedev.stackexchange.com/questions/204878/how-to-rotate-2d-image-in-3d-space-using-a-quaternion
+
+# 입체 투영으로 쿼터니언(4d 숫자) 시각화| 3Blue1Brown
+https://youtu.be/d4EgbgTm0Bg?si=yTm8-X8ARBHF8cTU
