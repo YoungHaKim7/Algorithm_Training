@@ -1,4 +1,10 @@
-# 양자역학은 여기에 정리 중..
+# link
+
+- 
+
+<hr>
+
+# 양자역학은 여기에 정리 중.[[🔝]](#link)
 
 - https://github.com/YoungHaKim7/silq_project
 
@@ -57,7 +63,7 @@
 
 <hr>
 
-# 고전물리의 완성 (19세기말) 물체의 운동 2개 , 전기와 자기로 이세상 설명이 다 가능함.
+# 고전물리의 완성 (19세기말) 물체의 운동 2개 , 전기와 자기로 이세상 설명이 다 가능함.[[🔝]](#link)
 
 # 물체의 운동 2개 ~~~~~start~~~~
 
@@ -69,7 +75,7 @@
 
 <hr>
 
-# 전기와 자기 4개 공식 ~~~~~start~~~~
+# 전기와 자기 4개 공식 ~~~~~start~~~~[[🔝]](#link)
 
 ## $\nabla\cdot E = \frac{\rho}{\epsilon_0}$  (Gauss'Law)
 
@@ -110,7 +116,7 @@
 
 # 전기와 자기 4개 공식 ~~~~~end~~~~
 
-# 파동방정식
+# 파동방정식[[🔝]](#link)
 
 ## $\nabla^2 E - \mu_0\epsilon_0 \frac{\partial^2 E}{\partial t^2} = 0 $
 - 파동방정식은
@@ -132,7 +138,7 @@
 
 <br>
 
-# 현대물리는 여기에 양자역학을 추가하면 됨.
+# 현대물리는 여기에 양자역학을 추가하면 됨.[[🔝]](#link)
 
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
 
@@ -149,39 +155,39 @@ https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-f
 
 <hr>
 
-# The Mystery of Spinors | Richard Behiel 
+# The Mystery of Spinors | Richard Behiel [[🔝]](#link)
 - https://youtu.be/b7OIbMCIfs4?si=Dxyd231uerWk-8XE
 
 <hr>
 
-# The Math behind (most) 3D games - Perspective Projection | Brendan Galea
+# The Math behind (most) 3D games - Perspective Projection | Brendan Galea[[🔝]](#link)
 
 https://youtu.be/U0_ONQQ5ZNM
 
-#  The scariest thing you learn in Electrical Engineering | The Smith Chart | Zach Star
+#  The scariest thing you learn in Electrical Engineering | The Smith Chart | Zach Star[[🔝]](#link)
 
 https://youtu.be/pXWbdxOAuDs?si=iFq4dmffn2YGsfSk
 
 
-# The Vector Equation of a 3D Line | Serpentine Integral
+# The Vector Equation of a 3D Line | Serpentine Integral[[🔝]](#link)
 - https://youtu.be/3qZcgiTZRPA?si=NYOhoHgtao1xNBF-
 
-# Understanding Lagrange Multipliers Visually | Serpentine Integral
+# Understanding Lagrange Multipliers Visually | Serpentine Integral[[🔝]](#link)
 
 https://youtu.be/5A39Ht9Wcu0?si=YhRq5P-oInEfatXF
 
-# Change of Variables and the Jacobian | Serpentine Integral
+# Change of Variables and the Jacobian | Serpentine Integral[[🔝]](#link)
 
 https://youtu.be/hhFzJvaY__U?si=LSdQZsmFa6OkwhEV
 
-# (영상모아보기)Multivariable Calculus Theory | Serpentine Integral
+# (영상모아보기)Multivariable Calculus Theory | Serpentine Integral[[🔝]](#link)
 
 https://youtube.com/playlist?list=PLjHDjmY5z0pn_p5haaVYA-Epp5Hwx1gXO&si=88hlIRfY5q_B7a2q
 
 
 <hr>
 
-# Ampere-Maxwell
+# Ampere-Maxwell[[🔝]](#link)
 
 https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/ampere_maxwell.html
 
@@ -190,5 +196,10 @@ https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/ampere_maxwel
 
 # 위상수학
 
-# 3차원 쌍곡 공간의 강직성: 유한 부피에서 무한 부피까지 [3] 2024년 2월 23일
+# 3차원 쌍곡 공간의 강직성: 유한 부피에서 무한 부피까지 [3] 2024년 2월 23일[[🔝]](#link)
 - https://horizon.kias.re.kr/27045/
+
+<hr>
+
+# 계산 퍼즐에 대한 가장 예상치 못한 답 | 3Blue1Brown[[🔝]](#link)
+- https://youtu.be/HEfHFsfGXjs?si=ddtsMPkjMnAXohv-
