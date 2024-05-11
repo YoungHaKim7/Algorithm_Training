@@ -5,6 +5,12 @@
 # aswesome-algorithms-education
 https://github.com/gaerae/awesome-algorithms-education/blob/master/readme-ko.md
 
+
+<hr>
+
+# 4차원 도형 만들기(The Tesseract)
+- https://youtu.be/iGO12Z5Lw8s?si=CZHU8mwQsVmXhhDI
+
 <hr>
 
 # 8진수 표현법 octal representation
