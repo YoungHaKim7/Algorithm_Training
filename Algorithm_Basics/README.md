@@ -11,6 +11,10 @@ https://github.com/gaerae/awesome-algorithms-education/blob/master/readme-ko.md
 # 4차원 도형 만들기(The Tesseract)
 - https://youtu.be/iGO12Z5Lw8s?si=CZHU8mwQsVmXhhDI
 
+# Why you didn't learn tetration in school[Tetration] | Prime Newtons
+
+- https://youtu.be/Ea1_1aVfwl4?si=FI_eo9MuXt9oAXnt
+
 <hr>
 
 # Algorithm Archive | Leios Labs
