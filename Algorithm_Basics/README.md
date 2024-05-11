@@ -13,6 +13,11 @@ https://github.com/gaerae/awesome-algorithms-education/blob/master/readme-ko.md
 
 <hr>
 
+# Algorithm Archive | Leios Labs
+- https://youtube.com/playlist?list=PLnQX-jgAF5pS84JensSc5obSeINL-gqA4&si=7PHDdaNh8o0IXJRm
+
+<hr>
+
 # 8진수 표현법 octal representation
 
 |binary|100|101|110|001|010|100|
