@@ -2,6 +2,8 @@
 
 - https://pigbrain.github.io/math/2015/07/15/MathematicalSymbol_on_Math
 
+![Symbol](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/652528c1-0c39-43a1-8013-69693b4f9dd4)
+
 - 수학기호의 의미
 
   - σ : 소문자 시그마는 표준편차를 나타내는 기호
