@@ -28,7 +28,8 @@ https://github.com/gaerae/awesome-algorithms-education/blob/master/readme-ko.md
 # 자료구조란?
 - https://m.blog.naver.com/confidence65491/223022036318
   - 출처 : C언어로 쉽게 풀어쓴 자료구조(개정 3판) <천인국, 공용해, 하상호>
-사람들이 사물을 정리하는 것과 마찬가지로 프로그램에서도 자료들을 정리하여 보관하는 여러 가지 구조들
+
+- 사람들이 사물을 정리하는 것과 마찬가지로 프로그램에서도 자료들을 정리하여 보관하는 여러 가지 구조들
 ​
 ```
 ex) 그릇을 쌓아서 보관하는 것     -> 스택
