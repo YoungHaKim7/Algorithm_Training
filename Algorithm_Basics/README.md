@@ -28,12 +28,14 @@ https://github.com/gaerae/awesome-algorithms-education/blob/master/readme-ko.md
 # 자료구조란?
 사람들이 사물을 정리하는 것과 마찬가지로 프로그램에서도 자료들을 정리하여 보관하는 여러 가지 구조들
 ​
+```
 ex) 그릇을 쌓아서 보관하는 것 -> 스택
       마트 계산대의 줄            -> 큐
       버킷 리스트                -> 리스트
       영어사전                   -> 사전
       지도                      -> 그래프
       컴퓨터의 디렉토리 구조     -> 트리
+```
 
 <hr>
 
