@@ -1,3 +1,9 @@
+# 수학기호와 의미
+
+- https://pigbrain.github.io/math/2015/07/15/MathematicalSymbol_on_Math
+
+<hr>
+
 # How to self study pure math - a step-by-step guide
 
 https://youtu.be/byNaO_zn2fI
