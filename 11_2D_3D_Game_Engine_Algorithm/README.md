@@ -215,7 +215,7 @@ https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/ampere_maxwel
 
 <hr>
 
-# 위상수학
+# 위상수학[[🔝]](#link)
 
 # 3차원 쌍곡 공간의 강직성: 유한 부피에서 무한 부피까지 [3] 2024년 2월 23일[[🔝]](#link)
 - https://horizon.kias.re.kr/27045/
@@ -224,17 +224,17 @@ https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/ampere_maxwel
 
 <hr>
 
-# Game Dev.
+# Game Dev.[[🔝]](#link)
 
 # 계산 퍼즐에 대한 가장 예상치 못한 답 | 3Blue1Brown[[🔝]](#link)
 - https://youtu.be/HEfHFsfGXjs?si=ddtsMPkjMnAXohv-
 
-# quaternion
+# quaternion[[🔝]](#link)
 
-# How to rotate 2D image in 3D space using a quaternion
+# How to rotate 2D image in 3D space using a quaternion[[🔝]](#link)
 - https://gamedev.stackexchange.com/questions/204878/how-to-rotate-2d-image-in-3d-space-using-a-quaternion
 
-# 입체 투영으로 쿼터니언(4d 숫자) 시각화| 3Blue1Brown
+# 입체 투영으로 쿼터니언(4d 숫자) 시각화| 3Blue1Brown[[🔝]](#link)
 https://youtu.be/d4EgbgTm0Bg?si=yTm8-X8ARBHF8cTU
 
 
@@ -242,8 +242,8 @@ https://youtu.be/d4EgbgTm0Bg?si=yTm8-X8ARBHF8cTU
 
 - https://youtu.be/EXHR2-hECRM?si=w0upBH2l9W3xHXjO
 
-# 내적 외적 이해
+# 내적 외적 이해[[🔝]](#link)
 https://youtu.be/cpRgDDoGktk?si=qa8mwYFozUndljND
 
-# 직교성 (Orthogonality
+# 직교성 (Orthogonality[[🔝]](#link)
 https://hewonjeong.github.io/orthogonality/
