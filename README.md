@@ -119,6 +119,8 @@ Visual comparison chart: http://i.imgur.com/k0t1e.png
 ```
 - https://gist.github.com/jboner/2841832
 
+- 이게 고화질 https://colin-scott.github.io/personal_website/research/interactive_latency.html
+
 <img src="https://i.imgur.com/k0t1e.png" />
 
 
