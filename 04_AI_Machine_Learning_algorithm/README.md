@@ -2,7 +2,7 @@
 
 - https://youtu.be/cpRgDDoGktk?si=qa8mwYFozUndljND
 
-# 🤖 국제 로봇대회 1위 x 서울대 AI | 메타코드M
+# (시리즈모아보기)🤖 국제 로봇대회 1위 x 서울대 AI | 메타코드M
 - https://youtube.com/playlist?list=PL7SDcmtbDTTzQ69rNQ85LyA2WAx438pxz&si=6nAMIetAs7r3XyTH
 
 <hr>
