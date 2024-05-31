@@ -7,8 +7,33 @@
 # link
 
 - [latex-문법](#latex-문법)
+  - [수학-공식-테스트-하기live-web---latex](#수학-공식-테스트-하기live-web---latex)
+  - [마크-다운에-수학-공식-넣는-방법](#마크-다운에-수학-공식-넣는-방법)
 
 - [사람의-눈보다-더-빨리-움직이는-걸-볼-수-있다면--우리-눈이-볼-수-없는-세계-1-초고속의-순간-bbc--세상의-모든-다큐](#사람의-눈보다-더-빨리-움직이는-걸-볼-수-있다면--우리-눈이-볼-수-없는-세계-1-초고속의-순간-bbc--세상의-모든-다큐)
+  - [프로그래머가-알아야-할-지연-시간-숫자를-시각적으로-표현](#프로그래머가-알아야-할-지연-시간-숫자를-시각적으로-표현)
+  - [무작위-속-질서-중심극한정리--확률과-통계--3blue1brown-한국어](#무작위-속-질서-중심극한정리--확률과-통계--3blue1brown-한국어)
+  - [애니매이션으로-모든-물리학-공식과-같이-연관-되어-보기-진짜-대박-최고](#애니매이션으로-모든-물리학-공식과-같이-연관-되어-보기-진짜-대박-최고-)
+
+- [수학-그래프를-그리는-도구](#수학-그래프를-그리는-도구)
+
+- [알고리즘-관련](#알고리즘-관련)
+  - [트위터-추천-알고리즘scala로-작성됨](#트위터-추천-알고리즘scala로-작성됨)
+  - [자료-구조Data Structure](#자료-구조)
+    - [서울대 Data Structure자료 굿](https://datalab.snu.ac.kr/~ukang/courses/24S-DS/)
+  - [대표적인-알고리즘-정리](#대표적인-알고리즘-정리)
+  - [알고리즘-정렬-이미지](#알고리즘-정렬-이미지)
+  - [structuredprogramming](#structuredprogramming)
+  - [파이썬으로-알고리즘-구조-이해하기](#파이썬으로-알고리즘-구조-이해하기)
+
+- [big-picture-of-calculus--mit-opencourseware](#big-picture-of-calculus--mit-opencourseware)
+
+- [amazon관련책-algorithms-4th-edition-kindle-edition](#amazon관련책-algorithms-4th-edition-kindle-edition)
+
+- [algorithms--algorithms-design-and-analysis](#algorithms--algorithms-design-and-analysis)
+
+- [quantum-programming](#quantum-programming)
+  - [visualization-of-quantum-physics-quantum-mechanics](#visualization-of-quantum-physics-quantum-mechanics)
 
 <hr>
 
@@ -353,7 +378,7 @@ Approximate timing for various operations on a typical PC:<p>
 
 <br>
 
-# 자료 구조
+# 자료 구조[[🔝]](#link)
 
 https://github.com/YoungHaKim7/c_project/tree/main/exercise/002stack
 
