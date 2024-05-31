@@ -4,10 +4,15 @@
     <img align="center" alt="algorithm" width="180px" src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/0dbe2ef1-78c3-458b-9893-4abaed1d8080">
 </p>
 
+# link
+
+- [latex-문법](#latex-문법)
+
+- [사람의-눈보다-더-빨리-움직이는-걸-볼-수-있다면--우리-눈이-볼-수-없는-세계-1-초고속의-순간-bbc--세상의-모든-다큐](#사람의-눈보다-더-빨리-움직이는-걸-볼-수-있다면--우리-눈이-볼-수-없는-세계-1-초고속의-순간-bbc--세상의-모든-다큐)
 
 <hr>
 
-# 유료강의
+# 유료강의[[🔝]](#link)
 - fastcampus(현실 세상의 컴퓨터공학 지식 with 30가지 실무 시나리오 초격차 패키지 Online
   - https://fastcampus.co.kr/dev_online_newcomputer
     - (맛보기무료)컴퓨터 구조 몰아보기(7hr)
@@ -15,13 +20,13 @@
 
 <hr>
 
-# Latex 문법
+# Latex 문법[[🔝]](#link)
 
 - https://junia3.github.io/blog/latex_symbols
 
 <hr>
 
-# 사람의 눈보다 더 빨리 움직이는 걸 볼 수 있다면? | 우리 눈이 볼 수 없는 세계 (1) 초고속의 순간 #BBC | 세상의 모든 다큐
+# 사람의 눈보다 더 빨리 움직이는 걸 볼 수 있다면? | 우리 눈이 볼 수 없는 세계 (1) 초고속의 순간 #BBC | 세상의 모든 다큐[[🔝]](#link)
 
 - https://youtu.be/VCvS4MV0hEM?si=AYIByJl4ySYC2efv
 
@@ -32,7 +37,7 @@
     - https://youtu.be/jURoQtKgjqY?si=y7TF2kRO0I5uJh0P
 <hr>
  
-# 프로그래머가 알아야 할 지연 시간 숫자를 시각적으로 표현  
+# 프로그래머가 알아야 할 지연 시간 숫자를 시각적으로 표현[[🔝]](#link)
 **[GN⁺: 모든 프로그래머가 알아야 할 필수 숫자들](<https://news.hada.io/topic?id=13749&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
   - https://samwho.dev/numbers/?fo
 - **L1 캐시 참조**: 1나노초  
@@ -327,13 +332,13 @@ Approximate timing for various operations on a typical PC:<p>
 </td></tr></tbody></table>
 
 
-# 트위터 추천 알고리즘(scala로 작성됨)
+# 트위터 추천 알고리즘(scala로 작성됨)[[🔝]](#link)
 
 - https://github.com/twitter/the-algorithm
 
 <hr>
 
-# 애니매이션으로 모든 물리학 공식과 같이 연관 되어 보기.. 진짜 대박 최고 !!❤
+# 애니매이션으로 모든 물리학 공식과 같이 연관 되어 보기.. 진짜 대박 최고 !!❤[[🔝]](#link)
 - Animation vs. Physics | Alan Becker
   - https://youtu.be/ErMSHiQRnc8?si=mG-sttkOox6CS7Oq
     - 한글 버젼 애니메이션 vs 물리학 한글 자막 | 물리학과
@@ -396,7 +401,7 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 
 <hr>
 
-# 대표적인 알고리즘 정리
+# 대표적인 알고리즘 정리[[🔝]](#link)
 
 1. 정렬(Sort)
 2. 검색(Search)
@@ -405,7 +410,7 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 
 <hr>
 
-# 알고리즘 정렬 이미지
+# 알고리즘 정렬 이미지[[🔝]](#link)
 
 <img src="https://t1.daumcdn.net/cfile/tistory/27123F41549E2B2D2B?original" />
 
@@ -416,7 +421,7 @@ Associative array(Multimap, Retrieval Data Structure), List, StackQueue(Double-e
 
 <hr>
 
-# StructuredProgramming
+# StructuredProgramming[[🔝]](#link)
 - 알고리즘을 기술할 목적으로 만들어진 언어 중 하나가 SPARKS(Structured Programming: A Reasonably Kimplete Set)
 - 구성
 ```
@@ -461,16 +466,16 @@ https://www.amazon.com/Algorithms-Algorithms_4-Robert-Sedgewick-ebook/dp/B004P8J
 
 <hr>
 
-# Big Picture of Calculus | MIT OpenCourseWare
+# Big Picture of Calculus | MIT OpenCourseWare[[🔝]](#link)
 
 https://youtu.be/UcWsDwg1XwM
 
 
-# 파이썬으로 알고리즘 구조 이해하기
+# 파이썬으로 알고리즘 구조 이해하기[[🔝]](#link)
 
 - 파이썬으로 알고리즘 공부하기 https://academy.cs.cmu.edu/
 
-# 수학 그래프를 그리는 도구
+# 수학 그래프를 그리는 도구[[🔝]](#link)
 
 - Demos & GeoGebra
   - https://www.desmos.com/
@@ -503,12 +508,12 @@ https://youtu.be/UcWsDwg1XwM
 
 <hr>
 
-# Quantum Programming 
+# Quantum Programming[[🔝]](#link)
 
 - Quantum Programming Part 1(설명 굿👍)
   - https://youtu.be/2Eswqed8agg
 
-# Visualization of Quantum Physics (Quantum Mechanics)
+# Visualization of Quantum Physics (Quantum Mechanics)[[🔝]](#link)
 
 - 2분 21초 https://youtu.be/p7bzE1E5PMY
 - 슈뢰딩거 방정식(영어: Schrödinger equation) 그림으로 이해하기
@@ -537,12 +542,12 @@ https://www.siue.edu/~mnorton/quantum.pdf
 
 <hr>
 
-# 마크 다운에 수학 공식 넣는 방법
+# 마크 다운에 수학 공식 넣는 방법[[🔝]](#link)
 
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
 
 
-# 수학 공식 테스트 하기(live web - latex)
+# 수학 공식 테스트 하기(live web - latex)[[🔝]](#link)
 
 https://www.mathjax.org/
 
