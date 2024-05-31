@@ -32,6 +32,8 @@
 
 - [algorithms--algorithms-design-and-analysis](#algorithms--algorithms-design-and-analysis)
 
+<hr>
+
 - [quantum-programming](#quantum-programming)
   - [visualization-of-quantum-physics-quantum-mechanics](#visualization-of-quantum-physics-quantum-mechanics)
 
