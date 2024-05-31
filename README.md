@@ -36,6 +36,7 @@
 
 - [quantum-programming](#quantum-programming)
   - [visualization-of-quantum-physics-quantum-mechanics](#visualization-of-quantum-physics-quantum-mechanics)
+  - [양자 코딩 여기에 정리  중...](https://github.com/YoungHaKim7/silq_project)
 
 <hr>
 
