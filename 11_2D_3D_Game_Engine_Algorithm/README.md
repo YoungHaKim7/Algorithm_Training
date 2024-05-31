@@ -14,6 +14,12 @@
 
 <hr>
 
+- [허수imaginary-number-𝑖ℝ--𝕀--𝔍-는-어떻게-만들어-졌을까--지면-실업자가-되는-수학-배틀](#허수imaginary-number-𝑖ℝ--𝕀--𝔍-는-어떻게-만들어-졌을까--지면-실업자가-되는-수학-배틀)
+
+- [이산-수학discrete-mathematics책에-나오는-수학용어-영어로-%EF%B8%8F정리자연수ℕ-정수ℤ등등](#이산-수학discrete-mathematics책에-나오는-수학용어-영어로-%EF%B8%8F정리자연수ℕ-정수ℤ등등)
+
+<hr>
+
 - [game-dev](#game-dev)
 
   - [입체-투영으로-쿼터니언4d-숫자-시각화-3blue1brown](#입체-투영으로-쿼터니언4d-숫자-시각화-3blue1brown)
@@ -249,10 +255,13 @@ https://youtu.be/cpRgDDoGktk?si=qa8mwYFozUndljND
 https://hewonjeong.github.io/orthogonality/
 
 
-# 허수(Imaginary number, 𝑖ℝ , 𝕀 , 𝔍 )는 어떻게 만들어 졌을까? : 지면 실업자가 되는 수학 배틀 
+# 허수(Imaginary number, 𝑖ℝ , 𝕀 , 𝔍 )는 어떻게 만들어 졌을까? : 지면 실업자가 되는 수학 배틀[[🔝]](#link)
 
 - https://economiceco.tistory.com/m/15511
 
-# 이산 수학(discrete mathematics)❤책에 나오는 수학용어 영어로 ❤️정리(자연수ℕ, 정수ℤ...등등) 
+![img1 daumcdn](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/8a84c58a-ed02-48c4-ada0-23eba082f27b)
+![img1 daumcdn](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/ee45a2e9-6f93-4215-a7b4-8018b6f6aa5d)
+
+# 이산 수학(discrete mathematics)❤책에 나오는 수학용어 영어로 ❤️정리(자연수ℕ, 정수ℤ...등등)[[🔝]](#link)
 
 - https://economiceco.tistory.com/m/12911
