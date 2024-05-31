@@ -147,6 +147,22 @@ Approximate timing for various operations on a typical PC:<p>
     
 </table>
 
+<hr>
+
+|Operation|ns|µs|ms|note|
+|-|-|-|-|-|
+|L1 cache reference|0.5 ns||||
+||||||
+||||||
+||||||
+||||||
+||||||
+
+
+
+<hr>
+
+
 - https://ko.m.wikipedia.org/wiki/%EB%B0%80%EB%A6%AC
 
 <table class="toccolours"><caption><b><a href="/wiki/SI_%EC%A0%91%EB%91%90%EC%96%B4" title="SI 접두어">SI 접두어</a></b><br><span style="font-size:small;"><span class="noprint plainlinks plainlinksneverexpand" style="white-space:nowrap; font-weight:normal; font-size:smaller; ;"><a href="/wiki/%ED%8B%80:SI_%EC%A0%91%EB%91%90%EC%96%B4" title="틀:SI 접두어"><span title="이 틀을 보기" style=";">v</span></a> <span style="font-size:smaller;">•</span> <a href="/w/index.php?title=%ED%8B%80%ED%86%A0%EB%A1%A0:SI_%EC%A0%91%EB%91%90%EC%96%B4&amp;action=edit&amp;redlink=1" class="new" title="틀토론:SI 접두어 (없는 문서)"><span title="이 틀에 대한 토론" style=";">d</span></a> <span style="font-size:smaller;">•</span> <a class="external text" href="https://ko.wikipedia.org/w/index.php?title=%ED%8B%80:SI_%EC%A0%91%EB%91%90%EC%96%B4&amp;action=edit"><span title="이 틀을 편집할 수 있습니다. 단, 저장하기 전에 미리 보기로 결과를 확인하여 주십시오." style=";">e</span></a> <span style="font-size:smaller;">•</span> <a class="external text" href="https://ko.wikipedia.org/w/index.php?title=%ED%8B%80:SI_%EC%A0%91%EB%91%90%EC%96%B4&amp;action=history"><span title="이 틀의 역사를 볼 수 있습니다." style=";">h</span></a></span></span>
