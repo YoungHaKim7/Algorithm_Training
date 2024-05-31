@@ -247,3 +247,12 @@ https://youtu.be/cpRgDDoGktk?si=qa8mwYFozUndljND
 
 # 직교성 (Orthogonality[[🔝]](#link)
 https://hewonjeong.github.io/orthogonality/
+
+
+# 허수(Imaginary number, 𝑖ℝ , 𝕀 , 𝔍 )는 어떻게 만들어 졌을까? : 지면 실업자가 되는 수학 배틀 
+
+- https://economiceco.tistory.com/m/15511
+
+# 이산 수학(discrete mathematics)❤책에 나오는 수학용어 영어로 ❤️정리(자연수ℕ, 정수ℤ...등등) 
+
+- https://economiceco.tistory.com/m/12911
