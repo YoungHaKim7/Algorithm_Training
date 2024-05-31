@@ -210,16 +210,14 @@ https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/ampere_maxwel
 
 <hr>
 
-# n차원 이해하기(n차원 세계에서 일어나는 믿을 수 없는 신기한 현상!! | 12 Math[[🔝]](#link)
-
-- https://youtu.be/EXHR2-hECRM?si=w0upBH2l9W3xHXjO
-
 <hr>
 
 # 위상수학
 
 # 3차원 쌍곡 공간의 강직성: 유한 부피에서 무한 부피까지 [3] 2024년 2월 23일[[🔝]](#link)
 - https://horizon.kias.re.kr/27045/
+
+<hr>
 
 <hr>
 
@@ -235,3 +233,14 @@ https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/ampere_maxwel
 
 # 입체 투영으로 쿼터니언(4d 숫자) 시각화| 3Blue1Brown
 https://youtu.be/d4EgbgTm0Bg?si=yTm8-X8ARBHF8cTU
+
+
+# n차원 이해하기(n차원 세계에서 일어나는 믿을 수 없는 신기한 현상!! | 12 Math[[🔝]](#link)
+
+- https://youtu.be/EXHR2-hECRM?si=w0upBH2l9W3xHXjO
+
+# 내적 외적 이해
+https://youtu.be/cpRgDDoGktk?si=qa8mwYFozUndljND
+
+# 직교성 (Orthogonality
+https://hewonjeong.github.io/orthogonality/
