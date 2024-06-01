@@ -253,6 +253,7 @@ https://youtu.be/cpRgDDoGktk?si=qa8mwYFozUndljND
 
 - [ 벡터의 내적과 외적 비교 ](https://rfriend.tistory.com/search/%EB%82%B4%EC%A0%81%EA%B3%BC%20%EC%99%B8%EC%A0%81)
   - (comparison between inner(or dot) product and outer(or cross) product of vector)
+![img1 daumcdn](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/af9ed591-ec97-470c-ba1d-ae1247b2b541)
 
 - 출처: [https://rfriend.tistory.com/search/내적과 외적](https://rfriend.tistory.com/search/%EB%82%B4%EC%A0%81%EA%B3%BC%20%EC%99%B8%EC%A0%81) [R, Python 분석과 프로그래밍의 친구 (by R Friend):티스토리]
 
