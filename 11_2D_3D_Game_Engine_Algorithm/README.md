@@ -251,6 +251,12 @@ https://youtu.be/d4EgbgTm0Bg?si=yTm8-X8ARBHF8cTU
 # 내적 외적 이해[[🔝]](#link)
 https://youtu.be/cpRgDDoGktk?si=qa8mwYFozUndljND
 
+- [ 벡터의 내적과 외적 비교 ](https://rfriend.tistory.com/search/내적과 외적)
+(comparison between inner(or dot) product and outer(or cross) product of vector)
+출처: https://rfriend.tistory.com/search/내적과 외적 [R, Python 분석과 프로그래밍의 친구 (by R Friend):티스토리]
+
+
+
 # 직교성 (Orthogonality[[🔝]](#link)
 https://hewonjeong.github.io/orthogonality/
 
