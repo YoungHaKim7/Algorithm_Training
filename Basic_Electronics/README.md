@@ -1,3 +1,8 @@
+# 대한민국에서도 초전도 전선이 이미 사용되고 있다?! 초전도 케이블의 원리와 장점은?! 전기공학자는 어떻게 초전도체를 활용하나? 2부 (한국전기연구원 김성규 박사)
+- https://youtu.be/sevV4oXrtH8?si=oajhlyl4WXSxWY5N
+
+<hr>
+
 # Basic Electronics Part 1
 
 https://youtu.be/nb4ovfwqup8?si=nZGsn0covHriq0Lo
