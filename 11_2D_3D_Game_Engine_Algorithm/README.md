@@ -270,6 +270,9 @@ https://hewonjeong.github.io/orthogonality/
 ![img1 daumcdn](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/8a84c58a-ed02-48c4-ada0-23eba082f27b)
 ![img1 daumcdn](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/ee45a2e9-6f93-4215-a7b4-8018b6f6aa5d)
 
+# 다차원이해와 허수
+- https://youtu.be/G3UZyJ3RG2o?si=OvNryFU-WzFRjiX0
+
 # 이산 수학(discrete mathematics)❤책에 나오는 수학용어 영어로 ❤️정리(자연수ℕ, 정수ℤ...등등)[[🔝]](#link)
 
 - https://economiceco.tistory.com/m/12911
