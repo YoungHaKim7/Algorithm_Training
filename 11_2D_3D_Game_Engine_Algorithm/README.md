@@ -276,3 +276,8 @@ https://hewonjeong.github.io/orthogonality/
 # 이산 수학(discrete mathematics)❤책에 나오는 수학용어 영어로 ❤️정리(자연수ℕ, 정수ℤ...등등)[[🔝]](#link)
 
 - https://economiceco.tistory.com/m/12911
+
+<hr>
+
+# Writing a Physics Engine from scratch | Pezzza's Work
+- https://youtu.be/lS_qeBy3aQI?si=YBq9nGbzMDISR-xC
