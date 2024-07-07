@@ -277,6 +277,10 @@ https://hewonjeong.github.io/orthogonality/
 
 - https://economiceco.tistory.com/m/12911
 
+# Quick Understanding of Homogeneous Coordinates for Computer Graphics | Miolith
+
+- https://youtu.be/o-xwmTODTUI?si=ibZnxrrPtfW5uEwB
+
 <hr>
 
 # Writing a Physics Engine from scratch | Pezzza's Work
