@@ -294,3 +294,11 @@ https://hewonjeong.github.io/orthogonality/
 
 # 백지 상태에서 미분 완전 정복 3시간 | 침착맨[[🔝]](#link)
 - https://youtu.be/WVgJzNtJh-w?si=gb1W9VU--Gnc128k
+
+<hr>
+
+# Animation vs. Geometry | Alan Becker
+
+- https://youtu.be/VEJWE6cpqw0?si=oB_OXtc8E9V8dsu_
+
+<hr>
