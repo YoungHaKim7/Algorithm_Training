@@ -277,11 +277,16 @@ https://hewonjeong.github.io/orthogonality/
 
 - https://economiceco.tistory.com/m/12911
 
-# Quick Understanding of Homogeneous Coordinates for Computer Graphics | Miolith
+# Quick Understanding of Homogeneous Coordinates for Computer Graphics | Miolith[[🔝]](#link)
 
 - https://youtu.be/o-xwmTODTUI?si=ibZnxrrPtfW5uEwB
 
 <hr>
 
-# Writing a Physics Engine from scratch | Pezzza's Work
+# Writing a Physics Engine from scratch | Pezzza's Work[[🔝]](#link)
 - https://youtu.be/lS_qeBy3aQI?si=YBq9nGbzMDISR-xC
+
+<hr>
+
+# 백지 상태에서 미분 완전 정복 3시간 | 침착맨[[🔝]](#link)
+- https://youtu.be/WVgJzNtJh-w?si=gb1W9VU--Gnc128k
