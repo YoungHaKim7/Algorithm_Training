@@ -297,8 +297,13 @@ https://hewonjeong.github.io/orthogonality/
 
 <hr>
 
-# Animation vs. Geometry | Alan Becker
+# Animation vs. Geometry | Alan Becker[[🔝]](#link)
 
 - https://youtu.be/VEJWE6cpqw0?si=oB_OXtc8E9V8dsu_
 
 <hr>
+
+# Voronoi Edges Explained Part. 1 | Yusef28[[🔝]](#link)
+
+
+https://youtu.be/g2bILAVIIvM?si=QrE41zrOxR2R0LRM
