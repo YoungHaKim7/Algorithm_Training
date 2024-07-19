@@ -167,6 +167,13 @@ Approximate timing for various operations on a typical PC:<p>
 |Send packet CA -> Netherlands -> CA|150,000,000 ns|150,000 µs|150 ms||
 
 
+# 지그 창시자가 설명해 주는 Operation Cost in CPU Cycles & Andrew Kelley Practical Data Oriented Design (DoD)[[🔝]](#link)
+![Screenshot 2024-07-19 at 9 24 35 PM](https://github.com/user-attachments/assets/e863900c-6bf1-4a83-8585-0150d514c5f3)
+
+- Andrew Kelley Practical Data Oriented Design (DoD) | ChimiChanga(5min50sec)
+  - https://youtu.be/IroPQ150F6c?si=tOxqzFtk5hkuWwYt 
+
+
 <hr>
 
 
