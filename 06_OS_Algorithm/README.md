@@ -1,3 +1,8 @@
+# 전체적인 큰틀잡기(System Design Concepts Course and Interview Prep | freeCodeCamp.org)
+- https://youtu.be/F2FmTdLtb_4?si=5V0XvqbTPS8gQDKj
+
+<hr>
+
 # Kernel 공부하기 
 
 https://git.kernel.org/
