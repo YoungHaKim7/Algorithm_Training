@@ -305,5 +305,9 @@ https://hewonjeong.github.io/orthogonality/
 
 # Voronoi Edges Explained Part. 1 | Yusef28[[🔝]](#link)
 
-
 https://youtu.be/g2bILAVIIvM?si=QrE41zrOxR2R0LRM
+
+<hr>
+
+# (MATHEMATICS) 3차원 공간의 흐름(2024년 7월 25일)[[🔝]](#link)
+- https://horizon.kias.re.kr/29431/
