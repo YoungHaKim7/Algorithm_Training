@@ -1,3 +1,6 @@
+# (C언어 개발자)네트워크 기초 이론 | 널널한 개발자 TV
+- https://youtube.com/playlist?list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy&si=oe3t1S-HFtPxw0y3
+
 # 네트워크 기초 무료 강의 | 새내기 개발자들을 위한 필수 가이드 ,ARP  | 크래프트맨 멘탈리티
 
 - https://youtu.be/dsoAkoxZ13o?si=OaqPkyXtvybagCnP
