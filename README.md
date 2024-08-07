@@ -11,7 +11,8 @@
   - [마크-다운에-수학-공식-넣는-방법](#마크-다운에-수학-공식-넣는-방법)
 
 - [사람의-눈보다-더-빨리-움직이는-걸-볼-수-있다면--우리-눈이-볼-수-없는-세계-1-초고속의-순간-bbc--세상의-모든-다큐](#사람의-눈보다-더-빨리-움직이는-걸-볼-수-있다면--우리-눈이-볼-수-없는-세계-1-초고속의-순간-bbc--세상의-모든-다큐)
-  - [지그-창시자가-설명해-주는-operation-cost-in-cpu-cycles--andrew-kelley-practical-data-oriented-design-dod](#지그-창시자가-설명해-주는-operation-cost-in-cpu-cycles--andrew-kelley-practical-data-oriented-design-dod) 
+  - [지그-창시자가-설명해-주는-operation-cost-in-cpu-cycles--andrew-kelley-practical-data-oriented-design-dod](#지그-창시자가-설명해-주는-operation-cost-in-cpu-cycles--andrew-kelley-practical-data-oriented-design-dod)
+    - [시대별로-단위가-생긴거-표로-잘-정리됨mertic_prefix_pico_kilo_nanoetc](#시대별로-단위가-생긴거-표로-잘-정리됨mertic_prefix_pico_kilo_nanoetc)
   - [프로그래머가-알아야-할-지연-시간-숫자를-시각적으로-표현](#프로그래머가-알아야-할-지연-시간-숫자를-시각적으로-표현)
   - [무작위-속-질서-중심극한정리--확률과-통계--3blue1brown-한국어](#무작위-속-질서-중심극한정리--확률과-통계--3blue1brown-한국어)
   - [애니매이션으로-모든-물리학-공식과-같이-연관-되어-보기-진짜-대박-최고](#애니매이션으로-모든-물리학-공식과-같이-연관-되어-보기-진짜-대박-최고-)
