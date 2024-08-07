@@ -174,6 +174,223 @@ Approximate timing for various operations on a typical PC:<p>
 - Andrew Kelley Practical Data Oriented Design (DoD) | ChimiChanga(5min50sec)
   - https://youtu.be/IroPQ150F6c?si=tOxqzFtk5hkuWwYt 
 
+<hr>
+
+# 시대별로 단위가 생긴거 표로 잘 정리됨(Mertic_prefix_pico_kilo_nano..etc.[[🔝]](#link)
+
+- https://en.wikipedia.org/wiki/Metric_prefix
+
+<table class="wikitable" style="padding: 0; text-align: center; width: 0">
+<caption><style data-mw-deduplicate="TemplateStyles:r1045256916">.mw-parser-output .navbar-header{text-align:center;position:relative;white-space:nowrap}.mw-parser-output .navbar-header .navbar{position:absolute;right:0;top:0;margin:0 5px}</style><div class="navbar-header"><a class="mw-selflink selflink">SI prefixes</a><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1236085633">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:SI_prefixes_(infobox)" title="Template:SI prefixes (infobox)"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:SI_prefixes_(infobox)" title="Template talk:SI prefixes (infobox)"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:SI_prefixes_(infobox)" title="Special:EditPage/Template:SI prefixes (infobox)"><abbr title="Edit this template">e</abbr></a></li></ul></div></div>
+</caption>
+<tbody><tr>
+<th colspan="2">Prefix</th>
+<th rowspan="2">Base 10
+</th>
+<th rowspan="2"><a href="/wiki/Decimal" title="Decimal">Decimal</a>
+</th>
+<th rowspan="2">Adoption<br /><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;nb 1&#93;</a></sup>
+</th></tr>
+<tr>
+<th>Name</th>
+<th>Symbol
+</th></tr>
+<tr>
+<td>quetta</td>
+<td>Q</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#1030" title="Orders of magnitude (numbers)">10<sup>30</sup></a>
+</td>
+<td style="text-align:right; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span></td>
+<td rowspan="2">2022<sup id="cite_ref-newUnitAdoption_4-0" class="reference"><a href="#cite_note-newUnitAdoption-4">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ronna</td>
+<td>R</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#1027" title="Orders of magnitude (numbers)">10<sup>27</sup></a>
+</td>
+<td style="text-align:right; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span>
+</td></tr>
+<tr>
+<td>yotta</td>
+<td>Y</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#1024" title="Orders of magnitude (numbers)">10<sup>24</sup></a>
+</td>
+<td style="text-align:right; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span></td>
+<td rowspan="2">1991
+</td></tr>
+<tr>
+<td>zetta</td>
+<td>Z</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#1021" title="Orders of magnitude (numbers)">10<sup>21</sup></a>
+</td>
+<td style="text-align:right; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span>
+</td></tr>
+<tr>
+<td>exa</td>
+<td>E</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#1018" title="Orders of magnitude (numbers)">10<sup>18</sup></a>
+</td>
+<td style="text-align:right; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span></td>
+<td rowspan="2">1975<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>peta</td>
+<td>P</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#1015" title="Orders of magnitude (numbers)">10<sup>15</sup></a>
+</td>
+<td style="text-align:right; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span>
+</td></tr>
+<tr>
+<td>tera</td>
+<td>T</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#1012" title="Orders of magnitude (numbers)">10<sup>12</sup></a>
+</td>
+<td style="text-align:right; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span></td>
+<td rowspan="2">1960
+</td></tr>
+<tr>
+<td><a href="/wiki/Giga-" title="Giga-">giga</a></td>
+<td>G</td>
+<td style="text-align:left;"><a href="/wiki/1,000,000,000" title="1,000,000,000">10<sup>9</sup></a>
+</td>
+<td style="text-align:right; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mega-" title="Mega-">mega</a></td>
+<td>M</td>
+<td style="text-align:left;"><a href="/wiki/1,000,000" title="1,000,000">10<sup>6</sup></a>
+</td>
+<td style="text-align:right; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span></td>
+<td>1873
+</td></tr>
+<tr>
+<td><a href="/wiki/Kilo-" title="Kilo-">kilo</a></td>
+<td>k</td>
+<td style="text-align:left;"><a href="/wiki/1000_(number)" title="1000 (number)">10<sup>3</sup></a>
+</td>
+<td style="text-align:right; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span></span></td>
+<td rowspan="3">1795
+</td></tr>
+<tr>
+<td><a href="/wiki/Hecto-" title="Hecto-">hecto</a></td>
+<td>h</td>
+<td style="text-align:left;"><a href="/wiki/100" title="100">10<sup>2</sup></a></td>
+<td style="text-align:right; font-variant-numeric: tabular-nums;">100
+</td></tr>
+<tr>
+<td><a href="/wiki/Deca-" title="Deca-">deca</a></td>
+<td>da</td>
+<td style="text-align:left;"><a href="/wiki/10" title="10">10<sup>1</sup></a></td>
+<td style="text-align:right; font-variant-numeric: tabular-nums;">10
+</td></tr>
+<tr style="background:#EAECF0;color:black;">
+<td>—</td>
+<td>—</td>
+<td style="text-align:left;"><a href="/wiki/1" title="1">10<sup>0</sup></a></td>
+<td style="font-variant-numeric: tabular-nums;">1</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/Deci-" title="Deci-">deci</a></td>
+<td>d</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#10-1" title="Orders of magnitude (numbers)">10<sup>−1</sup></a>
+</td>
+<td style="text-align:left; font-variant-numeric: tabular-nums;">0.1</td>
+<td rowspan="3">1795
+</td></tr>
+<tr>
+<td><a href="/wiki/Centi-" title="Centi-">centi</a></td>
+<td>c</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#10−2" title="Orders of magnitude (numbers)">10<sup>−2</sup></a>
+</td>
+<td style="text-align:left; font-variant-numeric: tabular-nums;">0.01
+</td></tr>
+<tr>
+<td><a href="/wiki/Milli-" title="Milli-">milli</a></td>
+<td>m</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#10−3" title="Orders of magnitude (numbers)">10<sup>−3</sup></a>
+</td>
+<td style="text-align:left; font-variant-numeric: tabular-nums;">0.001
+</td></tr>
+<tr>
+<td><a href="/wiki/Micro-" title="Micro-">micro</a></td>
+<td>μ</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#10−6" title="Orders of magnitude (numbers)">10<sup>−6</sup></a>
+</td>
+<td style="text-align:left; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">001</span></span></td>
+<td>1873
+</td></tr>
+<tr>
+<td><a href="/wiki/Nano-" title="Nano-">nano</a></td>
+<td>n</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#10−9" title="Orders of magnitude (numbers)">10<sup>−9</sup></a>
+</td>
+<td style="text-align:left; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">001</span></span></td>
+<td rowspan="2">1960
+</td></tr>
+<tr>
+<td>pico</td>
+<td>p</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#10−12" title="Orders of magnitude (numbers)">10<sup>−12</sup></a>
+</td>
+<td style="text-align:left; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">001</span></span>
+</td></tr>
+<tr>
+<td>femto</td>
+<td>f</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#10−15" title="Orders of magnitude (numbers)">10<sup>−15</sup></a>
+</td>
+<td style="text-align:left; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">001</span></span></td>
+<td rowspan="2">1964
+</td></tr>
+<tr>
+<td>atto</td>
+<td>a</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#10−18" title="Orders of magnitude (numbers)">10<sup>−18</sup></a>
+</td>
+<td style="text-align:left; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">001</span></span>
+</td></tr>
+<tr>
+<td>zepto</td>
+<td>z</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#10−21" title="Orders of magnitude (numbers)">10<sup>−21</sup></a>
+</td>
+<td style="text-align:left; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">001</span></span></td>
+<td rowspan="2">1991
+</td></tr>
+<tr>
+<td>yocto</td>
+<td>y</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#10−24" title="Orders of magnitude (numbers)">10<sup>−24</sup></a>
+</td>
+<td style="text-align:left; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">001</span></span>
+</td></tr>
+<tr>
+<td>ronto</td>
+<td>r</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#10−27" title="Orders of magnitude (numbers)">10<sup>−27</sup></a>
+</td>
+<td style="text-align:left; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">001</span></span></td>
+<td rowspan="2">2022<sup id="cite_ref-newUnitAdoption_4-1" class="reference"><a href="#cite_note-newUnitAdoption-4">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<td>quecto</td>
+<td>q</td>
+<td style="text-align:left;"><a href="/wiki/Orders_of_magnitude_(numbers)#10−30" title="Orders of magnitude (numbers)">10<sup>−30</sup></a>
+</td>
+<td style="text-align:left; font-variant-numeric: tabular-nums;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">001</span></span>
+</td></tr>
+<tr>
+<td style="text-align: left;" colspan="5">
+<dl><dt>Notes</dt></dl>
+<style data-mw-deduplicate="TemplateStyles:r1217336898">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Prefixes adopted before 1960 already existed before SI. The introduction of the <a href="/wiki/Centimetre%E2%80%93gram%E2%80%93second_system_of_units" title="Centimetre–gram–second system of units">CGS system</a> was in 1873.</span>
+</li>
+</ol></div></div>
+</td></tr></tbody></table>
+
+- https://en.wikipedia.org/wiki/Metric_prefix
 
 <hr>
 
