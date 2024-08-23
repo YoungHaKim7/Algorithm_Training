@@ -1,3 +1,9 @@
+# (함수시리즈 ep4) 로그, 세상을 단순하게 바꿔 보기 | 수학 취미로 하는 직장인
+- https://youtu.be/mjugrlIds_8?si=ZSgHjO0Gznw1kVd9
+
+
+<hr>
+
 # 수학기호와 의미
 
 - https://pigbrain.github.io/math/2015/07/15/MathematicalSymbol_on_Math
