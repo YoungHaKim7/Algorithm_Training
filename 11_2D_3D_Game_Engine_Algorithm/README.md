@@ -24,8 +24,8 @@
 - Ray Tracing관련
   - [Ray Tracing Harmonic Functions | Mark Gillespie](#ray-tracing-harmonic-functions)
 
-- The Rotating Coordinate System
-  - []() 
+- The Rotating Coordinate System(회전하면서 그림을 그리네 ㅎㅎ 3D로 그림으로 설명해줌 굿)
+  - [To Master Physics, First Master The Rotating Coordinate System | Dialect](#to-master-physics-first-master-the-rotating-coordinate-system--dialect) 
 
 <hr>
 
@@ -326,5 +326,5 @@ https://youtu.be/g2bILAVIIvM?si=QrE41zrOxR2R0LRM
 
 <hr>
 
-# To Master Physics, First Master The Rotating Coordinate System | Dialect
+# To Master Physics, First Master The Rotating Coordinate System | Dialect[[🔝]](#link)
 - https://youtu.be/pD9NxA1aV7E?si=UY05Zemzy72ve0-3
