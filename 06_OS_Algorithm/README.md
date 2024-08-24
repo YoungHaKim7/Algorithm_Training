@@ -3,6 +3,10 @@
 - paging
   - [understanding mmap, the workhorse behind keeping memory access efficient in linux | Chris Kanich](#understanding-mmap-the-workhorse-behind-keeping-memory-access-efficient-in-linux--chris-kanich) 
 
+- Memory
+  - [Introduction to Memory Management in Linux | The Linux Foundation]()
+
+
 <hr>
 
 # 전체적인 큰틀잡기(System Design Concepts Course and Interview Prep | freeCodeCamp.org)
@@ -276,3 +280,11 @@ https://en.wikipedia.org/wiki/Page_fault
 
 # understanding mmap, the workhorse behind keeping memory access efficient in linux | Chris Kanich[|🔝|](#link)
 - https://youtu.be/8hVLcyBkSXY?si=58j8xcsTYLeIcFhw
+
+
+<hr>
+
+# Memory
+
+# Introduction to Memory Management in Linux | The Linux Foundation[|🔝|](#link)
+- https://youtu.be/7aONIVSXiJ8?si=vrOXOYZ4R1MZAqpS
