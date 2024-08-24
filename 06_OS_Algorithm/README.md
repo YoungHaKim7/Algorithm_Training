@@ -1,7 +1,7 @@
 # link
 
 - paging
-  - [understanding mmap, the workhorse behind keeping memory access efficient in linux | Chris Kanich]() 
+  - [understanding mmap, the workhorse behind keeping memory access efficient in linux | Chris Kanich](#understanding-mmap-the-workhorse-behind-keeping-memory-access-efficient-in-linux--chris-kanich) 
 
 <hr>
 
@@ -275,3 +275,4 @@ https://en.wikipedia.org/wiki/Page_fault
 <hr>
 
 # understanding mmap, the workhorse behind keeping memory access efficient in linux | Chris Kanich[|🔝|](#link)
+- https://youtu.be/8hVLcyBkSXY?si=58j8xcsTYLeIcFhw
