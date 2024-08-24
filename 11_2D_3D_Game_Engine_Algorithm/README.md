@@ -21,6 +21,9 @@
   - [내적-외적-이해(머신 러닝 기초](#내적-외적-이해)
   - [직교성-orthogonality_내적_외적을 이해하기 위한 상식basic](#직교성-orthogonality)
 
+- Ray Tracing관련
+  - [Ray Tracing Harmonic Functions | Mark Gillespie](#ray-tracing-harmonic-functions)
+
 <hr>
 
 - 기초지식
@@ -316,4 +319,4 @@ https://youtu.be/g2bILAVIIvM?si=QrE41zrOxR2R0LRM
 
 # Ray Tracing Harmonic Functions[[🔝]](#link)
 - https://youtu.be/oDwedIuqh5Q?si=WPMYFULvJIESeyRX
-Mark Gillespie
+  - Mark Gillespie
