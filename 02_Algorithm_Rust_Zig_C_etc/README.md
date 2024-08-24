@@ -176,3 +176,8 @@ https://github.com/tomoyanonymous/nannou-web-template
   - https://m.blog.naver.com/occidere/220923695595
 - 그래프 알고리즘 ㅜㅜ 외계어구만
   - https://velog.io/@boyeon_jeong/그래프-종류-및-개념
+
+<hr>
+
+# 6. Binary Trees, Part 1 | MIT OpenCourseWare[[🔝]](#link)
+- https://youtu.be/76dhtgZt38A?si=eQPBrJ6TbEs0TJih
