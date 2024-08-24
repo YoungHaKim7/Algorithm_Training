@@ -6,7 +6,7 @@
 - Memory
   - [Introduction to Memory Management in Linux | The Linux Foundation](#introduction-to-memory-management-in-linux--the-linux-foundation)
 
-- [Unix system calls (1/2) | Brian Will]
+- [Unix system calls (1/2) | Brian Will](#unix-system-calls-12--brian-will)
 
 <hr>
 
