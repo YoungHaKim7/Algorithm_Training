@@ -6,6 +6,7 @@
 - Memory
   - [Introduction to Memory Management in Linux | The Linux Foundation](#introduction-to-memory-management-in-linux--the-linux-foundation)
 
+- [Unix system calls (1/2) | Brian Will]
 
 <hr>
 
@@ -288,3 +289,8 @@ https://en.wikipedia.org/wiki/Page_fault
 
 # Introduction to Memory Management in Linux | The Linux Foundation[|🔝|](#link)
 - https://youtu.be/7aONIVSXiJ8?si=vrOXOYZ4R1MZAqpS
+
+<hr>
+
+# Unix system calls (1/2) | Brian Will[|🔝|](#link)
+- https://youtu.be/xHu7qI1gDPA?si=LeFegKQ2dah6m5gJ
