@@ -7,11 +7,12 @@
   - [Introduction to Memory Management in Linux | The Linux Foundation](#introduction-to-memory-management-in-linux--the-linux-foundation)
 
 - [Unix system calls (1/2) | Brian Will](#unix-system-calls-12--brian-will)
+- [Unix system calls (2/2) | Brian Will]()
 
 <hr>
 
 - Hardware Basics
-  - [Hardware Basics | Brian Will]()
+  - [Hardware Basics | Brian Will](#hardware-basics--brian-will)
 
 <hr>
 
@@ -299,6 +300,10 @@ https://en.wikipedia.org/wiki/Page_fault
 
 # Unix system calls (1/2) | Brian Will[|🔝|](#link)
 - https://youtu.be/xHu7qI1gDPA?si=LeFegKQ2dah6m5gJ
+
+# Unix system calls (2/2) | Brian Will[|🔝|](#link)
+- https://youtu.be/2DrjQBL5FMU?si=PsStpBPY0sPoy8jZ
+
 
 <hr>
 
