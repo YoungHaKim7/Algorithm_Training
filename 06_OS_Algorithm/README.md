@@ -10,6 +10,11 @@
 
 <hr>
 
+- Hardware Basics
+  - [Hardware Basics | Brian Will]()
+
+<hr>
+
 # 전체적인 큰틀잡기(System Design Concepts Course and Interview Prep | freeCodeCamp.org)
 - https://youtu.be/F2FmTdLtb_4?si=5V0XvqbTPS8gQDKj
 
@@ -294,3 +299,8 @@ https://en.wikipedia.org/wiki/Page_fault
 
 # Unix system calls (1/2) | Brian Will[|🔝|](#link)
 - https://youtu.be/xHu7qI1gDPA?si=LeFegKQ2dah6m5gJ
+
+<hr>
+
+# Hardware Basics | Brian Will[|🔝|](#link)
+- https://youtu.be/9-KUm9YpPm0?si=f0qUhAp5wo4RmCDg
