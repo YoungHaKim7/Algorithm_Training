@@ -1,3 +1,11 @@
+# 눈으로 보는 영상 수학 모음
+
+# The most beautiful equation in math, explained visually [Euler’s Formula] | Welch Labs
+- https://youtu.be/f8CXG7dS-D0?si=zDgZ2HOOR9W2dgUA
+
+
+<hr>
+
 # (함수시리즈 ep4) 로그, 세상을 단순하게 바꿔 보기 | 수학 취미로 하는 직장인
 - https://youtu.be/mjugrlIds_8?si=ZSgHjO0Gznw1kVd9
 
