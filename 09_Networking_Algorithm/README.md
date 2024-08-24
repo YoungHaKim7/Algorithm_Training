@@ -2,8 +2,11 @@
 - https://youtube.com/playlist?list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy&si=oe3t1S-HFtPxw0y3
 
 # 네트워크 기초 무료 강의 | 새내기 개발자들을 위한 필수 가이드 ,ARP  | 크래프트맨 멘탈리티
-
 - https://youtu.be/dsoAkoxZ13o?si=OaqPkyXtvybagCnP
+
+# Computer Networking Course - Network Engineering [CompTIA Network+ Exam Prep] | freeCodeCamp.org
+- https://youtu.be/qiQR5rTSshw?si=9LAvwOQybPLVh3nN
+
 
 <hr>
 
