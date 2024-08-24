@@ -2,6 +2,8 @@
 
 - [그래프알고리즘 이해(기초)](#그래프-알고리즘-이해)
 
+- [알고리즘별 성능비교Big-O]()
+
 <hr>
 
 # Rust_ Algorithms[[🔝]](#link)
@@ -181,3 +183,5 @@ https://github.com/tomoyanonymous/nannou-web-template
 
 # 6. Binary Trees, Part 1 | MIT OpenCourseWare[[🔝]](#link)
 - https://youtu.be/76dhtgZt38A?si=eQPBrJ6TbEs0TJih
+
+![Screenshot 2024-08-24 at 8 57 50 PM](https://github.com/user-attachments/assets/3289fa3f-8535-4917-80b2-38aa73b89278)
