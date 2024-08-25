@@ -9,7 +9,7 @@
 
 - Memory
   - [리눅스 `mmap` man-pages로 알아보기(SysCall명령어 중 하나 `mmap`)](https://man7.org/linux/man-pages/man2/mmap.2.html)
-    - [Why Linux Has This Syscall?! | Tsoding]() 
+    - [Why Linux Has This Syscall?! | Tsoding](#why-linux-has-this-syscall--tsoding) 
   - [Introduction to Memory Management in Linux | The Linux Foundation](#introduction-to-memory-management-in-linux--the-linux-foundation)
 
   - [Unix system calls (1/2) | Brian Will](#unix-system-calls-12--brian-will)
