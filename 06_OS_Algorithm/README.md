@@ -8,11 +8,12 @@
   - [understanding mmap, the workhorse behind keeping memory access efficient in linux | Chris Kanich](#understanding-mmap-the-workhorse-behind-keeping-memory-access-efficient-in-linux--chris-kanich) 
 
 - Memory
-  - [리눅스 `mmap` man-pages로 알아보기(SysCall명령어 중 하나 `mmap`)](https://man7.org/linux/man-pages/man2/mmap.2.html) 
+  - [리눅스 `mmap` man-pages로 알아보기(SysCall명령어 중 하나 `mmap`)](https://man7.org/linux/man-pages/man2/mmap.2.html)
+    - [Why Linux Has This Syscall?! | Tsoding]() 
   - [Introduction to Memory Management in Linux | The Linux Foundation](#introduction-to-memory-management-in-linux--the-linux-foundation)
 
-- [Unix system calls (1/2) | Brian Will](#unix-system-calls-12--brian-will)
-- [Unix system calls (2/2) | Brian Will](#unix-system-calls-22--brian-will)
+  - [Unix system calls (1/2) | Brian Will](#unix-system-calls-12--brian-will)
+  - [Unix system calls (2/2) | Brian Will](#unix-system-calls-22--brian-will)
 
 <hr>
 
@@ -308,6 +309,9 @@ https://en.wikipedia.org/wiki/Page_fault
 
 # Unix system calls (2/2) | Brian Will[|🔝|](#link)
 - https://youtu.be/2DrjQBL5FMU?si=PsStpBPY0sPoy8jZ
+
+# Why Linux Has This Syscall?! | Tsoding[|🔝|](#link)
+- https://youtu.be/sFYFuBzu9Ow?si=bivoPK1h2zuY2zXx
 
 
 <hr>
