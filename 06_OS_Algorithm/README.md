@@ -1,5 +1,9 @@
 # link
 
+- [Linux Man검색최고man-pages](https://man7.org/linux/man-pages/man1/man.1.html)
+
+<hr>
+
 - paging
   - [understanding mmap, the workhorse behind keeping memory access efficient in linux | Chris Kanich](#understanding-mmap-the-workhorse-behind-keeping-memory-access-efficient-in-linux--chris-kanich) 
 
