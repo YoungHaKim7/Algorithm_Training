@@ -8,6 +8,7 @@
   - [understanding mmap, the workhorse behind keeping memory access efficient in linux | Chris Kanich](#understanding-mmap-the-workhorse-behind-keeping-memory-access-efficient-in-linux--chris-kanich) 
 
 - Memory
+  - [리눅스 `mmap` man-pages로 알아보기](https://man7.org/linux/man-pages/man2/mmap.2.html) 
   - [Introduction to Memory Management in Linux | The Linux Foundation](#introduction-to-memory-management-in-linux--the-linux-foundation)
 
 - [Unix system calls (1/2) | Brian Will](#unix-system-calls-12--brian-will)
