@@ -1,3 +1,8 @@
+# link
+- [일반상대성 이론 이해하기 General Relativity Lecture 1 | Stanford]()
+
+<hr>
+
 # 눈으로 보는 영상 수학 모음
 
 # The most beautiful equation in math, explained visually [Euler’s Formula] | Welch Labs
@@ -103,3 +108,8 @@ https://youtu.be/spUNpyF58BY
 
 # 뉴턴 vs 라이프니치의 미적분 이야기 | 문명과 수학 | EBS 컬렉션 - 사이언스
 - https://youtu.be/GJO-52Xm6JU?si=eeKIAaDbj7NirGlz
+
+<hr>
+
+# 일반상대성 이론 이해하기 General Relativity Lecture 1 | Stanford
+- https://youtu.be/JRZgW1YjCKk?si=j_jkmTrcVEgJi_DA
