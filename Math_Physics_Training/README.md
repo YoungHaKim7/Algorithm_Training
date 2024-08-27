@@ -3,6 +3,9 @@
 # The most beautiful equation in math, explained visually [Euler’s Formula] | Welch Labs
 - https://youtu.be/f8CXG7dS-D0?si=zDgZ2HOOR9W2dgUA
 
+# ‘쓸모없다’는 냉대를 받았던 허수 i. 수의 영역을 확장한 상상(수학역사) | EBS지식
+- https://youtu.be/1cojxmkf7cc?si=KAVwsN2ZC9qy8Y5M
+
 
 <hr>
 
