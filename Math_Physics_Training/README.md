@@ -12,6 +12,10 @@
 # (함수시리즈 ep4) 로그, 세상을 단순하게 바꿔 보기 | 수학 취미로 하는 직장인
 - https://youtu.be/mjugrlIds_8?si=ZSgHjO0Gznw1kVd9
 
+# 고등수학과 대학수학의 가장 큰 차이 - 극한의 진짜 정의 - 엡실론은 무엇인가 | 12 Math
+- https://youtu.be/vn4lUf6T028?si=IsyuP3CF74m-WaKo
+
+
 
 <hr>
 
