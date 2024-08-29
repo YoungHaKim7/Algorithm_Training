@@ -113,3 +113,6 @@ https://youtu.be/spUNpyF58BY
 
 # 일반상대성 이론 이해하기 General Relativity Lecture 1 | Stanford
 - https://youtu.be/JRZgW1YjCKk?si=j_jkmTrcVEgJi_DA
+
+# General Relativity Lecture 2
+- https://youtu.be/5VKyRVLMMQ4?si=eoAwXjm0hKEHxE6t
