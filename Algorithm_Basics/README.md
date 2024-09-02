@@ -8,6 +8,11 @@ https://github.com/gaerae/awesome-algorithms-education/blob/master/readme-ko.md
 
 <hr>
 
+# 1. Algorithms and Computation | MIT OpenCourseWare
+- https://youtu.be/ZA-tUyM_y7s?si=0Jgx59-aTw49PvP7
+
+<hr>
+
 # 4차원 도형 만들기(The Tesseract)
 - https://youtu.be/iGO12Z5Lw8s?si=CZHU8mwQsVmXhhDI
 
