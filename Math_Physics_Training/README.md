@@ -116,3 +116,8 @@ https://youtu.be/spUNpyF58BY
 
 # General Relativity Lecture 2
 - https://youtu.be/5VKyRVLMMQ4?si=eoAwXjm0hKEHxE6t
+
+<hr>
+
+# 디랙 방정식 (1) | Dongwoo Cha
+- https://youtu.be/nUhLG8j6dO4?si=uphdKzduC5oqXgPL
