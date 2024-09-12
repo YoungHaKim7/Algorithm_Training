@@ -1,6 +1,10 @@
 # link
 - [일반상대성 이론 이해하기 General Relativity Lecture 1 | Stanford](#일반상대성-이론-이해하기-general-relativity-lecture-1--stanford)
 
+- [4차원 시공간 | Dongwoo Cha](https://youtu.be/c65OwSBIxUA?si=g5gwyogiCeoiwDik)
+
+- [디랙 방정식 (1) | Dongwoo Cha](https://youtu.be/nUhLG8j6dO4?si=uphdKzduC5oqXgPL)
+
 <hr>
 
 # 눈으로 보는 영상 수학 모음
@@ -119,5 +123,9 @@ https://youtu.be/spUNpyF58BY
 
 <hr>
 
-# 디랙 방정식 (1) | Dongwoo Cha
-- https://youtu.be/nUhLG8j6dO4?si=uphdKzduC5oqXgPL
+
+
+
+<hr>
+
+
