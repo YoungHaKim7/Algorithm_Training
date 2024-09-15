@@ -5,7 +5,8 @@
 <hr>
 
 - paging
-  - [understanding mmap, the workhorse behind keeping memory access efficient in linux | Chris Kanich](#understanding-mmap-the-workhorse-behind-keeping-memory-access-efficient-in-linux--chris-kanich) 
+  - [understanding mmap, the workhorse behind keeping memory access efficient in linux | Chris Kanich](#understanding-mmap-the-workhorse-behind-keeping-memory-access-efficient-in-linux--chris-kanich)
+  - [Segmented, Paged and Virtual Memory | Computer Science](https://youtu.be/p9yZNLeOj4s?si=NiomZmDu-ddSAuGk)
 
 - Memory
   - [리눅스 `mmap` man-pages로 알아보기(SysCall명령어 중 하나 `mmap`)](https://man7.org/linux/man-pages/man2/mmap.2.html)
