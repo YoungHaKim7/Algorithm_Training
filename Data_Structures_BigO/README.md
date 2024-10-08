@@ -68,6 +68,10 @@ https://dev.to/deciduously/big-o-cheat-sheet-3i7d
 
 # Big-o-Cheat-sheet
 
+![Screenshot 2024-10-08 at 9 58 03 PM](https://github.com/user-attachments/assets/28cfb269-f2c0-4232-9c43-319e23311958)
+
+![3_types_of_algorithms](https://github.com/user-attachments/assets/59f88d07-badb-4f5e-b46f-4f6eca50595a)
+
 ![big-o-cheat-sheet-poster](https://user-images.githubusercontent.com/67513038/236633081-7365b27e-a749-4b27-b8bd-717dd3911e76.png)
 
 ![bio-o-](https://user-images.githubusercontent.com/67513038/236633173-26995f68-24df-46ec-92df-ef6204d7ec7c.png)
