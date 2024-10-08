@@ -68,6 +68,8 @@ https://dev.to/deciduously/big-o-cheat-sheet-3i7d
 
 # Big-o-Cheat-sheet
 
+- [출처: 8 Data Structures Every Programmer Should Know | ForrestKnight](https://youtu.be/gxdQiBkidWk?si=C2-UJ4dpCE1OgJvp)
+
 ![Screenshot 2024-10-08 at 9 58 03 PM](https://github.com/user-attachments/assets/28cfb269-f2c0-4232-9c43-319e23311958)
 
 ![3_types_of_algorithms](https://github.com/user-attachments/assets/59f88d07-badb-4f5e-b46f-4f6eca50595a)
