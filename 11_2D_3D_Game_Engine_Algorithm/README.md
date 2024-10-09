@@ -37,6 +37,13 @@
 
 <hr>
 
+- 다양한 움직임의 알고리즘 모음
+  - [연구원들은 이것이 버그라고 생각했습니다(Borwein 적분) |3Blue1Brown](https://youtu.be/851U557j6HE?si=USgO2Q1vqB1_G6D_)
+
+<hr>
+
+
+
 <hr>
 
 # 양자역학은 여기에 정리 중.[[🔝]](#link)
