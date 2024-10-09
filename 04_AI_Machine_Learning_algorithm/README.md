@@ -12,6 +12,11 @@
 - AGI 발견 후 OpenAI 연구자들이 이사회에 경고! 내부 소식통이 발견한 Q* 알고리즘은 AGI를 개발했다는데… 대체 어떤 알고리즘일까요?
   - https://youtu.be/2gc3ZnZTY8E?si=7SmEUICSQW2xaKBr
 
+<hr>
+
+# Terence Tao at IMO 2024: AI and Mathematics | AIMO Prize
+- https://youtu.be/e049IoFBnLA?si=olIU8q7XEzg3uQD_
+
 
 <hr>
 
