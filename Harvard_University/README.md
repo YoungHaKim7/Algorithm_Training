@@ -13,6 +13,10 @@ https://youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf
 - Advanced Algorithms (COMPSCI 224), Lecture 3  
   - 
 
+<hr />
+
+# Lisa Piccirillo: Exotic Phenomena in dimension 4 | Harvard Mathematics Department
+- https://youtu.be/BXwALAkPubc?si=pnXP9KlphXbjbeuV
 
 
 
