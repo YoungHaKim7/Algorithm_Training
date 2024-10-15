@@ -1,3 +1,14 @@
+# link
+
+
+<hr/ >
+
+# Leetcode설명 기초
+
+- [(240831) 70 Leetcode problems in 5+ hours (every data structure) (full tutorial) | stoney codes](https://youtu.be/lvO88XxNAzs?si=q70CbbT29GbdpRXh)
+
+<hr />
+
 # 선형대수학을 시각적으로 먼저 이해해야 하는 이유 | 3Blue1Brown 한국어
 
 - https://youtu.be/ic_hG2M2nG0?si=U_Lqkk2z67GF6FRQ
