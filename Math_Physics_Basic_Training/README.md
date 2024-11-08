@@ -8,6 +8,8 @@
 - 적분 모음
   - [[강연] 움직이는 세상을 표현한 수학의 언어, 미적분 2_by 김민형 / 2024 카오스강연 '세상에 나쁜 수학은 없다' 시즌2 1강 두 번째 이야기 | 카오스 사이언스](https://youtu.be/z_Gw3AHGJB0?si=2yqKa_zXJQdqEIuS)
 
+- [수포자, 다들어와]전기기초수학 & 계산기 활용법 | 배러데이 소현쌤](https://youtu.be/5WOdNgDpyn8?si=uuwX1Vg8smXW-uUv)
+
 <hr>
 
 # 눈으로 보는 영상 수학 모음
