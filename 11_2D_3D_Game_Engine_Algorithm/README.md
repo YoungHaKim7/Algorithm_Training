@@ -42,6 +42,12 @@
 
 <hr>
 
+- Tensor관련
+  - [The Meaning of the Metric Tensor | Dialect](https://youtu.be/Dn0ZZRVuJcU?si=M3OfGtyvSraD6p60)
+
+
+<hr />
+
 
 
 <hr>
