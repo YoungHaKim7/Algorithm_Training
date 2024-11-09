@@ -24,7 +24,7 @@
 - Ray Tracing관련
   - [Ray Tracing Harmonic Functions | Mark Gillespie](#ray-tracing-harmonic-functions)
 
-- The Rotating Coordinate System(회전하면서 그림을 그리네 ㅎㅎ 3D로 그림으로 설명해줌 굿)
+- The Rotating Coordinate System(회전하면서 그림을 그리네 ㅎㅎ 3D로 그림으로 설명해줌 굿)
   - [To Master Physics, First Master The Rotating Coordinate System | Dialect](#to-master-physics-first-master-the-rotating-coordinate-system--dialect) 
 
 <hr>
