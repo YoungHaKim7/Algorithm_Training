@@ -44,7 +44,7 @@
 
 - Tensor관련
   - [The Meaning of the Metric Tensor | Dialect](https://youtu.be/Dn0ZZRVuJcU?si=M3OfGtyvSraD6p60)
-
+  - [What is a tensor | Tenor calculus | Tensor calculus for physics | Tensor calculus msc mathematics](https://youtu.be/vQ0NAWoyOAk?si=PRzYhnVHxQD9ZaBQ)
 
 <hr />
 
