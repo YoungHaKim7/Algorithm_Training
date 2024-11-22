@@ -15,7 +15,7 @@
 
 - https://youtu.be/ic_hG2M2nG0?si=U_Lqkk2z67GF6FRQ
 
-# aswesome-algorithms-education
+# awesome-algorithms-education
 https://github.com/gaerae/awesome-algorithms-education/blob/master/readme-ko.md
 
 
