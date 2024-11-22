@@ -1,7 +1,7 @@
 # link
 
 - [Calculus 2 - Full College Course | freeCodeCamp.org](https://youtu.be/7gigNsz4Oe8?si=nkJSca_STj92pfOy)
-
+  - [Precalculus Course | freeCodeCamp.org](https://youtu.be/eI4an8aSsgw?si=KYTt0ytYOvDa23Xi)
 
 <hr />
 
