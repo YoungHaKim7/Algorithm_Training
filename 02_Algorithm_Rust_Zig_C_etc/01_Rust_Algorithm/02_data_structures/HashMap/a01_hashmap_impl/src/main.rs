@@ -1,6 +1,6 @@
 use std::{collections::HashMap, hash::Hash};
 
-const CHACHE_SIZE: usize = 100;
+const CHACHE_SIZE: usize = 128;
 
 #[derive(Debug)]
 struct Entry<K, V> {
