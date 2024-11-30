@@ -20,7 +20,10 @@ struct LRUCache<K, V> {
     entries: Vec<Entry<K, V>>,
 }
 
-impl<K: Clone + Hash + Eq, V> LRUCache<K, V> {
+impl<K, V> LRUCache<K, V>
+where
+    K: Clone + Hash + Eq,
+{
     fn new() -> Self {
         Self::with_capacity(CHACHE_SIZE)
     }
