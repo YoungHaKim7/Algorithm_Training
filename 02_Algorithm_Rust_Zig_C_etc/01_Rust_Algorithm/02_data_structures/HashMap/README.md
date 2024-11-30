@@ -1,0 +1,1 @@
+- https://github.com/rust-lang/rust/blob/master/library/std/src/collections/hash/map.rs
