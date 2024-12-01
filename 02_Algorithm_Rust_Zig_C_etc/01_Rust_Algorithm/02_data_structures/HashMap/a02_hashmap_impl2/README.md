@@ -12,12 +12,12 @@ cache check : LRUCache {
         0,
     ),
     map: {
-        "qux": 3,
-        "bar": 1,
-        "quux": 4,
-        "corge": 5,
-        "baz": 2,
         "foo": 0,
+        "bar": 1,
+        "corge": 5,
+        "qux": 3,
+        "quux": 4,
+        "baz": 2,
     },
     entries: [
         Entry {
@@ -93,12 +93,12 @@ cache check : LRUCache {
         0,
     ),
     map: {
-        "qux": 3,
-        "bar": 1,
-        "quux": 4,
-        "corge": 5,
-        "baz": 2,
         "foo": 0,
+        "bar": 1,
+        "corge": 5,
+        "qux": 3,
+        "quux": 4,
+        "baz": 2,
     },
     entries: [
         Entry {

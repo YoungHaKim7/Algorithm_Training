@@ -1,5 +1,4 @@
-// Hashmap impl
-
+// Hashmap impl ver02
 use std::{collections::HashMap, hash::Hash};
 
 const CHACHE_SIZE: usize = 128;

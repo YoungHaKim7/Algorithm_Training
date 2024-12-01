@@ -1,5 +1,5 @@
 [package]
-name = "a02_hash_impl"
+name = "a02_hashmap_impl2"
 version = "0.1.0"
 edition = "2021"
 
