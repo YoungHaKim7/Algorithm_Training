@@ -22,6 +22,9 @@ https://en.wikipedia.org/wiki/Tensor
 
 - [행렬 기본 연산 | 선형대수학의 행렬방법, 파트 1 | MATLAB Korea](https://youtu.be/ZlId8c6p09o?si=nxj8XmPKMiLMLDOL)
 
+# Linear Algebra | Khan Academy(모아보기 140개 넘음 ㅠㅠ)
+- https://youtube.com/playlist?list=PLFD0EB975BA0CC1E0&si=AUx_2CqUhmxd6JTW
+
 <hr />
 
 # 라플라스 변환을 이해하기 쉽게 시각화로 설명해보았다 | Physics Videos by Eugene Khutoryansky
