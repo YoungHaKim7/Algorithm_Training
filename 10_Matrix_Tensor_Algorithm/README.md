@@ -10,6 +10,16 @@ https://en.wikipedia.org/wiki/Tensor
 
   - https://www.youtube.com/live/qWJuxJkzl6U?si=Fz72_TrwRzSPCflh 
 
+<hr />
+
+# (241225)행렬 곱셈의 원리와 쓸모 | 선형대수학의 행렬방법, (시리즈 모아보기) | MATLAB Korea 
+
+- [행렬 곱셈의 원리와 쓸모 | 선형대수학의 행렬방법, 파트 2 | MATLAB Korea](https://youtu.be/DHGqXk3Oe7g?si=sI0EWozNd5s412qO)
+
+- [행렬 기본 연산 | 선형대수학의 행렬방법, 파트 1 | MATLAB Korea](https://youtu.be/ZlId8c6p09o?si=nxj8XmPKMiLMLDOL)
+
+<hr />
+
 # 라플라스 변환을 이해하기 쉽게 시각화로 설명해보았다 | Physics Videos by Eugene Khutoryansky
 
 https://youtu.be/6MXMDrs6ZmA?si=vb35StoZVoSryGJR
