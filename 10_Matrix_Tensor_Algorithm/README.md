@@ -12,6 +12,10 @@ https://en.wikipedia.org/wiki/Tensor
 
 <hr />
 
+# Essence of linear algebra | 3Blue1Brown(모아보기)
+- [Essence of linear algebra | 3Blue1Brown(모아보기)](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=_ZWh5rVyXllrFenG)
+
+
 # (241225)행렬 곱셈의 원리와 쓸모 | 선형대수학의 행렬방법, (시리즈 모아보기) | MATLAB Korea 
 
 - [행렬 곱셈의 원리와 쓸모 | 선형대수학의 행렬방법, 파트 2 | MATLAB Korea](https://youtu.be/DHGqXk3Oe7g?si=sI0EWozNd5s412qO)
