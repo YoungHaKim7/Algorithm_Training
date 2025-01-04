@@ -1,4 +1,13 @@
 # link
+
+- 물리학 역사
+  - [물리학의 발전 지도(The map of physics)_33](https://youtu.be/h6_dj8VIoN0?si=e_2DpjYRvhl9lwyH)
+
+- 물리학 기초
+  - [아인슈타인이 바라본 전기력 ⚡️ 과 자기력 🧲](https://youtu.be/4bJzl21eN5Y?si=-a0lC8iyI4s9bJ5d)
+
+<hr />
+
 - [일반상대성 이론 이해하기 General Relativity Lecture 1 | Stanford](#일반상대성-이론-이해하기-general-relativity-lecture-1--stanford)
 
 - [4차원 시공간 | Dongwoo Cha](https://youtu.be/c65OwSBIxUA?si=g5gwyogiCeoiwDik)
