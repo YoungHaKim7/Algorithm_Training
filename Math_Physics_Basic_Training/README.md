@@ -2,7 +2,7 @@
 
 - 물리학 역사
   - [물리학의 발전 지도(The map of physics)_33](https://youtu.be/h6_dj8VIoN0?si=e_2DpjYRvhl9lwyH)
-  - [KAIST김갑진 교수의 고전 물리하과 현대 물리학(양자역학까지 통합본으로 정리](../11_2D_3D_Game_Engine_Algorithm#양자역학은-여기에-정리-중)
+  - [KAIST김갑진 교수의 고전 물리학과 현대 물리학(양자역학까지 통합본으로 정리](../11_2D_3D_Game_Engine_Algorithm#양자역학은-여기에-정리-중)
     - [고전물리는(물체의 운동 2개), (전기와 자기 4개 공식) 다 설명가능 ..현대 물리는 양자역학추가하면됨.](../11_2D_3D_Game_Engine_Algorithm#고전물리의-완성-19세기말-물체의-운동-2개--전기와-자기로-이세상-설명이-다-가능함)
 - 물리학 기초
   - [아인슈타인이 바라본 전기력 ⚡️ 과 자기력 🧲](https://youtu.be/4bJzl21eN5Y?si=-a0lC8iyI4s9bJ5d)
