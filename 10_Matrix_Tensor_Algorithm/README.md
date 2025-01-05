@@ -12,6 +12,11 @@ https://en.wikipedia.org/wiki/Tensor
 
 <hr />
 
+# 행렬식(determinant)
+- https://youtu.be/HvORPEChk6Y?si=zdsffk0mhzF8OLWh
+
+<hr />
+
 # Essence of linear algebra | 3Blue1Brown(모아보기)
 - [Essence of linear algebra | 3Blue1Brown(모아보기)](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=_ZWh5rVyXllrFenG)
 
