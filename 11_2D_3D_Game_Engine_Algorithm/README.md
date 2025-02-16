@@ -20,6 +20,7 @@
   - [n차원-이해하기n차원-세계에서-일어나는-믿을-수-없는-신기한-현상--12-math](#n차원-이해하기n차원-세계에서-일어나는-믿을-수-없는-신기한-현상--12-math)
   - [내적-외적-이해(머신 러닝 기초](#내적-외적-이해)
   - [직교성-orthogonality_내적_외적을 이해하기 위한 상식basic](#직교성-orthogonality)
+  - [(외부링크)3차원으로 좌표를 이용한 이해Quantum Projections | Physics Videos by Eugene Khutoryansky](https://youtu.be/0efTmbk6hf8?si=p6g8b9hu2enOr2YA)
 
 - Ray Tracing관련
   - [Ray Tracing Harmonic Functions | Mark Gillespie](#ray-tracing-harmonic-functions)
