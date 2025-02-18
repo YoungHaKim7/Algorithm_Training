@@ -10,6 +10,10 @@ https://en.wikipedia.org/wiki/Tensor
 
   - https://www.youtube.com/live/qWJuxJkzl6U?si=Fz72_TrwRzSPCflh 
 
+# 그림으로 이해What are Tensor Cores? | Simon O
+- https://youtu.be/Cak8ASX7NOk?si=drQVjlfZ8GFo10Or
+
+
 <hr />
 
 # 행렬식(determinant)
