@@ -24,6 +24,10 @@ https://en.wikipedia.org/wiki/Tensor
 # Essence of linear algebra | 3Blue1Brown(모아보기)
 - [Essence of linear algebra | 3Blue1Brown(모아보기)](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=_ZWh5rVyXllrFenG)
 
+<hr />
+
+# matrix기초강의
+- [250303이얼 전공수학| Lay 선형대수학 제13강 -1.9절 선형변환과 행렬(2) | linear_algebra | 선형변환 | 이얼 수학 아카데미](https://youtu.be/XhsqeXHn07I?si=6kpVBMKk2YczNMA7)
 
 # (241225)행렬 곱셈의 원리와 쓸모 | 선형대수학의 행렬방법, (시리즈 모아보기) | MATLAB Korea 
 
