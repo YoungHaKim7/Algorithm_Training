@@ -20,6 +20,9 @@
 
 - [수포자, 다들어와_전기기초수학 & 계산기 활용법 | 배러데이 소현쌤](https://youtu.be/5WOdNgDpyn8?si=uuwX1Vg8smXW-uUv)
 
+- 미적분 기초
+  - [(외부링크) 230926《미적분학의 본질》 시리즈 전편 몰아보기 | 3Blue1Brown 한국어](https://youtu.be/wvi4FuO-Rhs?si=-vYWCia5BXctLZfk)
+
 <hr>
 
 # 눈으로 보는 영상 수학 모음
