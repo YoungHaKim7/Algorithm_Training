@@ -22,6 +22,7 @@
 
 - 미적분 기초
   - [(외부링크) 230926《미적분학의 본질》 시리즈 전편 몰아보기 | 3Blue1Brown 한국어](https://youtu.be/wvi4FuO-Rhs?si=-vYWCia5BXctLZfk)
+  - [(외부링크) 미적분을 알아야 하는 이유](https://youtu.be/k6IOywoZSoI?si=e1iVAltlmbskEFCP)
 
 <hr>
 
