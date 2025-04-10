@@ -3,6 +3,8 @@
 - [Calculus 2 - Full College Course | freeCodeCamp.org](https://youtu.be/7gigNsz4Oe8?si=nkJSca_STj92pfOy)
   - [Precalculus Course | freeCodeCamp.org](https://youtu.be/eI4an8aSsgw?si=KYTt0ytYOvDa23Xi)
 
+- [표로 이 세상 모든 숫자 이해하기](https://youtu.be/sxPGDJ-uXV0?si=c_M2cW49U1eWMrrp)
+
 <hr />
 
 # Leetcode설명 기초
