@@ -49,6 +49,8 @@
 
 <hr />
 
+- 4차원 이해
+  - [250426(외부링크)4차원 시공간을 이해하는 방법(민코프스키 시공간)](https://youtu.be/HgujaMy5SL8?si=gbOUvh5cBQpc71Qz
 
 
 <hr>
