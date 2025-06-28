@@ -6,6 +6,12 @@ https://youtu.be/TBx_GxaLBKg?si=fwXu2jfZtzPGD_sa
 
 <hr>
 
+# 세상에서 가장 쓸모 있는 10분⏱️ 전기자기학의 바탕을 만든 맥스웰의 4가지 방정식 진짜 쉽게 알려드리겠습니다! #과학 #EBS지식
+- EBS 지식
+  - https://youtu.be/Xv2CRGTFa8M?si=ekEoICBar1WoQWCE
+
+<hr />
+
 # Basic Electronics Part 1
 
 https://youtu.be/nb4ovfwqup8?si=nZGsn0covHriq0Lo
