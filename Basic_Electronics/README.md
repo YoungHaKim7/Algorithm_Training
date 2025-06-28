@@ -10,6 +10,10 @@ https://youtu.be/TBx_GxaLBKg?si=fwXu2jfZtzPGD_sa
 - EBS 지식
   - https://youtu.be/Xv2CRGTFa8M?si=ekEoICBar1WoQWCE
 
+# 전기와 자기의 짜릿한 만남! 둘은 어떻게 하나가 되었나? (feat. 김갑진 교수) [취미는 과학/ 32화 확장판] | EBS 컬렉션 - 사이언스
+- https://youtu.be/-mqeimMdc-w?si=tmR12Gex8Y43t288
+
+
 <hr />
 
 # Basic Electronics Part 1
