@@ -7,6 +7,27 @@
 
 <hr />
 
+#  12분 만에 모든 컴퓨터 과학 대학 과정 설명
+Flash Bytes
+- https://youtu.be/Ob7fjjUieko?si=J5wsfhAYh-o2LU07
+------------------------------------------------------------------------------------------------------------
+챕터:
+0:00 프로그래밍 입문
+[0:40](https://youtu.be/Ob7fjjUieko?si=pIMGTOphvjEi5A2o&t=40) 알고리즘 및 자료 구조
+[1:29](https://youtu.be/Ob7fjjUieko?si=pIMGTOphvjEi5A2o&t=89) 이산 수학
+[2:45](https://youtu.be/Ob7fjjUieko?si=pIMGTOphvjEi5A2o&t=165) 컴퓨터 구조
+[3:39](https://youtu.be/Ob7fjjUieko?si=pIMGTOphvjEi5A2o&t=219) 미적분
+[4:43](https://youtu.be/Ob7fjjUieko?si=pIMGTOphvjEi5A2o&t=283) 선형 대수
+[5:32](https://youtu.be/Ob7fjjUieko?si=pIMGTOphvjEi5A2o&t=332) 데이터베이스
+[6:13](https://youtu.be/Ob7fjjUieko?si=pIMGTOphvjEi5A2o&t=373) 네트워킹
+[6:47](https://youtu.be/Ob7fjjUieko?si=pIMGTOphvjEi5A2o&t=407) 계산 이론
+[7:46](https://youtu.be/Ob7fjjUieko?si=pIMGTOphvjEi5A2o&t=466) 확률 및 통계
+[8:46](https://youtu.be/Ob7fjjUieko?si=pIMGTOphvjEi5A2o&t=526) 머신 러닝
+[9:32](https://youtu.be/Ob7fjjUieko?si=pIMGTOphvjEi5A2o&t=572) 사이버 보안
+[10:30](https://youtu.be/Ob7fjjUieko?si=pIMGTOphvjEi5A2o&t=630) 컴퓨터 그래픽 및 게임 개발
+[11:14](https://youtu.be/Ob7fjjUieko?si=pIMGTOphvjEi5A2o&t=674) 임베디드 시스템 및 사물 인터넷(IoT)
+[11:43](https://youtu.be/Ob7fjjUieko?si=pIMGTOphvjEi5A2o&t=703) 빅데이터 및 데이터 과학
+
 # Leetcode설명 기초
 
 - [(240831) 70 Leetcode problems in 5+ hours (every data structure) (full tutorial) | stoney codes](https://youtu.be/lvO88XxNAzs?si=q70CbbT29GbdpRXh)
