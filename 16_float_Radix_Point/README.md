@@ -1,3 +1,10 @@
+# 부동소수점(浮動小數點, floating point) 또는 떠돌이 소수점 방식
+
+- https://ko.wikipedia.org/wiki/%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90
+- https://en.wikipedia.org/wiki/Floating-point_arithmetic
+
+<hr />
+
 # 8진수 소수점 표현법
 - https://coding-factory.tistory.com/652
 
