@@ -43,4 +43,36 @@ $$ x\times 2^2 | x\times 2^1 | x\times 2^0 | x\times 2^{-1}| x\times 2^{-2}| x\t
 |0.5|0.25|0.125|
 
 
+# python으로 테스트
+
+
+```bash
+$ python3
+Python 3.10.12 (main, Feb  4 2025, 14:57:36) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 0b001
+1
+>>> 0b011
+3
+>>> 0o88
+  File "<stdin>", line 1
+    0o88
+      ^
+SyntaxError: invalid digit '8' in octal literal
+>>> 0x0012
+18
+>>> oct(088)
+  File "<stdin>", line 1
+    oct(088)
+        ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+>>> a = 88
+>>> oct(a)
+'0o130'
+>>> oct(99)
+'0o143'
+>>> 0x10
+16
+>>>
+```
 <hr />
