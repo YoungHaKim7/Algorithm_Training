@@ -44,7 +44,7 @@ $$ x\times 2^2 | x\times 2^1 | x\times 2^0 | x\times 2^{-1}| x\times 2^{-2}| x\t
 
 
 # python으로 테스트
-
+- 출처 : https://blog.naver.com/youndok/222304270396
 
 ```bash
 $ python3
