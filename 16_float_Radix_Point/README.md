@@ -23,7 +23,9 @@ $$ x\times 16^2 | x\times 16^1 | x\times 16^0 | x\times 16^{-1}| x\times 16^{-2}
 
 # 8 진법
 
-- 123. (dec)
+$$ x\times 8^2 | x\times 8^1 | x\times 8^0 | x\times 8^{-1}| x\times 8^{-2}| x\times 8^{-3}| $$
+
+- 0o123.123 (octo)
 
 |8 * 8^-1|8 * 8^-2|8 * 8^-3|
 |-|-|-|
@@ -32,7 +34,9 @@ $$ x\times 16^2 | x\times 16^1 | x\times 16^0 | x\times 16^{-1}| x\times 16^{-2}
 
 # 2 진법
 
-- 123. (dec)
+$$ x\times 2^2 | x\times 2^1 | x\times 2^0 | x\times 2^{-1}| x\times 2^{-2}| x\times 2^{-3}| $$
+
+- 0b123.123 (binary)
 
 |2 * 2^-1|2 * 2^-2|2 * 2^-3|
 |-|-|-|
