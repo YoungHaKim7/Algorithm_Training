@@ -7,6 +7,9 @@
 - 물리학 기초
   - [아인슈타인이 바라본 전기력 ⚡️ 과 자기력 🧲 | 석군 seokkun](https://youtu.be/4bJzl21eN5Y?si=-a0lC8iyI4s9bJ5d)
 
+- 초끈 이론
+  - [(초끈이론)물의 최소 단위는 입자가 아니라 끈이다? 우주의 모든 것을 설명할 수 있는 단 하나의 이론 #과학 #EBS지식]()
+
 <hr />
 
 - [일반상대성 이론 이해하기 General Relativity Lecture 1 | Stanford](#일반상대성-이론-이해하기-general-relativity-lecture-1--stanford)
@@ -142,6 +145,13 @@ https://youtu.be/spUNpyF58BY
 
 <hr>
 
+# (초끈이론)물의 최소 단위는 입자가 아니라 끈이다? 우주의 모든 것을 설명할 수 있는 단 하나의 이론 #과학 #EBS지식
+- EBS 지식
+  -  https://youtu.be/NTqUP3jQfN0?si=0bRO0G5NzDzAD-je
+
+
+
+<hr />
 
 
 
