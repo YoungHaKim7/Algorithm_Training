@@ -1,8 +1,13 @@
 # Harvard CS50 (2023) – Full Computer Science University Course | freeCodeCamp.org
 
-https://youtu.be/LfaMVlDaQ24?si=PI_6N2vHgvEfQUs_
+- https://youtu.be/LfaMVlDaQ24?si=PI_6N2vHgvEfQUs_
 
-<hr>
+<hr />
+
+# Richard Feynman: Can Machines Think? | Lex Clips
+- https://youtu.be/ipRvjS7q1DI?si=sg0LTCGU7eOnIBzx
+
+<hr />
 
 # 2진수 연산 (+ - * /)
 - 수치데이터의 표현 원리
