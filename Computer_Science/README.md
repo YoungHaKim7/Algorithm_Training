@@ -1,3 +1,6 @@
+# (영상모아보기)Livestream - Computer Architecture - ETH Zürich (Fall 2022) |  Onur Mutlu Lectures
+- https://youtube.com/playlist?list=PL5Q2soXY2Zi-cAls3cyauNzM7-74Eq31O&si=o3BkaCWsKtvzxUI2
+
 # Harvard CS50 (2023) – Full Computer Science University Course | freeCodeCamp.org
 
 - https://youtu.be/LfaMVlDaQ24?si=PI_6N2vHgvEfQUs_
@@ -50,3 +53,4 @@ https://www.youtube.com/live/XKNU0A2GAnM?si=FLB7qzaieh-4zEMR
 
 # Registers, RAM, and ROM Explained 🖥️💾🔍 | Computer Science #coding #programming #softwareengineering 
 https://youtube.com/shorts/eG4KVGsbMXM?si=GKluGMzVzrobsz2O
+
