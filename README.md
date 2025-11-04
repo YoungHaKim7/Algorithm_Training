@@ -14,7 +14,7 @@
   - [지그-창시자가-설명해-주는-operation-cost-in-cpu-cycles--andrew-kelley-practical-data-oriented-design-dod](#지그-창시자가-설명해-주는-operation-cost-in-cpu-cycles--andrew-kelley-practical-data-oriented-design-dod)
     - [시대별로-단위가-생긴거-표로-잘-정리됨mertic_prefix_pico_kilo_nanoetc](#시대별로-단위가-생긴거-표로-잘-정리됨mertic_prefix_pico_kilo_nanoetc)
   - [프로그래머가-알아야-할-지연-시간-숫자를-시각적으로-표현](#프로그래머가-알아야-할-지연-시간-숫자를-시각적으로-표현)
-    - [(9분30초 부터 보면 됨알고리즘에 10^-9(나노초(1초의 의미)(시간의 한계점?)) 우주의 끝： 시간이 사라지는 순간 | Topic](https://youtu.be/uTIDtXbShjU?si=nZe-3t9wBpQjsc1m&t=570)
+    - [(9분30초 부터 보면 됨_알고리즘에 10^-9(나노초(1초의 의미)(시간의 한계점?)) 우주의 끝： 시간이 사라지는 순간 | Topic](https://youtu.be/uTIDtXbShjU?si=nZe-3t9wBpQjsc1m&t=570)
   - [무작위-속-질서-중심극한정리--확률과-통계--3blue1brown-한국어](#무작위-속-질서-중심극한정리--확률과-통계--3blue1brown-한국어)
   - [애니매이션으로-모든-물리학-공식과-같이-연관-되어-보기-진짜-대박-최고](#애니매이션으로-모든-물리학-공식과-같이-연관-되어-보기-진짜-대박-최고-)
 
@@ -71,7 +71,7 @@
 # 프로그래머가 알아야 할 지연 시간 숫자를 시각적으로 표현[[🔝]](#link)
 **[GN⁺: 모든 프로그래머가 알아야 할 필수 숫자들](<https://news.hada.io/topic?id=13749&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
   - https://samwho.dev/numbers/?fo
-- [(9분30초 부터 보면 됨알고리즘에 10^-9(나노초(1초의 의미)(시간의 한계점?)) 우주의 끝： 시간이 사라지는 순간 | Topic](https://youtu.be/uTIDtXbShjU?si=nZe-3t9wBpQjsc1m&t=570)
+- [(9분30초 부터 보면 됨_알고리즘에 10^-9(나노초(1초의 의미)(시간의 한계점?)) 우주의 끝： 시간이 사라지는 순간 | Topic](https://youtu.be/uTIDtXbShjU?si=nZe-3t9wBpQjsc1m&t=570)
 - **L1 캐시 참조**: 1나노초  
 - **분기 예측 실패**: 3나노초  
 - **L2 캐시 참조**: 4나노초  
